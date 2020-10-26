@@ -3,16 +3,38 @@ output_dir: "."
 navbar:
   title: "Moral Psychology"
   left:
-    - text: "Syllabus"
+    - text: Syllabus
       href: index.html
-    - text: "Course schedule"
+    - text: Course schedule
       href: schedule.html
-    - text: "Lectures"
-      href: lectures.html
+    - text: Lectures
+      menu:
+      - text: "1 - introduction"
+        href: "lectures/1_introduction.html"
     - text: "Homework"
-      href: homework.html
+      menu:
+      - text: "Homework 1"
+        href: "homework/homework_1.html"
+      - text: "Homework 2"
+        href: "homework/homework_2.html"
+      - text: "Homework 3"
+        href: "homework/homework_3.html"
+      - text: "Homework 4"
+        href: "homework/homework_4.html"
     - text: "Quizzes"
-      href: quizzes.html
+      menu:
+      - text: "Quiz 1"
+        href: "quizzes/quiz_1.html"        
+      - text: "Quiz 2"
+        href: "quizzes/quiz_2.html"        
+      - text: "Quiz 3"
+        href: "quizzes/quiz_3.html"        
+      - text: "Quiz 4"
+        href: "quizzes/quiz_4.html"
     - text: "Exams"
-      href: exams.html
-    
+      menu:
+      - text: "Midterm exam"
+        href: "exams/midterm.html" 
+      - text: "Final exam"
+        href: "exams/final.html" 
+

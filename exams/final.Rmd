@@ -1,5 +1,5 @@
 ---
-title: "Course schedule"
+title: "Final exam"
 output:
   html_document:
     theme: flatly

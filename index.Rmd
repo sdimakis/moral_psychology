@@ -31,7 +31,7 @@ In this course, you will be developing important skills that are transferable ou
 When you complete this course, you will earn 4 credits toward your degree. Four credits is equivalent to 120 hours of work across the term, or 12 hours per week for 10 weeks. You will spend 3 hours in class per week, and the remaining 90 hours will be split evenly between readings, homework assignments, and studying for and taking quizzes and exams.
 
 # Required readings
-There is no assigned textbook for this course. All readings will be posted on Canvas at the beginning of the course. Readings should be completed before the class date indicated on the schedule. 
+There is no assigned textbook for this course. PDFs of each reading are posted on the course website under the "schedule" tab. Readings should be completed before the class date indicated on the schedule. 
 
 # Grading
 Your course grade will be determined by the following assignments:
@@ -83,17 +83,19 @@ The following grid provides the letter grade associated with each percent:
 # Policies
 
 ## Late assignment policy
-Please reach out to me in advance to a deadline if you need an extension on an assignment, including a timeframe of when you think you can finish the assignment by. I will not ask for a reason or a doctor’s note. My standard late penalty is 10% off of the assignment per day, but I will have a conversation with you before that is enforced so that you are not penalized for getting sick or having other out of the ordinary circumstances happen to you.
 
+Please reach out to me in advance to a deadline if you need an extension on an assignment, including a timeframe of when you think you can finish the assignment by. I will not ask for a reason or a doctor’s note. My standard late penalty is 10% off of the assignment per day, but I will have a conversation with you before that is enforced so that you are not penalized for getting sick or having other out of the ordinary circumstances happen to you.
 
 ## Special Accommodations
 
 The University of Oregon works to create inclusive learning environments. If there are aspects of the instruction or design of this course that result in disability-related barriers to your participation, please notify me as soon as possible. If you have a documented disability, please request that a counselor at the Accessible Education Center (uoaec@uoregon.edu, 541-346-1155) send a letter verifying the type of accommodation that is appropriate. For a list of resources provided by the Accessible Education Center, please see http://aec.uoregon.edu.
 
 ## Cheating/plagiarism
+
 Any form of academic dishonesty, including getting outside help on assessments and plagiarizing of any kind are not productive to your learning and therefore will not be tolerated in this class. I will follow the procedure to handle misconduct as outlined by the University. This means that instances of suspected cheating or plagiarizing will be reported to the University, and at the very least, you will receive a zero on the assignment. Please familiarize yourself with the University of Oregon’s conduct code, found at http://conduct.uoregon.edu. You are responsible for behaving in accordance with this policy and continued enrollment in this class will be considered implicit agreement that you have read and accepted the terms of that policy. If you have questions about what is considered academic dishonesty for this course, please reach out and ask.
 
 ## Email policy
+
 If you email me, I will get back to you within 24 hours, or 48 hours at the latest. If I do not respond to your email within 24 hours, please resend it because I may have not received it. I recommend attending my office hours (or making an appointment with me) if you have multiple questions, or you would like to brainstorm with me about an assignment, or you would like to go over a past quiz/exam.
 
 ## Diversity and classroom climate

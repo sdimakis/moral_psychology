@@ -8,7 +8,42 @@ output:
     toc_float: yes
 ---
 
-# Hello
+Readings should be completed before the class date indicated on the schedule. 
+
+|Week | Date | Topic             | Readings | Due | 
+|:---:|:-----|:---------------|:---------|:---------|
+| 1   | xx/xx| Defining morality | Syllabus | |
+|    | xx/xx|  Moralization, measuring morality|  | 
+|    | xx/xx|  | |HW1 due Sunday at 11:59pm | 
+| 2   | xx/xx|  The morality of primates| | |
+|    | xx/xx|  Evolutionary theories of morality| |  |
+|    | xx/xx|  | | QUIZ1 due Sunday at 11:59pm |
+| 3   | xx/xx|  Infant morality| |  |
+|    | xx/xx|  Social domain theory| |  |
+|    | xx/xx|  | |HW2 due Sunday at 11:59pm |
+| 4   | xx/xx|  Trolleyology and other moral dilemmas   | |  |
+|    | xx/xx|  Rational models of moral judgments| | |
+|    | xx/xx|  | |QUIZ2 due Sunday at 11:59pm  |
+| 5   | xx/xx|  MIDTERM| | | 
+|    | xx/xx|  The social intuitionist model | | |
+|    | xx/xx|  | | |
+| 6   | xx/xx|  Positive moral emotions| | |
+|    | xx/xx|  Negative moral emotions| | |
+|    | xx/xx|  | |HW3 due Sunday at 11:59pm |
+| 7   | xx/xx|  Cooperation games| | |
+|    | xx/xx|  Altruism| | |
+|    | xx/xx|  | |QUIZ3 due Sunday at 11:59pm |
+| 8   | xx/xx|  Cheating and lying| |  |
+|    | xx/xx|  Moral disengagement| | |
+|    | xx/xx|  | |HW4 due Sunday at 11:59pm |
+| 9   | xx/xx|  Moral systems of conservatives and liberals| | |
+|    | xx/xx|  Changing moral-political beliefs| | |
+|    | xx/xx|  | | QUIZ4 due Sunday at 11:59pm|
+| 10   | xx/xx|  Religion and morality| | |
+|    | xx/xx|  Morality and the law| | |
+|    | xx/xx|  | | |
+| Finals   | xx/xx|  | | | 
+
 
 
 

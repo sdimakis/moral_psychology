@@ -7,17 +7,16 @@ output:
     theme: flatly
     toc: yes
     toc_depth: 3
-    toc_float: yes
-editor_options:
-  chunk_output_type: console
+    toc_float: TRUE
+
 ---
 
 # Instructor
 
-    Sarah Dimakis, M.S.
-    e-mail: sdimakis@uoregon.edu
-    office hours: TBD
-    location: Straub 461
+      Sarah Dimakis, M.S.
+      e-mail: sdimakis@uoregon.edu
+      office hours: TBD
+      location: Straub 461
 
 # Course description
 

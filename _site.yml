@@ -36,5 +36,8 @@ navbar:
       - text: "Midterm exam"
         href: "exams/midterm.html" 
       - text: "Final exam"
-        href: "exams/final.html" 
+        href: "exams/final.html"
+  right:
+    - icon: fa-github
+      href: https://github.com/sdimakis/moral_psychology
 

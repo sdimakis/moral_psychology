@@ -1,0 +1,43 @@
+.red {
+  color: #E74431;
+}
+
+.orange {
+  color: #E79F31;
+}
+
+.yellow {
+  color: #E3E338;
+}
+
+.green {
+  color: #12A766;
+}
+
+.blue {
+  color: #326ACD;
+}
+
+.purple {
+  color: #6832CD;
+}
+
+.large { 
+  font-size: 130% 
+}
+
+.small { 
+  font-size: 70% 
+  
+}
+
+.remark-slide-content {
+    font-size: 25px;
+    padding: 1em 4em 1em 4em;
+}
+
+.bq {
+  border-left: solid 5px lightgray;
+  padding-left: 1em;
+}
+

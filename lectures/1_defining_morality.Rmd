@@ -1,0 +1,132 @@
+---
+title: "Defining morality"
+subtitle: "Moral Psychology"
+institute: "University of Oregon"
+output:
+  xaringan::moon_reader:
+    css: [default, custom.css]
+    lib_dir: libs
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+class: center, middle, inverse
+
+#Defining morality
+##Moral psychology
+###University of Oregon
+
+---
+#Morality
+
+What is .red[morality?] 
+
+
+
+
+---
+
+#Behaviors we consider 'good'
+
+
+
+
+
+---
+
+#Defining morality
+
+Definitions of morality are either **descriptive** or **normative**
+
+--
+
+- **Descriptive**: morality is a system of morals that are endorsed by an individual or a group
+
+  - Morality is whatever a group or individual thinks is moral
+  - E.g., Catholic morality, Democrat morality, Nazi morality
+  
+--
+
+- **Normative**: morality is a code of conduct that would be agreed upon by all "rational" persons
+
+  - Shared beliefs about how we *ought* to act
+  - Ted Bundy doesn't need to agree on this definition
+
+--
+
+Most psychologists care about descriptive theories (what people think is moral) and most philosophers care about normative theories (what people *ought* to think is moral)
+
+---
+
+#Normative moral theories
+
+Utilitarianism is the **normative** moral theory that an action is morally right if it benefits the most people.
+
+
+"[Morality can be defined as...] the rules and precepts for human conduct, by the observance of which [a happy existence] might be, to the greatest extent possible, secured to all mankind. 
+
+.right[-John Stuart Mill, 1861]
+
+
+???
+John Stuart Mill is a 19th century British philosopher. 
+
+
+---
+
+#Normative moral theories
+
+**Deontology** is the normative moral theory that 
+---
+
+#What is morality?
+
+.bq["Whereas conventions are determined by the social system in which they exist and constitute part of the definition of the social system, the moral domain refers to **prescriptive judgments of justice, rights, and welfare pertaining to how people ought to relate to each other.**"]
+
+.right[-Elliot Turiel, 1983]
+
+
+---
+#What is morality?
+
+.bq["Moral systems are interlocking sets of values, virtues, norms, practices, identities, institutions, technologies, and evolved psychological mechanisms that work together to **suppress or regulate selfishness and make cooperative social life possible.**"] 
+
+.right[-Jonathan Haidt, 2010]
+
+???
+
+This is a functionalist definition and an evolutionary one.
+---
+
+???
+
+Descriptive vs. normative moral theories
+
+Relativism vs. 
+There is a universal moral code that would be endorsed by all rational people
+---
+
+
+**.large[Consider the following scenarios...]**
+
+
+A family's dog was killed by a car in front of their house.
+They had heard that dog meat was delicious, so they cut up
+the dog's body and cooked it and ate it for dinner. Nobody
+saw them do this. 
+
+A woman is dying, and on her deathbed she asked her son to promise that he would visit her grave every week. But after the mother died, the son didn't keep his promise, because he was very busy.
+
+A brother and sister like to kiss each other on the mouth. When nobody is around, they find a secret hiding place and kiss each other on the mouth, passionately.
+
+Answer the follow questions: 
+1. Are these actions morally wrong?
+2. Why or why not?
+
+???
+
+A woman is cleaning out her closet, and she finds her old American flag. She doesn't want the flag anymore, so she cuts it up into pieces and uses the rags to clean her bathroom.
+
+A man goes to the supermarket once a week and buys a chicken. But before cooking the chicken, he has sexual intercourse with it. Then he cooks it and eats it.

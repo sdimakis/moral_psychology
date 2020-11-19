@@ -14,6 +14,10 @@
   color: #12A766;
 }
 
+.highlight {
+  background-color: #FEE123;
+}
+
 .blue {
   color: #326ACD;
 }
@@ -39,5 +43,26 @@
 .bq {
   border-left: solid 5px lightgray;
   padding-left: 1em;
+}
+
+
+.left-column-black-text {
+  color: black;
+  width: 30%;
+  height: 92%;
+  float: left;
+}
+
+
+.smaller-picture{
+  color: black;
+  width: 60%;
+  float: left;
+
+}
+
+.words-right-picture{
+  width: 40%;
+  float: right;
 }
 

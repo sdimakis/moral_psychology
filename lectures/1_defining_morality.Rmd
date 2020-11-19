@@ -1,39 +1,92 @@
 ---
-title: "Defining morality"
-subtitle: "Moral Psychology"
-institute: "University of Oregon"
+title: "Defining and measuring morality"
+subtitle: "Lecture 1"
+institute: "Moral psychology"
 output:
   xaringan::moon_reader:
-    css: [default, custom.css]
+    css: [default, chocolate-fonts, custom_theme.css, custom.css]
     lib_dir: libs
-    seal: false
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
 ---
-class: center, middle, inverse
+#Central questions
 
-#Defining morality
-##Moral psychology
-###University of Oregon
+In this course, we are investigating the universal human belief that there is a "right" and a "wrong" way to behave.
+- .highlight[Moral psychology] is the *scientific* study of how humans distinguish right from wrong and act (or fail to act) accordingly. 
+
+--
+
+In this course, we will be investigating questions like:
+- How did we evolve to be a moral species?
+- How do children learn to distinguish 'right' from 'wrong'? 
+- How do we judge actions as 'right' and others as 'good'? 
+- How do we behave immorally with a clear conscience? 
+- How do we endorse different political ideologies?
+
+--
+
+But first, we need a better definition of "morality"
 
 ---
-#Morality
 
-What is .red[morality?] 
+#The Good Place: How Your Life is Scored
 
+.center[
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ut0ai4s4mjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+]
 
-
-
+The Good Place is a TV series set in the afterlife. In the show, when you die, if you've been a 'good person' you go to the Good Place, and if you've been a 'bad person', you go to the Bad Place. This is a clip from the first episode where the characters are introduced to how their goodness was determined.
+ 
 ---
+# Claims
 
-#Behaviors we consider 'good'
+.smaller-picture[<br>![](images/good_bad_behavior.JPG)]
+.words-right-picture[1. All behavior is "good" or "bad"
+2. Some actions are more "bad" than others
+3. Behavior can be assigned an objective moral score]
+???
+For example, committing genocide gives you -430,000 points, while not tipping a waitress was determined to be only -4 points
+---
+# Which actions are "good"?
 
+Let's test these claims. On a piece of paper, order the following actions from right to wrong. Once you're done, compare your rank order with your neighbor(s) and note any disagreements.
 
+  - Donating to a charity.
+  - Developing a vaccine.
+  - Leaving a restaurant without tipping a waitress.
+  - Helping your friend.
+  - Cheating on a test.
 
+???
+Question for class: what did you disagree on and why?
+---
+# What people think is "moral" varies
 
+.pull-left[<u><center><b>Actions</b></u></center>
+- Donating to a charity.
+- Developing a vaccine.
+- Leaving a restaurant without tipping a waitress.
+- Helping your friend.
+- Cheating on a test.
 
+]
+
+.pull-right[<u><center><b>Source of variability</b></u></center>
+- Intentions or consequences
+- Beliefs
+- Culture
+- Context
+- Principles
+]
+
+???
+1. Our actions may be harmful, even when we have good intentions, e.g., not all charities ultimately help who they intend to help (charities) 
+2. We differ in what we believe to be true about our environment, e.g., vaccines are harmful (vaccines), babies are born with souls (abortion)
+3. Cultures differences e.g., in some East Asian cultures, tipping can be perceived as rude (tipping)
+4. Actions may be "good" in some contexts but not others, e.g., helping your friend study would be good, but helping your friend rob a bank may not be as good.
+5. We may value some moral principles over others, e.g., someone may highly endorse the principle "harm" and not "fairness"
 ---
 
 #Defining morality
@@ -42,33 +95,46 @@ Definitions of morality are either **descriptive** or **normative**
 
 --
 
+- **Normative**: morality is a code of conduct that would be agreed upon by all "rational" persons (i.e., it's okay if Ted Bundy disagrees)
+
+  - Shared beliefs about how we *ought* to act
+  - Morality is like it has been defined in the Good Place. We can ultimately determine what is right and what is wrong
+
+---
+
+#Defining morality
+
+Definitions of morality are either **descriptive** or **normative**
+
+- **Normative**: morality is a code of conduct that would be agreed upon by all "rational" persons 
 - **Descriptive**: morality is a system of morals that are endorsed by an individual or a group
 
   - Morality is whatever a group or individual thinks is moral
   - E.g., Catholic morality, Democrat morality, Nazi morality
   
---
+---
 
-- **Normative**: morality is a code of conduct that would be agreed upon by all "rational" persons
+#Defining morality
 
-  - Shared beliefs about how we *ought* to act
-  - Ted Bundy doesn't need to agree on this definition
+Definitions of morality are either **descriptive** or **normative**
 
---
+- **Normative**: morality is a code of conduct that would be agreed upon by all "rational" persons 
+- **Descriptive**: morality is a system of morals that are endorsed by an individual or a group
 
-Most psychologists care about descriptive theories (what people think is moral) and most philosophers care about normative theories (what people *ought* to think is moral)
+Most of our normative theories come from philosophers, who have long debated what people *ought* to think is moral. Most of our descriptive theories of morality come from anthropologists and psychologists, who describe the the moral systems endorsed by groups of people or cultures
+- Descriptive definitions allow for moral disagreements
 
 ---
 
 #Normative moral theories
 
-Utilitarianism is the **normative** moral theory that an action is morally right if it benefits the most people.
+**Utilitarianism** is the *normative* moral theory that an action is morally right if it .highlight[benefits the most people.]
 
 
-"[Morality can be defined as...] the rules and precepts for human conduct, by the observance of which [a happy existence] might be, to the greatest extent possible, secured to all mankind. 
+> "[Morality can be defined as...] the rules and precepts for human conduct, by the observance of which [a happy existence] might be, to the greatest extent possible, secured to all mankind.
 
 .right[-John Stuart Mill, 1861]
-
+.right-column[![](images/John_Stuart_Mill.jpg)]
 
 ???
 John Stuart Mill is a 19th century British philosopher. 
@@ -78,10 +144,60 @@ John Stuart Mill is a 19th century British philosopher.
 
 #Normative moral theories
 
-**Deontology** is the normative moral theory that 
+**Deontology** is the normative moral theory that the determination that an action is right or wrong should depend on a set of predetermined rules, rather than on the consequences of the action.
+
+>"A lie defined merely as an intentionally untruthful declaration to another man does not require the additional condition that it must do harm to another... for a lie always harms another; if not some human being, then it nevertheless does harm to humanity in general, inasmuch as it vitiates the very source of right" 
+
+.right[-Immanuel Kant]
+
+---
+#A moral dilemma
+
+What *ought* you do in this scenario?
+
+>You are a doctor. You have five patients, each of whom is about to die due to a failing organ of some kind. A new person is rushed into the hospital after a serious car accident. This person is critically injured, and
+will die without immediate surgery. It is likely you can save
+this accident victim, though it would involve long and complicated surgery. You realize that if you purposely cut his
+carotid artery during surgery it would cause his death and no
+one would ever know. Then you could harvest his organs for
+transplant into the bodies of the other five patients. If you do
+this, the other five patients will live, but the accident victim
+will die. Is it appropriate for you to kill the accident victim
+in order to save your five patients? - Aktas et al., 2017
+
+---
+#Utilitarianism vs. deontology
+
+What we *ought* to do:
+
+- A utilitarian, whose philosophy says that we should increase the happiness for the most amount of people, would say that the surgeon ought to save the lives of the five by harvesting the organs of the one.
+
+- A deontologist, whose philosophy relies on predetermined rules, would say that it is never okay to violate the person's rights, regardless of the consequences.
+
+
+---
+#Descriptive moral theories
+
+- A descriptive moral theory describes which rules are endorsed by an individual or a group as moral
+
+--
+
+- If you wanted to study the morality of people in a foreign country through observational methods only, what would you do?
+
+--
+
+  - You might look at laws, religious texts, etiquette books, observe behavior, etc.
+  - How do we determine moral rules from social conventions?
+
 ---
 
-#What is morality?
+# Descriptive moral theories
+
+How do we know which actions are moral ones? 
+
+- Laws, etiquette, religious texts, social conventions
+
+- Moral rules are different from conventions
 
 .bq["Whereas conventions are determined by the social system in which they exist and constitute part of the definition of the social system, the moral domain refers to **prescriptive judgments of justice, rights, and welfare pertaining to how people ought to relate to each other.**"]
 

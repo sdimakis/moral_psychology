@@ -10,7 +10,7 @@ navbar:
     - text: Lectures
       menu:
       - text: "1 - introduction"
-        href: "lectures/1_introduction.html"
+        href: "lectures/1_defining_morality.html"
     - text: "Homework"
       menu:
       - text: "Homework 1"

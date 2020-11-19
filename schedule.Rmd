@@ -2,48 +2,124 @@
 title: "Course schedule"
 output:
   html_document:
-    theme: flatly
-    toc: yes
-    toc_depth: 3
-    toc_float: yes
+    theme: cosmo
+
 ---
+
+```{r, include = FALSE}
+library(rio)
+library(here)
+library(kableExtra)
+library(tidyverse)
+
+data <- import(here("syllabus.csv"))
+
+data[4,3] <- "Theories of moral development: Kohlberg's stage theory, social domain theory"
+data[1,4] <- "[Syllabus](syllabus.docx)"
+data[2,4] <- "[Wade (2007)](readings/week_1/Wade_2007.pdf); [Allchin (2009)](readings/week_1/Allchin_2009.pdf)"
+data[3,4] <- "[Hamlin, Wynn, & Bloom (2007)](readings/week_2/Hamlin_2007.pdf); [Bloom (2010)](readings/week_2/Bloom_2010.pdf)"
+data[4,4] <- "[Kohlberg (1968)](readings/week_2/Kohlberg_1968.pdf); [Smetana (2013)](readings/week_2/Smetana_2014.pdf)"
+data[5,4] <- "[Greene et al. (2009)](readings/week_3/Greene_2009.pdf); [Aktas, Yilmaz, & Bahcekapili (2017)](readings/week_3/Aktas_2017.pdf)"
+data[6,4] <- "[Haidt (2001)](readings/week_3/Haidt_2001.pdf); [Sauer (2012)](readings/week_3/Sauer_2012.pdf)"
+data[7,4] <- "[Klein & O'Brien (2016)](readings/week_4/Klein_2016.pdf)"
+data[8,4] <- "[Haidt, Koller, & Dias (1993)](readings/week_4/Haidt_1993.pdf); [Uhlmann et al. (2015)](readings/week_4/Uhlmann_2015.pdf)"
+data[9,4] <- "[Butler, Burbank, & Chisholm (2011)](readings/week_5/Butler_2011.pdf); [Fehr & Gachter (2002)](readings/week_5/Fehr_2002.pdf)"
+data[10,4] <- "[Sonnentag & McDaniel (2013)](readings/week_5/Sonnetag_2013.pdf); [Monin & Miller (2001)](readings/week_5/Monin_2001.pdf)"
+data[12,4] <- "[Conway & Peetz (2012)](readings/week_6/Conway_2012.pdf); [Valdesolo & DeSteno (2008)](readings/week_6/Valdesolo_2008.pdf)"
+data[13,4] <- "[Schnall et al. (2008)](readings/week_7/Schnall_2008.pdf); [Cronin, Reysen, & Branscombe (2012)](readings/week_7/Cronin_2012.pdf)"
+data[14,4] <- "[Bastian, Jetten, & Fasoli (2011)](readings/week_7/Bastian_2011.pdf); [Bloom (2013)](readings/week_7/Bloom_2013.pdf)"
+data[15,4] <- "[Stets & Carter (2011)](readings/week_8/Stets_2011.pdf)"
+data[16,4] <- "[Bandura et al. (1996)](readings/week_8/Bandura_1996.pdf); [Mazar, Amir, & Ariely (2008)](readings/week_8/Mazar_2005.pdf)"
+data[17,4] <- "[Graham, Haidt, & Nosek (2009)](readings/week_9/Graham_2009.pdf); [Pizarro (2012)](https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust?language=en)"
+data[18,4] <- "[Day et al. (2014)](readings/week_9/Day_2014.pdf); [Feinberg & Willer (2015)](readings/week_9/Feinberg_2015.pdf)"
+data[19,4] <- "[Shariff & Norenzayan (2007)](readings/week_10/Shariff_2007.pdf); [Graham & Haidt (2010)](readings/week_10/Graham_2010.pdf)"
+data[20,4] <- "[Miller, Bersoff, & Harwood (1990)](readings/week_10/Miller_1990.pdf); [An & Trafimow (2014)](readings/week_10/An_2014.pdf)"
+
+```
+
+
 
 Readings should be completed before the class date indicated on the schedule. 
 
-|Week | Date | Topic             | Readings | Due | 
-|:---:|:-----|:---------------|:---------|:---------|
-| 1   | xx/xx| Defining morality | Syllabus | |
-|    | xx/xx|  Moralization, measuring morality|  | 
-|    | xx/xx|  | |HW1 due Sunday at 11:59pm | 
-| 2   | xx/xx|  The morality of primates| | |
-|    | xx/xx|  Evolutionary theories of morality| |  |
-|    | xx/xx|  | | QUIZ1 due Sunday at 11:59pm |
-| 3   | xx/xx|  Infant morality| |  |
-|    | xx/xx|  Social domain theory| |  |
-|    | xx/xx|  | |HW2 due Sunday at 11:59pm |
-| 4   | xx/xx|  Trolleyology and other moral dilemmas   | |  |
-|    | xx/xx|  Rational models of moral judgments| | |
-|    | xx/xx|  | |QUIZ2 due Sunday at 11:59pm  |
-| 5   | xx/xx|  MIDTERM| | | 
-|    | xx/xx|  The social intuitionist model | | |
-|    | xx/xx|  | | |
-| 6   | xx/xx|  Positive moral emotions| | |
-|    | xx/xx|  Negative moral emotions| | |
-|    | xx/xx|  | |HW3 due Sunday at 11:59pm |
-| 7   | xx/xx|  Cooperation games| | |
-|    | xx/xx|  Altruism| | |
-|    | xx/xx|  | |QUIZ3 due Sunday at 11:59pm |
-| 8   | xx/xx|  Cheating and lying| |  |
-|    | xx/xx|  Moral disengagement| | |
-|    | xx/xx|  | |HW4 due Sunday at 11:59pm |
-| 9   | xx/xx|  Moral systems of conservatives and liberals| | |
-|    | xx/xx|  Changing moral-political beliefs| | |
-|    | xx/xx|  | | QUIZ4 due Sunday at 11:59pm|
-| 10   | xx/xx|  Religion and morality| | |
-|    | xx/xx|  Morality and the law| | |
-|    | xx/xx|  | | |
-| Finals   | xx/xx|  | | | 
+
+```{r, echo = FALSE}
+
+data %>% 
+  kbl() %>% 
+  kable_styling(c("striped"))
+```
 
 
 
 
+# Readings
+
+- Aktaş, B., Yilmaz, O., & Bahçekapili, H. G. (2017). Moral pluralism on the trolley tracks: Different normative principles are used for different reasons in justifying moral judgments. *Judgment and Decision Making.*
+
+- Allchin, D. (2009). The evolution of morality. *Evolution: Education and Outreach, 2*(4), 590-601.
+
+- An, S., & Trafimow, D. (2014). Affect and morality: a cross-cultural examination of moral attribution. *Journal of Cross-Cultural Psychology, 45*(3), 417-430.
+
+- Bandura, A., Barbaranelli, C., Caprara, G. V., & Pastorelli, C. (1996). Mechanisms of moral disengagement in the exercise of moral agency. *Journal of personality and social psychology, 71*(2), 364.
+
+- Bastian, B., Jetten, J., & Fasoli, F. (2011). Cleansing the soul by hurting the flesh: The guilt-reducing effect of pain. *Psychological science, 22*(3), 334.
+
+- Bloom, P. (2010). The moral life of babies. *New York Times Magazine*.
+
+- Bloom, P. (2013). The baby in the well: the case against empathy. *New Yorker.*
+
+- Butler, D. J., Burbank, V. K., & Chisholm, J. S. (2011). The frames behind the games: Player's perceptions of prisoners dilemma, chicken, dictator, and ultimatum games. *The Journal of Socio-Economics, 40*(2), 103-114.
+
+- Conway, P., & Peetz, J. (2012). When does feeling moral actually make you a better person? Conceptual abstraction moderates whether past moral deeds motivate consistency or compensatory behavior. *Personality and Social Psychology Bulletin, 38*(7), 907-919.
+
+- Cronin, T., Reysen, S., & Branscombe, N. R. (2012). Wal-Mart's conscientious objectors: Perceived illegitimacy, moral anger, and retaliatory consumer behavior. *Basic and Applied Social Psychology, 34*(4), 322-335.
+
+- Day, M. V., Fiske, S. T., Downing, E. L., & Trail, T. E. (2014). Shifting liberal and conservative attitudes using moral foundations theory. *Personality and Social Psychology Bulletin, 40*(12), 1559-1573.
+
+- Fehr, E., & Gächter, S. (2002). Altruistic punishment in humans. *Nature, 415*(6868), 137-140.
+
+- Feinberg, M., & Willer, R. (2015). From gulf to bridge: When do moral arguments facilitate political influence? *Personality and Social Psychology Bulletin, 41*(12), 1665-1681.
+
+- Graham, J., Haidt, J., & Nosek, B. A. (2009). Liberals and conservatives rely on different sets of moral foundations. *Journal of personality and social psychology, 96*(5), 1029.
+
+- Graham, J., & Haidt, J. (2010). Beyond beliefs: Religions bind individuals into moral communities. *Personality and social psychology review, 14*(1), 140-150.
+
+- Greene, J. D., Cushman, F. A., Stewart, L. E., Lowenberg, K., Nystrom, L. E., & Cohen, J. D. (2009). Pushing moral buttons: The interaction between personal force and intention in moral judgment. *Cognition, 111*(3), 364-371.
+
+- Haidt, J., Koller, S. H., & Dias, M. G. (1993). Affect, culture, and morality, or is it wrong to eat your dog? *Journal of personality and social psychology, 65*(4), 613.
+
+- Haidt, J. (2001). The emotional dog and its rational tail: a social intuitionist approach to moral judgment. *Psychological review, 108*(4), 814.
+
+- Hamlin, J. K., Wynn, K., & Bloom, P. (2007). Social evaluation by preverbal infants. *Nature, 450*(7169), 557-559.
+
+- Klein, N., & O'Brien, E. (2016). The tipping point of moral change: When do good and bad acts make good and bad actors? *Social cognition, 34*(2), 149-166.
+
+- Kohlberg, L. (1968). The child as a moral philosopher. *Psychology today*, 25-30. 
+
+- Miller, J. G., Bersoff, D. M., & Harwood, R. L. (1990). Perceptions of social responsibilities in India and in the United States: Moral imperatives or personal decisions? *Journal of personality and social psychology, 58*(1), 33.
+
+- Monin, B., & Miller, D. T. (2001). Moral credentials and the expression of prejudice. *Journal of personality and social psychology, 81*(1), 33.
+
+- Mazar, N., Amir, O., & Ariely, D. (2008). The dishonesty of honest people: A theory of self-concept maintenance. *Journal of marketing research, 45*(6), 633-644.
+
+- Pizarro, D. (2012, May ). The strange politics of disgust [Video]. TED. https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust?language=en
+
+- Reeder, G. D., & Spores, J. M. (1983). The attribution of morality. *Journal of Personality and Social psychology, 44*(4), 736.
+
+- Sonnentag, T. L., & McDaniel, B. L. (2013). Doing the right thing in the face of social pressure: Moral rebels and their role models have heightened levels of moral trait integration. *Self and Identity, 12*(4), 432-446.
+
+- Sauer, H. (2012). Psychopaths and filthy desks. *Ethical Theory and Moral Practice, 15*(1), 95-115.
+
+- Schnall, S., Haidt, J., Clore, G. L., & Jordan, A. H. (2008). Disgust as embodied moral judgment. *Personality and social psychology bulletin, 34*(8), 1096-1109.
+
+- Shariff, A. F., & Norenzayan, A. (2007). God is watching you: Priming God concepts increases prosocial behavior in an anonymous economic game. *Psychological science, 18*(9), 803-809.
+
+- Smetana, J. G. (2013). 29 Moral Development: The Social Domain Theory View.
+
+- Stets, J. E., & Carter, M. J. (2011). The moral self: Applying identity theory. *Social Psychology Quarterly, 74*(2), 192-215.
+
+- Uhlmann, E. L., Pizarro, D. A., & Diermeier, D. (2015). A person-centered approach to moral judgment. *Perspectives on Psychological Science, 10*(1), 72-81.
+
+- Valdesolo, P., & DeSteno, D. (2008). The duality of virtue: Deconstructing the moral hypocrite. *Journal of Experimental Social Psychology, 44*(5), 1334-1338.
+
+- Wade, N. (2007). Scientist finds the beginnings of morality in primate behavior. *New York Times.*

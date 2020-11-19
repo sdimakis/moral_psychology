@@ -54,7 +54,7 @@ data %>%
 
 # Readings
 
-- Aktaş, B., Yilmaz, O., & Bahçekapili, H. G. (2017). Moral pluralism on the trolley tracks: Different normative principles are used for different reasons in justifying moral judgments. *Judgment and Decision Making.*
+- Aktaş, B., Yilmaz, O., & Bahçekapili, H. G. (2017). **Moral pluralism on the trolley tracks: Different normative principles are used for different reasons in justifying moral judgments.** *Judgment and Decision Making.*
 
 - Allchin, D. (2009). The evolution of morality. *Evolution: Education and Outreach, 2*(4), 590-601.
 

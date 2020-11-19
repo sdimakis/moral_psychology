@@ -1,5 +1,5 @@
 ---
-title: "<center>![](helping.jpg)PSYXXX: Moral Psychology (CRN: XXXXX)</center>"
+title: "<center>![](helping.jpg)<br><br>PSYXXX: Moral Psychology (CRN: XXXXX)</center>"
 subtitle: "<center>Department of Psychology, University of Oregon</center>"
 author: "<center>Term, meeting days and times, location of course</center>"
 output: 
@@ -9,18 +9,9 @@ output:
     toc_float: yes
     toc_depth: 1
 ---
-
-
-# Instructor
-
-Sarah Dimakis, M.S.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E-mail: sdimakis@uoregon.edu <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Office hours: TBD <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: Straub 461 
-
 # Course description
 
-Moral psychology is the scientific study of how humans distinguish right from wrong and act (or fail to act) accordingly. Individuals develop variable and sometimes even opposing intuitions about how themselves and others should and should never behave. How did humans develop these intuitions that many other animal species do not have? How do children learn to distinguish right from wrong? How do adult humans judge a behavior as morally right or wrong, and how and why do they often disagree? How do humans behave in immoral ways with a clear conscience? What is the relationship between religion and morality, and do religious people behave more morally than atheists? What are the implications of moral disagreements on our political and judicial systems? Can we resolve moral disagreements, or are our moral intuitions set in stone? We will explore these questions and more in this course.
+Moral psychology is the scientific study of how humans distinguish right from wrong and act (or fail to act) accordingly. Individuals develop variable and sometimes even opposing intuitions about how themselves and others should and should never behave. How did humans develop these intuitions that many other animal species do not have? How do children learn to distinguish right from wrong? How do adults reason through moral dilemmas and judge the characters of others? How do we behave in immoral ways with a clear conscience? How does religion shape morality, and do religious people behave more morally than atheists? What are the implications of moral disagreements on our political and judicial systems? We will explore these questions and more in this course.
 
 This course is meant to be an introduction into moral psychology and therefore assignments do not presume prior knowledge. Prior experience reading psychology research is highly recommended. 
 

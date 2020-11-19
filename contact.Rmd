@@ -1,0 +1,12 @@
+---
+title: "Contact Instructor"
+output:
+  html_document:
+    theme: cosmo
+---
+
+
+Sarah Dimakis, M.S.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E-mail: sdimakis@uoregon.edu <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Office hours: TBD <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: Straub 461 

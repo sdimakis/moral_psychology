@@ -21,7 +21,7 @@ navbar:
         href: "homework/homework_3.html"
       - text: "Homework 4"
         href: "homework/homework_4.html"
-    - text: "Quizzes"
+    - text: "Assessments"
       menu:
       - text: "Quiz 1"
         href: "quizzes/quiz_1.html"        
@@ -31,12 +31,12 @@ navbar:
         href: "quizzes/quiz_3.html"        
       - text: "Quiz 4"
         href: "quizzes/quiz_4.html"
-    - text: "Exams"
-      menu:
       - text: "Midterm exam"
         href: "exams/midterm.html" 
       - text: "Final exam"
         href: "exams/final.html"
+    - text: Contact Instructor
+      href: "contact.html"
   right:
     - icon: fa-github
       href: https://github.com/sdimakis/moral_psychology

@@ -1,11 +1,8 @@
 ---
-title: "Final exam"
+title: "<b>Final paper</b>"
 output:
   html_document:
-    theme: flatly
-    toc: yes
-    toc_depth: 3
-    toc_float: yes
-editor_options:
-  chunk_output_type: console
+    theme: cosmo
 ---
+
+Instructions TBD.

@@ -1,3 +1,8 @@
 ---
-title: "Quiz"
+title: "<b>Quiz 3</b>"
+output:
+  html_document:
+    theme: cosmo
 ---
+
+[Quiz 1 (encrypted)](Quiz_3.docx)

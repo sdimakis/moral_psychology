@@ -56,70 +56,70 @@ data %>%
 
 - Aktaş, B., Yilmaz, O., & Bahçekapili, H. G. (2017). **Moral pluralism on the trolley tracks: Different normative principles are used for different reasons in justifying moral judgments.** *Judgment and Decision Making.*
 
-- Allchin, D. (2009). The evolution of morality. *Evolution: Education and Outreach, 2*(4), 590-601.
+- Allchin, D. (2009). **The evolution of morality.** *Evolution: Education and Outreach, 2*(4), 590-601.
 
-- An, S., & Trafimow, D. (2014). Affect and morality: a cross-cultural examination of moral attribution. *Journal of Cross-Cultural Psychology, 45*(3), 417-430.
+- An, S., & Trafimow, D. (2014). **Affect and morality: a cross-cultural examination of moral attribution.** *Journal of Cross-Cultural Psychology, 45*(3), 417-430.
 
-- Bandura, A., Barbaranelli, C., Caprara, G. V., & Pastorelli, C. (1996). Mechanisms of moral disengagement in the exercise of moral agency. *Journal of personality and social psychology, 71*(2), 364.
+- Bandura, A., Barbaranelli, C., Caprara, G. V., & Pastorelli, C. (1996). **Mechanisms of moral disengagement in the exercise of moral agency.** *Journal of personality and social psychology, 71*(2), 364.
 
-- Bastian, B., Jetten, J., & Fasoli, F. (2011). Cleansing the soul by hurting the flesh: The guilt-reducing effect of pain. *Psychological science, 22*(3), 334.
+- Bastian, B., Jetten, J., & Fasoli, F. (2011). **Cleansing the soul by hurting the flesh: The guilt-reducing effect of pain.** *Psychological science, 22*(3), 334.
 
-- Bloom, P. (2010). The moral life of babies. *New York Times Magazine*.
+- Bloom, P. (2010). **The moral life of babies.** *New York Times Magazine*.
 
-- Bloom, P. (2013). The baby in the well: the case against empathy. *New Yorker.*
+- Bloom, P. (2013). **The baby in the well: the case against empathy.** *New Yorker.*
 
-- Butler, D. J., Burbank, V. K., & Chisholm, J. S. (2011). The frames behind the games: Player's perceptions of prisoners dilemma, chicken, dictator, and ultimatum games. *The Journal of Socio-Economics, 40*(2), 103-114.
+- Butler, D. J., Burbank, V. K., & Chisholm, J. S. (2011). **The frames behind the games: Player's perceptions of prisoners dilemma, chicken, dictator, and ultimatum games.** *The Journal of Socio-Economics, 40*(2), 103-114.
 
-- Conway, P., & Peetz, J. (2012). When does feeling moral actually make you a better person? Conceptual abstraction moderates whether past moral deeds motivate consistency or compensatory behavior. *Personality and Social Psychology Bulletin, 38*(7), 907-919.
+- Conway, P., & Peetz, J. (2012). **When does feeling moral actually make you a better person? Conceptual abstraction moderates whether past moral deeds motivate consistency or compensatory behavior.** *Personality and Social Psychology Bulletin, 38*(7), 907-919.
 
-- Cronin, T., Reysen, S., & Branscombe, N. R. (2012). Wal-Mart's conscientious objectors: Perceived illegitimacy, moral anger, and retaliatory consumer behavior. *Basic and Applied Social Psychology, 34*(4), 322-335.
+- Cronin, T., Reysen, S., & Branscombe, N. R. (2012). **Wal-Mart's conscientious objectors: Perceived illegitimacy, moral anger, and retaliatory consumer behavior.** *Basic and Applied Social Psychology, 34*(4), 322-335.
 
-- Day, M. V., Fiske, S. T., Downing, E. L., & Trail, T. E. (2014). Shifting liberal and conservative attitudes using moral foundations theory. *Personality and Social Psychology Bulletin, 40*(12), 1559-1573.
+- Day, M. V., Fiske, S. T., Downing, E. L., & Trail, T. E. (2014). **Shifting liberal and conservative attitudes using moral foundations theory.** *Personality and Social Psychology Bulletin, 40*(12), 1559-1573.
 
-- Fehr, E., & Gächter, S. (2002). Altruistic punishment in humans. *Nature, 415*(6868), 137-140.
+- Fehr, E., & Gächter, S. (2002). **Altruistic punishment in humans.** *Nature, 415*(6868), 137-140.
 
-- Feinberg, M., & Willer, R. (2015). From gulf to bridge: When do moral arguments facilitate political influence? *Personality and Social Psychology Bulletin, 41*(12), 1665-1681.
+- Feinberg, M., & Willer, R. (2015). **From gulf to bridge: When do moral arguments facilitate political influence?** *Personality and Social Psychology Bulletin, 41*(12), 1665-1681.
 
-- Graham, J., Haidt, J., & Nosek, B. A. (2009). Liberals and conservatives rely on different sets of moral foundations. *Journal of personality and social psychology, 96*(5), 1029.
+- Graham, J., Haidt, J., & Nosek, B. A. (2009). **Liberals and conservatives rely on different sets of moral foundations.** *Journal of personality and social psychology, 96*(5), 1029.
 
-- Graham, J., & Haidt, J. (2010). Beyond beliefs: Religions bind individuals into moral communities. *Personality and social psychology review, 14*(1), 140-150.
+- Graham, J., & Haidt, J. (2010). **Beyond beliefs: Religions bind individuals into moral communities.** *Personality and social psychology review, 14*(1), 140-150.
 
-- Greene, J. D., Cushman, F. A., Stewart, L. E., Lowenberg, K., Nystrom, L. E., & Cohen, J. D. (2009). Pushing moral buttons: The interaction between personal force and intention in moral judgment. *Cognition, 111*(3), 364-371.
+- Greene, J. D., Cushman, F. A., Stewart, L. E., Lowenberg, K., Nystrom, L. E., & Cohen, J. D. (2009). **Pushing moral buttons: The interaction between personal force and intention in moral judgment.** *Cognition, 111*(3), 364-371.
 
-- Haidt, J., Koller, S. H., & Dias, M. G. (1993). Affect, culture, and morality, or is it wrong to eat your dog? *Journal of personality and social psychology, 65*(4), 613.
+- Haidt, J., Koller, S. H., & Dias, M. G. (1993). **Affect, culture, and morality, or is it wrong to eat your dog?** *Journal of personality and social psychology, 65*(4), 613.
 
-- Haidt, J. (2001). The emotional dog and its rational tail: a social intuitionist approach to moral judgment. *Psychological review, 108*(4), 814.
+- Haidt, J. (2001). **The emotional dog and its rational tail: a social intuitionist approach to moral judgment.** *Psychological review, 108*(4), 814.
 
-- Hamlin, J. K., Wynn, K., & Bloom, P. (2007). Social evaluation by preverbal infants. *Nature, 450*(7169), 557-559.
+- Hamlin, J. K., Wynn, K., & Bloom, P. (2007). **Social evaluation by preverbal infants.** *Nature, 450*(7169), 557-559.
 
-- Klein, N., & O'Brien, E. (2016). The tipping point of moral change: When do good and bad acts make good and bad actors? *Social cognition, 34*(2), 149-166.
+- Klein, N., & O'Brien, E. (2016). **The tipping point of moral change: When do good and bad acts make good and bad actors?** *Social cognition, 34*(2), 149-166.
 
-- Kohlberg, L. (1968). The child as a moral philosopher. *Psychology today*, 25-30. 
+- Kohlberg, L. (1968). **The child as a moral philosopher.** *Psychology today*, 25-30. 
 
-- Miller, J. G., Bersoff, D. M., & Harwood, R. L. (1990). Perceptions of social responsibilities in India and in the United States: Moral imperatives or personal decisions? *Journal of personality and social psychology, 58*(1), 33.
+- Miller, J. G., Bersoff, D. M., & Harwood, R. L. (1990). **Perceptions of social responsibilities in India and in the United States: Moral imperatives or personal decisions?** *Journal of personality and social psychology, 58*(1), 33.
 
-- Monin, B., & Miller, D. T. (2001). Moral credentials and the expression of prejudice. *Journal of personality and social psychology, 81*(1), 33.
+- Monin, B., & Miller, D. T. (2001). **Moral credentials and the expression of prejudice.** *Journal of personality and social psychology, 81*(1), 33.
 
-- Mazar, N., Amir, O., & Ariely, D. (2008). The dishonesty of honest people: A theory of self-concept maintenance. *Journal of marketing research, 45*(6), 633-644.
+- Mazar, N., Amir, O., & Ariely, D. (2008). **The dishonesty of honest people: A theory of self-concept maintenance.** *Journal of marketing research, 45*(6), 633-644.
 
-- Pizarro, D. (2012, May ). The strange politics of disgust [Video]. TED. https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust?language=en
+- Pizarro, D. (2012, May ). **The strange politics of disgust** [Video]. TED. https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust?language=en
 
-- Reeder, G. D., & Spores, J. M. (1983). The attribution of morality. *Journal of Personality and Social psychology, 44*(4), 736.
+- Reeder, G. D., & Spores, J. M. (1983). **The attribution of morality**. *Journal of Personality and Social psychology, 44*(4), 736.
 
-- Sonnentag, T. L., & McDaniel, B. L. (2013). Doing the right thing in the face of social pressure: Moral rebels and their role models have heightened levels of moral trait integration. *Self and Identity, 12*(4), 432-446.
+- Sonnentag, T. L., & McDaniel, B. L. (2013). **Doing the right thing in the face of social pressure: Moral rebels and their role models have heightened levels of moral trait integration.** *Self and Identity, 12*(4), 432-446.
 
-- Sauer, H. (2012). Psychopaths and filthy desks. *Ethical Theory and Moral Practice, 15*(1), 95-115.
+- Sauer, H. (2012). **Psychopaths and filthy desks.** *Ethical Theory and Moral Practice, 15*(1), 95-115.
 
-- Schnall, S., Haidt, J., Clore, G. L., & Jordan, A. H. (2008). Disgust as embodied moral judgment. *Personality and social psychology bulletin, 34*(8), 1096-1109.
+- Schnall, S., Haidt, J., Clore, G. L., & Jordan, A. H. (2008). **Disgust as embodied moral judgment.** *Personality and social psychology bulletin, 34*(8), 1096-1109.
 
-- Shariff, A. F., & Norenzayan, A. (2007). God is watching you: Priming God concepts increases prosocial behavior in an anonymous economic game. *Psychological science, 18*(9), 803-809.
+- Shariff, A. F., & Norenzayan, A. (2007). **God is watching you: Priming God concepts increases prosocial behavior in an anonymous economic game.** *Psychological science, 18*(9), 803-809.
 
-- Smetana, J. G. (2013). 29 Moral Development: The Social Domain Theory View.
+- Smetana, J. G. (2013). **29 Moral Development: The Social Domain Theory View.**
 
-- Stets, J. E., & Carter, M. J. (2011). The moral self: Applying identity theory. *Social Psychology Quarterly, 74*(2), 192-215.
+- Stets, J. E., & Carter, M. J. (2011). **The moral self: Applying identity theory.** *Social Psychology Quarterly, 74*(2), 192-215.
 
-- Uhlmann, E. L., Pizarro, D. A., & Diermeier, D. (2015). A person-centered approach to moral judgment. *Perspectives on Psychological Science, 10*(1), 72-81.
+- Uhlmann, E. L., Pizarro, D. A., & Diermeier, D. (2015). **A person-centered approach to moral judgment.** *Perspectives on Psychological Science, 10*(1), 72-81.
 
-- Valdesolo, P., & DeSteno, D. (2008). The duality of virtue: Deconstructing the moral hypocrite. *Journal of Experimental Social Psychology, 44*(5), 1334-1338.
+- Valdesolo, P., & DeSteno, D. (2008). **The duality of virtue: Deconstructing the moral hypocrite.** *Journal of Experimental Social Psychology, 44*(5), 1334-1338.
 
-- Wade, N. (2007). Scientist finds the beginnings of morality in primate behavior. *New York Times.*
+- Wade, N. (2007). **Scientist finds the beginnings of morality in primate behavior.** *New York Times.*

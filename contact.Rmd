@@ -1,12 +1,15 @@
 ---
-title: "Contact Instructor"
+title: "<b>Contact Instructor</b>"
 output:
   html_document:
     theme: cosmo
+    css: custom_website.css
 ---
 
+<img src="instructor.jpg" alt="Avatar" class="avatar">
 
-Sarah Dimakis, M.S.<br>
+
+**Sarah Dimakis, M.S.<br>**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E-mail: sdimakis@uoregon.edu <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Office hours: TBD <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Location: Straub 461 

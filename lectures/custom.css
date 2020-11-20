@@ -56,9 +56,9 @@
 
 .smaller-picture{
   color: black;
-  width: 60%;
   float: left;
-
+  width: 70%;
+  padding-left: 4em;
 }
 
 .words-right-picture{

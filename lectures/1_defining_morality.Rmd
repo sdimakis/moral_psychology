@@ -83,22 +83,86 @@ Question for class: what did you disagree on and why?
 2. We differ in what we believe to be true about our environment, e.g., vaccines are harmful (vaccines), babies are born with souls (abortion)
 3. Cultures differences e.g., in some East Asian cultures, tipping can be perceived as rude (tipping)
 4. Actions may be "good" in some contexts but not others, e.g., helping your friend study would be good, but helping your friend rob a bank may not be as good.
-5. We may value some moral principles over others, e.g., someone may highly endorse the principle "harm" and not "fairness"
+5. We may value some moral principles over others, e.g., someone may only consider something immoral when there is obvious harm to someone
 ---
 
 #Defining morality
 
 Definitions of morality are either **descriptive** or **normative**
 
+.footnote[Zalta et al., 2020]
 --
 
-- **Normative**: morality is a code of conduct that would be agreed upon by all "rational" persons (i.e., it's okay if Ted Bundy disagrees)
+- **Normative**: morality is a code of conduct that would be agreed upon by all "rational" persons 
 
   - Shared beliefs about how we *ought* to act
-  - Morality is like it has been defined in the Good Place. We can ultimately determine what is right and what is wrong
+  - Morality is like it has been defined in the Good Place. Moral philosophers can ultimately determine what what behaviors we should and should not do
+  - But how do we define who are "rational persons"?
 
 ---
 
+#Normative definitions of morality
+
+.left-column-big[**Utilitarianism** is the *normative* moral theory that an action is morally right if it .highlight[benefits the most people.]
+
+- Utilitarianism is a <u>consequentialist</u> theory, meaning that it focuses on the consequences of the action.
+
+
+> "[Morality can be defined as...] the rules and precepts for human conduct, by the observance of which [a happy existence] might be, to the greatest extent possible, secured to all mankind.
+
+.right[-John Stuart Mill, 1861]]
+.right-column-small[![](images/John_Stuart_Mill.jpg)
+<center><b>John Stuart Mill</b>, <i>Philosopher</i></center>]
+
+???
+John Stuart Mill is a 19th century British philosopher. 
+
+
+---
+
+#Normative definitions of morality
+
+.left-column-big[**Deontology** is the *normative moral* theory that the determination that an action is right or wrong should depend on .highlight[a set of predetermined rules], rather than on the consequences of the action.
+
+>"A lie always harms another; if not some human being, then it nevertheless does harm to humanity in general, inasmuch as it vitiates the very source of right." 
+
+.right[-Immanuel Kant]]
+
+.right-column-small[![](images/Kant.jpg)
+<center><b>Immanuel Kant</b>, <i>Philosopher</i></center>]
+
+---
+#A moral dilemma
+
+What *ought* you do in this scenario?
+
+>You are a doctor. You have five patients, each of whom is about to die due to a failing organ of some kind. A new person is rushed into the hospital after a serious car accident. This person is critically injured, and will die without immediate surgery. It is likely you can save
+this accident victim, though it would involve long and complicated surgery. You realize that if you purposely cut his
+carotid artery during surgery it would cause his death and no
+one would ever know. Then you could harvest his organs for
+transplant into the bodies of the other five patients. If you do
+this, the other five patients will live, but the accident victim
+will die. Is it appropriate for you to kill the accident victim
+in order to save your five patients? 
+
+.footnote[Aktas et al. (2017)]
+---
+#Utilitarianism vs. deontology
+
+What we *ought* to do:
+
+- A utilitarian, whose philosophy says that we should **increase the happiness for the most amount of people**, would say that the surgeon ought to save the lives of the five by harvesting the organs of the one.
+
+- A deontologist, whose philosophy relies **on predetermined rules**, may say that it is never okay to violate the person's rights, regardless of the consequences.
+
+---
+
+# Insights from normative theories
+
+- The purpose of ethics is to optimize happiness and minimize suffering in a society
+- In order to do so, we need to create a code of conduct that can be agreed upon
+
+---
 #Defining morality
 
 Definitions of morality are either **descriptive** or **normative**
@@ -109,6 +173,9 @@ Definitions of morality are either **descriptive** or **normative**
   - Morality is whatever a group or individual thinks is moral
   - E.g., Catholic morality, Democrat morality, Nazi morality
   
+.footnote[Zalta et al. (2020)]
+
+
 ---
 
 #Defining morality
@@ -121,125 +188,123 @@ Definitions of morality are either **descriptive** or **normative**
 Most of our normative theories come from philosophers, who have long debated what people *ought* to think is moral. Most of our descriptive theories of morality come from anthropologists and psychologists, who describe the the moral systems endorsed by groups of people or cultures
 - Descriptive definitions allow for moral disagreements
 
----
-
-#Normative moral theories
-
-**Utilitarianism** is the *normative* moral theory that an action is morally right if it .highlight[benefits the most people.]
-
-
-> "[Morality can be defined as...] the rules and precepts for human conduct, by the observance of which [a happy existence] might be, to the greatest extent possible, secured to all mankind.
-
-.right[-John Stuart Mill, 1861]
-.right-column[![](images/John_Stuart_Mill.jpg)]
-
-???
-John Stuart Mill is a 19th century British philosopher. 
-
+.footnote[Zalta et al., (2020)]
 
 ---
+#Descriptive definitions of morality
 
-#Normative moral theories
-
-**Deontology** is the normative moral theory that the determination that an action is right or wrong should depend on a set of predetermined rules, rather than on the consequences of the action.
-
->"A lie defined merely as an intentionally untruthful declaration to another man does not require the additional condition that it must do harm to another... for a lie always harms another; if not some human being, then it nevertheless does harm to humanity in general, inasmuch as it vitiates the very source of right" 
-
-.right[-Immanuel Kant]
-
----
-#A moral dilemma
-
-What *ought* you do in this scenario?
-
->You are a doctor. You have five patients, each of whom is about to die due to a failing organ of some kind. A new person is rushed into the hospital after a serious car accident. This person is critically injured, and
-will die without immediate surgery. It is likely you can save
-this accident victim, though it would involve long and complicated surgery. You realize that if you purposely cut his
-carotid artery during surgery it would cause his death and no
-one would ever know. Then you could harvest his organs for
-transplant into the bodies of the other five patients. If you do
-this, the other five patients will live, but the accident victim
-will die. Is it appropriate for you to kill the accident victim
-in order to save your five patients? - Aktas et al., 2017
-
----
-#Utilitarianism vs. deontology
-
-What we *ought* to do:
-
-- A utilitarian, whose philosophy says that we should increase the happiness for the most amount of people, would say that the surgeon ought to save the lives of the five by harvesting the organs of the one.
-
-- A deontologist, whose philosophy relies on predetermined rules, would say that it is never okay to violate the person's rights, regardless of the consequences.
-
-
----
-#Descriptive moral theories
-
-- A descriptive moral theory describes which rules are endorsed by an individual or a group as moral
+- A descriptive moral theory describes which abstract guiding principles or concrete actions are endorsed by an individual or a group as moral
 
 --
 
-- If you wanted to study the morality of people in a foreign country through observational methods only, what would you do?
+- If you wanted to study the morality of a society through observational methods only, what would you do?
 
 --
 
-  - You might look at laws, religious texts, etiquette books, observe behavior, etc.
-  - How do we determine moral rules from social conventions?
+  + You might look at laws, religious texts, etiquette books, observe behavior, etc.
+    + But how do we determine moral rules (e.g., do not punch your teacher) from social conventions (e.g., wearing a uniform to school)?
 
 ---
 
-# Descriptive moral theories
+# Descriptive definitions of morality
 
-How do we know which actions are moral ones? 
+.left-column-big[Moral rules are different from social conventions
 
-- Laws, etiquette, religious texts, social conventions
+>"Social-convential acts, in themselves are arbitrary in that they are not instrinsically prescriptive. For example... mode of dress is arbitrarily designated, that is, an alternative mode of dress could be designated to serve the same function... In the moral domain... the existence of social regulation is not necceasry for an individual to view an event as a moral transgression."
 
-- Moral rules are different from conventions
+.right[-Larry Nucci, 1981]]
 
-.bq["Whereas conventions are determined by the social system in which they exist and constitute part of the definition of the social system, the moral domain refers to **prescriptive judgments of justice, rights, and welfare pertaining to how people ought to relate to each other.**"]
-
-.right[-Elliot Turiel, 1983]
-
-
----
-#What is morality?
-
-.bq["Moral systems are interlocking sets of values, virtues, norms, practices, identities, institutions, technologies, and evolved psychological mechanisms that work together to **suppress or regulate selfishness and make cooperative social life possible.**"] 
-
-.right[-Jonathan Haidt, 2010]
+.right-column-small[![](images/Nucci.jpg)]
+<center><b>Larry Nucci</b>, <i>Developmental Psychologist </i></center>
 
 ???
+Social conventions are arbitrarily designated and can be replaced with another rule to serve the same function, e.g., a dress code, whereas moral rules are moral even when there are not explicit laws prohibiting the action from taking place 
 
-This is a functionalist definition and an evolutionary one.
+---
+#Descriptive definitions of morality
+
+.left-column-big[- Many psychologists take **functionalist** approaches to defining morality, meaning they ask "what is the *function* of moral rules"?
+
+>"Moral systems are interlocking sets of values, virtues, norms, practices, identities, institutions, technologies, and evolved psychological mechanisms that work together to **suppress or regulate selfishness and make cooperative social life possible.**"
+
+.right[-Jonathan Haidt, 2010]]
+
+.right-column-small[![](images/Haidt.jpg) 
+<center><b>Jonathan Haidt</b>, <i>Social Psychologist</i></center>]
+
 ---
 
-???
+#Measuring morality
 
-Descriptive vs. normative moral theories
-
-Relativism vs. 
-There is a universal moral code that would be endorsed by all rational people
 ---
 
+#Moral foundations theory
 
-**.large[Consider the following scenarios...]**
+- There are (at least) five moral intuitions or principles that vary in a population
+  - **Harm/care** - We should care for a protect vulnerable others.
+  - **Fairness/cheating** - We should treat everyone fairly.
+  - **Ingroup/ betrayal** - We should be loyal to our groups.
+  - **Authority/ subversion** - We should respect authority and tradition.
+  - **Purity/ Degradation** - We should not violate norms of decency and purity by doing certain things with your body.
 
+--
 
-A family's dog was killed by a car in front of their house.
-They had heard that dog meat was delicious, so they cut up
-the dog's body and cooked it and ate it for dinner. Nobody
-saw them do this. 
+A candidate for a 6th foundation:
 
-A woman is dying, and on her deathbed she asked her son to promise that he would visit her grave every week. But after the mother died, the son didn't keep his promise, because he was very busy.
+  - **Liberty/ Oppression** - There should not be people restricting the freedom of others.
+  
+.footnote[Graham, Haidt, & Nosek (2009); Koleva et al. (2012)]
 
-A brother and sister like to kiss each other on the mouth. When nobody is around, they find a secret hiding place and kiss each other on the mouth, passionately.
+---
+# Moral foundations theory
 
-Answer the follow questions: 
-1. Are these actions morally wrong?
-2. Why or why not?
+```{r, include = FALSE}
+library(tidyverse)
+library(kableExtra)
+```
+
+```{r, echo = FALSE}
+Foundation <- c(".small[**Care/ Harm**]", ".small[**Fairness/ Cheating**]", ".small[**Ingroup/ Betrayal**]", ".small[**Authority/ Subversion**]", ".small[**Purity/ Degradation**]")
+
+Definition <- c(".small[Do not harm.]", ".small[Treat others fairly.]", ".small[Be loyal.]", ".small[Respect authority and tradition.]", ".small[Do not violate purity norms.]")
+
+Adaptation <- c(".small[Protect vulnerable children.]", ".small[Benefit from partnerships.]", ".small[Form coalitions.]", ".small[Forge relationships within hierarchies.]", ".small[Avoid communicable diseases.]")
+
+Triggers <- c(".small[Suffering, pictures of baby seals]", ".small[Deception, marital infidelity]", ".small[Treason, sports teams]", ".small[Respect for bosses, parents]", ".small['Deviant' sexual behavior, food]")
+
+Emotions <- c(".small[Compassion for victim; anger at perpretator]", ".small[Anger, gratitude, guilt]", ".small[Group pride, rage at traitors]", ".small[Respect, fear]", ".small[Disgust]")
+
+cbind(Foundation, Definition, Adaptation, Triggers, Emotions) %>% kbl()
+
+```
+
+.footnote[Graham et al. (2013)]
 
 ???
+An act could violate more than one moral principle, e.g., marital infidelity: harm, fairness, and purity
+---
+# Moral foundations questionnaire
 
-A woman is cleaning out her closet, and she finds her old American flag. She doesn't want the flag anymore, so she cuts it up into pieces and uses the rags to clean her bathroom.
 
-A man goes to the supermarket once a week and buys a chicken. But before cooking the chicken, he has sexual intercourse with it. Then he cooks it and eats it.
+```{r, echo = FALSE}
+`MFQ30 Item` <- c(".small[\"It can never be right to kill a human being.\"]", ".small[\"I think it’s morally wrong that rich children inherit a lot of money while poor children inherit nothing.\"]",".small[\"People should be loyal to their family members, even when they have done something wrong.\"]", ".small[\"If I were a soldier and disagreed with my commanding officer’s orders, I would obey anyway because that is my duty.\"]", ".small[\"People should not do things that are disgusting, even if no one is harmed.\"]")
+
+cbind(Foundation, Definition, `MFQ30 Item`) %>% kbl()
+```
+
+.footnote[Graham et al. (2008)]
+
+
+---
+# Defining morality
+
+.left-column-big[- Some psychologists argue that all foundations can be mapped onto a single harm principle, e.g., authority provides a way to reduce conflict peacefully, purity provides a way to reduce harm from diseases
+
+"Morality is essentially represented by a cognitive template that combines a **perceived intentional agent** with **a perceived suffering patient.**" 
+
+.right[-Kurt Gray and colleagues, 2012]]
+
+.right-column-small[![](images/Kurt-Gray.jpg)
+<center><b>Kurt Gray</b>, <i>Social Psychologist<i></center>]
+
+ 

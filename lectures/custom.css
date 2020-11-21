@@ -31,7 +31,7 @@
 }
 
 .small { 
-  font-size: 70% 
+  font-size: 60% 
   
 }
 
@@ -66,3 +66,17 @@
   float: right;
 }
 
+
+.left-column-big {
+  color: black;
+  width: 65%;
+  height: 92%;
+  float: left;
+}
+
+.right-column-small{
+  color: black;
+  width: 35%;
+  height: 92%;
+  float: right;
+}

@@ -13,9 +13,9 @@ output:
 
 # Purpose
 
-.highlight[Moral psychology] is the scientific study of morality. But what is morality and how do humans understand it?
+Moral psychology is the scientific study of **morality**. But what is morality and how do humans understand it?
 
-In today's lecture:
+.highlight[In today's lecture:]
 - How has morality been understood and defined?
 - How do psychologists measure it?
 
@@ -95,8 +95,9 @@ Definitions of morality are either **descriptive** or **normative**
 
 - **Normative**: morality is a code of conduct that would be agreed upon by all "rational" persons 
 
-  - Shared beliefs about how we *ought* to act
-  - Morality is like it has been defined in the Good Place. Moral philosophers can ultimately determine what what behaviors we should and should not do
+  - Morality is shared beliefs about how we *ought* to act
+  - Morality like has been defined in the Good Place 
+  - Moral philosophers can ultimately determine what what behaviors we should and should never do
   - But how do we define who are "rational persons"?
 
 ---
@@ -156,13 +157,6 @@ What we *ought* to do:
 - A deontologist, whose philosophy relies **on predetermined rules**, may say that it is never okay to violate the person's rights, regardless of the consequences.
 
 ---
-
-# Insights from normative theories
-
-- The purpose of ethics is to optimize happiness and minimize suffering in a society
-- In order to do so, we need to create a code of conduct that can be agreed upon
-
----
 #Defining morality
 
 Definitions of morality are either **descriptive** or **normative**
@@ -206,7 +200,7 @@ Most of our normative theories come from philosophers, who have long debated wha
 
 ---
 
-# Descriptive definitions of morality
+# Defining morality
 
 .left-column-big[Moral rules are different from social conventions
 
@@ -221,9 +215,9 @@ Most of our normative theories come from philosophers, who have long debated wha
 Social conventions are arbitrarily designated and can be replaced with another rule to serve the same function, e.g., a dress code, whereas moral rules are moral even when there are not explicit laws prohibiting the action from taking place 
 
 ---
-#Descriptive definitions of morality
+# Defining morality
 
-.left-column-big[- Many psychologists take **functionalist** approaches to defining morality, meaning they ask "what is the *function* of moral rules"?
+.left-column-big[Many psychologists take **functionalist** approaches to defining morality, meaning they ask "what is the *function* of moral rules"? This allows for an understanding of morality that can vary across cultures
 
 >"Moral systems are interlocking sets of values, virtues, norms, practices, identities, institutions, technologies, and evolved psychological mechanisms that work together to **suppress or regulate selfishness and make cooperative social life possible.**"
 
@@ -232,15 +226,87 @@ Social conventions are arbitrarily designated and can be replaced with another r
 .right-column-small[![](images/Haidt.jpg) 
 <center><b>Jonathan Haidt</b>, <i>Social Psychologist</i></center>]
 
+
+
+---
+# Defining morality 
+
+.left-column-big[However, some psychologists argue that all foundations can be mapped onto a single harm principle, e.g., authority provides a way to reduce conflict peacefully, purity provides a way to reduce harm from diseases
+
+"Morality is essentially represented by a cognitive template that combines a **perceived intentional agent** with **a perceived suffering patient.**" 
+
+.right[-Kurt Gray and colleagues, 2012]]
+
+.right-column-small[![](images/Kurt-Gray.jpg)
+<center><b>Kurt Gray</b>, <i>Social Psychologist<i></center>]
+---
+
+
+# Defining morality
+.footnote[Janoff-Bulman & Carnes (2013)]
+
+.left-column-big[Morality requires us to regulate our behavior; we need to overcome temptations or desires to doing bad and motivate ourselves to do good
+
+"Morality is generally recognized as a system of rules that facilitate and coordinate group living; as such **it involves behavioral regulation so as to optimize our existence as social beings.**" .right[-Janoff-Bulman & Carnes, 2013]]
+
+.right-column-small[![](images/ronnie_janoff-bulman.jpg)
+<center><b>Ronnie Janoff-Bulman</b>, <i>Social Psychology</i></center>]
+
+---
+
+#Defining morality
+
+.left-column-big[The goodness of moral actions cannot be determined outside of their social-relational context 
+
+"We must reconceptualize moral psychology as **embedded in our social-relational cognition**, such that moral judgments and behaviors emerge out of the specific obligations and transgressions entailed by particular types of social relationships."
+.right[Rai & Fiske, 2011]]
+
+.right-column-small[![](images/Tage_Rai.png)
+<center><b>Tage Rai</b>,<br> <i>Social Psychologist</i> ]
+
 ---
 
 #Measuring morality
 
+Psychologists generally measure morality through...
+
+- Self-report of behaviors or traits
+- Hypothetical moral dilemmas
+- Endorsement of abstract moral rules
+- Position on specific moral issues
+- Behavioral measures
+
+.footnote[Ellemers et al. (2019)]
+
 ---
 
-#Moral foundations theory
+# Self-report 
 
-- There are (at least) five moral intuitions or principles that vary in a population
+.footnote[Lee & Ashton (2018)]
+
+- An example of a self-report measure of morality would be The HEXACO Personality Inventory **Honesty-Humility subscale**
+
+- Individuals who score high on Honesty-Humility say that they don't manipulate others for personal gain and feel little temptation to break rules
+
+Example items on the scale:
+
+1. If I want something from a person I dislike, I will act very nicely toward that person in order to get it. (R)
+
+2. I’d be tempted to use counterfeit money, if I were sure I could get away with it. (R)
+
+---
+
+# Hypothetical moral dilemmas 
+
+A runaway trolley is headed for five people who will be killed if it proceeds on its present course. The only way to save them is to hit a switch that will turn the trolley onto an alternate set of tracks where it will kill one person instead of five. Should you turn the trolley in order to save five people at the expense of one?
+
+![](images/trolley_switch_case.JPG)
+
+---
+
+#Abstract moral rules 
+
+- .highlight[Moral foundations theory] posits that there are (at least) five moral intuitions or principles that vary in a population
   - **Harm/care** - We should care for a protect vulnerable others.
   - **Fairness/cheating** - We should treat everyone fairly.
   - **Ingroup/ betrayal** - We should be loyal to our groups.
@@ -249,14 +315,14 @@ Social conventions are arbitrarily designated and can be replaced with another r
 
 --
 
-A candidate for a 6th foundation:
+A candidate for a 6th intuition:
 
   - **Liberty/ Oppression** - There should not be people restricting the freedom of others.
   
-.footnote[Graham, Haidt, & Nosek (2009); Koleva et al. (2012)]
+.footnote[Haidt & Joseph (2007); Koleva et al. (2012)]
 
 ---
-# Moral foundations theory
+# Abstract moral rules
 
 ```{r, include = FALSE}
 library(tidyverse)
@@ -264,29 +330,11 @@ library(kableExtra)
 ```
 
 ```{r, echo = FALSE}
+
 Foundation <- c(".small[**Care/ Harm**]", ".small[**Fairness/ Cheating**]", ".small[**Ingroup/ Betrayal**]", ".small[**Authority/ Subversion**]", ".small[**Purity/ Degradation**]")
 
 Definition <- c(".small[Do not harm.]", ".small[Treat others fairly.]", ".small[Be loyal.]", ".small[Respect authority and tradition.]", ".small[Do not violate purity norms.]")
 
-Adaptation <- c(".small[Protect vulnerable children.]", ".small[Benefit from partnerships.]", ".small[Form coalitions.]", ".small[Forge relationships within hierarchies.]", ".small[Avoid communicable diseases.]")
-
-Triggers <- c(".small[Suffering, pictures of baby seals]", ".small[Deception, marital infidelity]", ".small[Treason, sports teams]", ".small[Respect for bosses, parents]", ".small['Deviant' sexual behavior, food]")
-
-Emotions <- c(".small[Compassion for victim; anger at perpretator]", ".small[Anger, gratitude, guilt]", ".small[Group pride, rage at traitors]", ".small[Respect, fear]", ".small[Disgust]")
-
-cbind(Foundation, Definition, Adaptation, Triggers, Emotions) %>% kbl()
-
-```
-
-.footnote[Graham et al. (2013)]
-
-???
-An act could violate more than one moral principle, e.g., marital infidelity: harm, fairness, and purity
----
-# Moral foundations questionnaire
-
-
-```{r, echo = FALSE}
 `MFQ30 Item` <- c(".small[\"It can never be right to kill a human being.\"]", ".small[\"I think it’s morally wrong that rich children inherit a lot of money while poor children inherit nothing.\"]",".small[\"People should be loyal to their family members, even when they have done something wrong.\"]", ".small[\"If I were a soldier and disagreed with my commanding officer’s orders, I would obey anyway because that is my duty.\"]", ".small[\"People should not do things that are disgusting, even if no one is harmed.\"]")
 
 cbind(Foundation, Definition, `MFQ30 Item`) %>% kbl()
@@ -294,17 +342,32 @@ cbind(Foundation, Definition, `MFQ30 Item`) %>% kbl()
 
 .footnote[Graham et al. (2008)]
 
+---
+# Position on specific moral issues
+
+- Scales inquiring information about your position on a specific moral issue
+- "Do you think abortion is wrong"?
 
 ---
-# Defining morality
+# Behavioral measures
 
-.left-column-big[- Some psychologists argue that all foundations can be mapped onto a single harm principle, e.g., authority provides a way to reduce conflict peacefully, purity provides a way to reduce harm from diseases
+- Economic sharing games (e.g., prisoners dilemma, the ultimatum game, the dictator game)
+- "Would you like to donate some of your earnings?"
+- Other signs of moral/ immoral behavior, e.g., shocks in Milgram's studies
 
-"Morality is essentially represented by a cognitive template that combines a **perceived intentional agent** with **a perceived suffering patient.**" 
+---
 
-.right[-Kurt Gray and colleagues, 2012]]
+# Structure of the course
 
-.right-column-small[![](images/Kurt-Gray.jpg)
-<center><b>Kurt Gray</b>, <i>Social Psychologist<i></center>]
+- Week 1-2: Introduction, evolution, and development
+- Weeks 3-8: moral reasoning, moral judgments, moral behavior, moral emotions, and the moral self
+![](images/review_paper.JPG)
+- Weeks 9-10: applications of moral psychology (politics, religion, and the law)
 
- 
+.footnote[Ellemers et al. (2019)]
+---
+
+# Course website
+
+- www.sdimakis.github.io/moral_psychology
+- Course content, syllabus, readings, lectures, and assignments are all posted

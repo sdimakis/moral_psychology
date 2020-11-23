@@ -33,7 +33,7 @@ data[16,4] <- "[Bandura et al. (1996)](readings/week_8/Bandura_1996.pdf); [Mazar
 data[17,4] <- "[Graham, Haidt, & Nosek (2009)](readings/week_9/Graham_2009.pdf); [Pizarro (2012)](https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust?language=en)"
 data[18,4] <- "[Day et al. (2014)](readings/week_9/Day_2014.pdf); [Feinberg & Willer (2015)](readings/week_9/Feinberg_2015.pdf)"
 data[19,4] <- "[Shariff & Norenzayan (2007)](readings/week_10/Shariff_2007.pdf); [Graham & Haidt (2010)](readings/week_10/Graham_2010.pdf)"
-data[20,4] <- "[Miller, Bersoff, & Harwood (1990)](readings/week_10/Miller_1990.pdf); [An & Trafimow (2014)](readings/week_10/An_2014.pdf)"
+data[20,4] <- "[Miller, Bersoff, & Harwood (1990)](readings/week_10/Miller_1990.pdf); [Alicke et al. (2008)](readings/week_10/Alicke_2008.pdf)"
 
 ```
 

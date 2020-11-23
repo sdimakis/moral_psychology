@@ -12,9 +12,9 @@ output:
 ---
 # **Course description**
 
-Individuals develop variable and sometimes even opposing intuitions about what themselves and others should and should never do. Moral psychology is the scientific study of how individuals distinguish right from wrong, and act (or fail to act) accordingly. In this course, we will explore questions like:
+Individuals develop variable and sometimes even opposing intuitions about what themselves and others should and should never do. Moral psychology is the scientific study of how individuals judge behaviors and character traits as right or wrong/ good or bad, and act (or fail to act) in a way that they would consider virtuous. In this course, we will explore questions like:
 
-- How do we decide that a behavior is wrong?
+- How do we come to the conclusion that a behavior is wrong?
 - How do we judge if someone else is a good or bad person?
 - How do we lie, cheat, steal, and hurt others with a clear conscience? 
 - Why do different groups of people come to different conclusions about what is right? 

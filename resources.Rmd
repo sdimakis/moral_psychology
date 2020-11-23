@@ -1,5 +1,5 @@
 ---
-title: "<b>Extra resources</b>"
+title: "<b><p style=\"color:#2780e4\">Extra resources</p></b>"
 output:
   html_document:
     theme: cosmo
@@ -7,7 +7,7 @@ output:
     toc_float: true
 ---
 
-# Reading
+# **Reading**
 Please contact me if you would like additional reading on a particular topic. I would be happy to share journal articles and extra resources. For books about moral psychology and moral philosophy for a general audience, I recommend:
 
 - **Moral Tribes** *Joshua Greene*
@@ -20,7 +20,7 @@ Please contact me if you would like additional reading on a particular topic. I 
 
 - **What It Means to Be Moral** *Phil Zuckerman*
 
-# Talks
+# **Talks**
 
 - [Our buggy moral code](https://www.ted.com/talks/dan_ariely_our_buggy_moral_code?language=en) *Dan Ariely*
 
@@ -36,7 +36,7 @@ Please contact me if you would like additional reading on a particular topic. I 
 
 
 
-# Podcasts
+# **Podcasts**
 
 - **The Moral Science Podcast** *Amber Cazzell* [`r fontawesome::fa('apple')`](https://podcasts.apple.com/us/podcast/the-moral-science-podcast/id1468695145) [`r fontawesome::fa('spotify')`](https://open.spotify.com/show/0GaXHC2UcuErWfKlMl3dcf) [`r fontawesome::fa('google')`](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iZGRjYmM4L3BvZGNhc3QvcnNz?hl=en)
 

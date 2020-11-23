@@ -35,6 +35,10 @@
   
 }
 
+.smallish {
+  font-size: 80%;
+}
+
 .remark-slide-content {
     font-size: 25px;
     padding: 1em 4em 1em 4em;
@@ -69,14 +73,14 @@
 
 .left-column-big {
   color: black;
-  width: 65%;
+  width: 67%;
   height: 92%;
   float: left;
 }
 
 .right-column-small{
   color: black;
-  width: 35%;
+  width: 30%;
   height: 92%;
   float: right;
 }

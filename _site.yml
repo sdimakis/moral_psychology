@@ -7,7 +7,12 @@ navbar:
       href: index.html
     - text: Course schedule
       href: schedule.html
-    - text: Lectures
+    - text: "Lectures"
+      menu:
+      - text: "Defining morality"
+        href: "lectures/1_defining_morality.html"
+      - text: "Evolution of morality"
+        href: "lectures/2_evolution.html"
     - text: "Homework"
       menu:
       - text: "Homework 1"

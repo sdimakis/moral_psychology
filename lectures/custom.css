@@ -84,3 +84,25 @@
   height: 92%;
   float: right;
 }
+
+.smallest-picture{
+  color: black;
+  float: right;
+  width: 60%;
+}
+
+
+.right-column-big{
+  color: black;
+  width: 60%;
+  height: 92%;
+  float: right;
+}
+
+
+.left-column-small{
+  color: black;
+  width: 35%;
+  height: 92%;
+  float: left;
+}

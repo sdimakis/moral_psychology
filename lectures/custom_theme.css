@@ -9,7 +9,7 @@
 }
 
 .inverse {
-  background-color: #154733;
+  background-color: black;
   border:none;
   font-color: #fff;
   text-shadow: none;
@@ -35,7 +35,12 @@
 .remark-code-line-highlighted { background-color: rgba(225, 224, 0, 0.6); }
 
 h1, h2 {
-  color: #007935;
+  color: black;
+  background-image: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/helping.jpg);
+  padding-top: 15px;
+  background-color:black;
+  background-size: 1200px;
+
 }
 
 h3 {
@@ -63,28 +68,26 @@ a:hover {
   font-size: 1em;
 }
 
-.title-slide {
-  background-image: url(https://github.com/DJAnderson07/figs/raw/master/UOSignature-107-4C.png);
-  background-position: 91% 8%;
-  background-size: 250px;
-}
-
 .title-slide h1 {
   font-size: 90px;
   text-shadow: none;
   text-align: center;
-  padding-top: 200px;
-  margin-bottom: 150px;
-  color: white;
-  text-shadow: 0px 4px 4px #282828;
+  padding-top: 400px;
+  color: #F0F0F0;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+
 
 }
 
 .title-slide h2 {
   font-size: 40px;
   text-align: left;
-  color: #FEE123;
-  margin-top: 200px;
+  text-align: center;
+  color: black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+
 
 }
 

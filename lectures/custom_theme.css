@@ -1,5 +1,5 @@
 .remark-slide-content {
-  font-size: 1.6em;
+  border: 10px solid black;
   padding: 20px 60px;
 }
 
@@ -9,7 +9,7 @@
 }
 
 .inverse {
-  background-color: black;
+  background-color: white;
   border:none;
   font-color: #fff;
   text-shadow: none;
@@ -28,7 +28,7 @@
 }
 
 .footnote {
-  border-top: 1px solid #007935;
+  border-top: 2px solid black;
   font-size: 0.6em;
 }
 
@@ -36,17 +36,7 @@
 
 h1, h2 {
   color: black;
-  background-image: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/helping.jpg);
-  padding-top: 15px;
-  background-color:black;
-  background-size: 1200px;
-
-}
-
-h3 {
-  color: #47484D;
-  margin: 0px;
-  padding: 0px;
+  font-size: 60px;
 }
 
 code {
@@ -65,32 +55,32 @@ a:hover {
 }
 
 .remark-slide-number {
-  font-size: 1em;
+  font-size: 0.6em;
+}
+
+.title-slide {
+  background-image: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/lectures/images/hand.jfif);
+  background-size: 1000px;
+  border: 10px solid black;;
 }
 
 .title-slide h1 {
-  font-size: 90px;
-  text-shadow: none;
-  text-align: center;
-  padding-top: 400px;
-  color: #F0F0F0;
-  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
-
+  padding-top: 260px;
+  font-size: 60px;
+  text-align: left;
+  margin-top: 160px;
+  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, -2px 2px 0 #000;
 
 }
 
 .title-slide h2 {
-  font-size: 40px;
+  font-size: 20px;
   text-align: left;
-  text-align: center;
-  color: black;
-  padding-top: 15px;
-  padding-bottom: 15px;
-
-
+  padding-top: 0px;
+  margin-top: 0px;  
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, -1px 1px 0 #000;
 
 }
-
 
 .title-slide .remark-slide-number {
   display: none;

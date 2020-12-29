@@ -1,8 +1,9 @@
 ---
 title: "Evolution of morality"
+subtitle: "Lecture 2 - Moral Psychology"
 output:
   xaringan::moon_reader:
-    css: [default, chocolate-fonts, custom_theme.css, custom.css]
+    css: [default, custom_fonts.css, custom_theme.css, custom.css]
     lib_dir: libs
     nature:
       highlightStyle: github

@@ -125,9 +125,9 @@ Let's get started!
 .center[
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ut0ai4s4mjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ]
+The Good Place is a TV series set in the afterlife. When you die, if you've been a 'good person' you go to the Good Place, and if you've been a 'bad person', you go to the Bad Place. This is a clip from the first episode where the characters are introduced to how their goodness was determined.
+.right[https://www.youtube.com/watch?v=ut0ai4s4mjU]
 
-The Good Place is a TV series set in the afterlife. In the show, when you die, if you've been a 'good person' you go to the Good Place, and if you've been a 'bad person', you go to the Bad Place. This is a clip from the first episode where the characters are introduced to how their goodness was determined.
- 
 ---
 # the good place's moral claims
 
@@ -409,7 +409,7 @@ A good descriptive theory of morality needs to account for meaningful difference
 3. Morality is care/harm
 2. The model of moral motives
 4. Relationship regulation theory
-5. Circles of moral concern
+5. Circle of moral concern
 
 ---
 # Moral foundations theory (MFT)
@@ -428,7 +428,7 @@ A good descriptive theory of morality needs to account for meaningful difference
 So anything that regulates/ suppresses selfishness can be considered moral by someone under this definition
 ---
 
-# moral foundations theory (MFT)
+# Moral foundations theory (MFT)
 
 - Haidt proposed **moral foundations theory**, which posits that there are (at least) five moral intuitions. Individuals vary in how much they are willing to endorse or prioritize their moral intuitions
   - **Harm/care** - We should care for and not harm vulnerable others.
@@ -441,7 +441,7 @@ So anything that regulates/ suppresses selfishness can be considered moral by so
 
 ---
 
-# moral foundations theory (MFT)
+# Moral foundations theory (MFT)
 
 - Haidt proposed **moral foundations theory**, which posits that there are (at least) five moral intuitions
   - **Harm/care** - We should care for and not harm vulnerable others.
@@ -465,7 +465,7 @@ A candidate for a 6th intuition:
 3. **Morality is care/harm**
 2. The model of moral motives
 4. Relationship regulation theory
-5. Circles of moral concern
+5. Circle of moral concern
 
 ---
 # Morality is care/harm
@@ -488,7 +488,7 @@ Meaningful differences arise when individuals disagree about which actions are h
 3. Morality is care/harm
 2. **The model of moral motives**
 4. Relationship regulation theory
-5. Circles of moral concern
+5. Circle of moral concern
 
 ---
 # The model of moral motives (the MMM)
@@ -531,7 +531,7 @@ The second row is what we should do: we should be hardworking and conscientiousn
 3. Morality is care/harm
 2. The model of moral motives
 4. **Relationship regulation theory**
-5. Circles of moral concern
+5. Circle of moral concern
 ---
 
 #  Relationship regulation theory of morality
@@ -584,10 +584,10 @@ Two people can employ different relational mental models at different times, e.g
 3. Morality is care/harm
 2. The model of moral motives
 4. Relationship regulation theory
-5. **Circles of moral concern**
+5. **Circle of moral concern**
 
 ---
-# Circles of moral concern
+# Circle of moral concern
 .left-column-big[Others argue that meaningful differences arise when people differ in who they are concerned about. This idea was first theorized by W.E.H. Lecky and then later popularized by modern philosopher Peter Singer.
 
 "At one time the benevolent affections embrace merely the family, soon the circle expanding includes first a class, then a nation, then a coalition of nations, then all humanity and finally, its influence is felt in the dealings of man with the animal world."
@@ -597,7 +597,7 @@ Two people can employ different relational mental models at different times, e.g
 <center><b>W.E.H. Lecky</b><br> <i>Historian, philosopher</i>
 ---
 
-# circles of moral concern
+# Circle of moral concern
 .right-column-big[![](images/moral_concern.JPG)]
 .left-column-small[- Psychologist have found that individuals differ in who they have moral concerns for
 - For example, children are more egocentric and many vegetarians/ vegans have higher moral concern for animals than meat-eaters do]

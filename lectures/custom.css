@@ -65,6 +65,14 @@
   padding-left: 4em;
 }
 
+
+.smallest-picture{
+  color: black;
+  float: right;
+  width: 60%;
+}
+
+
 .words-right-picture{
   width: 40%;
   float: right;
@@ -78,19 +86,13 @@
   float: left;
 }
 
-.right-column-small{
+
+.left-column-small{
   color: black;
-  width: 30%;
+  width: 35%;
   height: 92%;
-  float: right;
+  float: left;
 }
-
-.smallest-picture{
-  color: black;
-  float: right;
-  width: 60%;
-}
-
 
 .right-column-big{
   color: black;
@@ -100,9 +102,26 @@
 }
 
 
-.left-column-small{
+.right-column-small{
   color: black;
-  width: 35%;
+  width: 30%;
+  height: 92%;
+  float: right;
+}
+
+
+
+.right-column-med{
+  color: black;
+  width: 42%;
+  height: 92%;
+  float: right;
+}
+
+.left-column-med{
+  color: black;
+  width: 56%;
   height: 92%;
   float: left;
 }
+

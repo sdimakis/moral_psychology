@@ -1,6 +1,6 @@
 ---
-title: "Evolution of morality"
-subtitle: "Lecture 2 - Moral Psychology"
+title: "Evolution and development"
+subtitle: "Week 2 - Moral Psychology"
 output:
   xaringan::moon_reader:
     css: [default, custom_fonts.css, custom_theme.css, custom.css]
@@ -11,74 +11,93 @@ output:
       countIncrementalSlides: false
 ---
 
+
+# Week 2
+
+This week we will be discussing insights for human moral psychology from research on animals and human infants/ children.
+
+.highlight[In week 2:]
+- Are remnants of our moral intuitions present in animals?
+- How can natural selection, which touts "survival of the fittest," account for the presence of moral organisms?
+- Are children capable of moral reasoning and moral behavior?
+- How do we develop our moral conscience across the lifespan?
+
+---
+
 # Darwin's theory of evolution 
 
 .footnote[Darwin (1859)]
 
-.left-column-big[- Darwin proposed that organisms evolve primarily through *natural selection*
-  - Organisms in a given population naturally vary on traits (e.g., height)
-  - When a particular trait is adaptive (e.g., being tall), individuals with the adaptive form of the trait are more likely to survive and reproduce
+.left-column-med[- Darwin proposed that organisms evolve primarily through *natural selection*
+  - Organisms in a given population naturally vary on heritable traits (e.g., height)
+  - When a particular variant of a trait is adaptive (e.g., being tall), individuals with the adaptive form of the trait are more likely to survive and reproduce
   - Thus adaptive traits are more likely to be passed on to subsequent generations]
 
-.right-column-small[![](images/giraffes.gpg.JPG)]
+.right-column-med[![](images/giraffes.gpg.JPG)]
 
 ---
 
 # Morality
 
-- Altruistic behavior has puzzled evolutionary biologists and psychologists because it seemingly conflicts with evolutionary theory
+Altruistic behavior has puzzled evolutionary biologists and psychologists because it seemingly conflicts with the theory of natural selection
 
--  Why do some sacrifice their lives to save another life, or sacrifice their time and earnings to help those who are suffering, when these actions can reduce their chances of surviving and reproducing? 
+Individuals who steal, cheat, deceive, and hoard resources would have a better chance of surviving and reproducing
 
+
+So why do some individuals sacrifice their lives to save another life, or sacrifice their time and earnings to help those who are suffering, when these actions can reduce their chances of surviving and reproducing? 
 
 ---
 
 # A veneer theory of human morality
 
-- Humans are inherently selfish and amoral beings
-- For each person, underneath a thin "veneer" of morality lies an amoral, egoistic animal
-- This theory implies that humans are the only moral animals; acting moral requires self-regulation and self-control 
+- Veneer theory was endorsed by many biologists in the 20th century
+- It posits that humans are inherently selfish and amoral beings. Underneath a thin "veneer" of morality lies an amoral, selfish animal
+- This theory implies that humans are the only moral animal because morality requires .highlight[self-regulation and self-control] that other animals do not have
 .right-column[![](images/veneer.jpg)]
 
 .footnote[Frans de Waal (2006)]
 
 ---
-# Are other animals amoral?
+# Moral behavior of primates
 
-- Let's take a look at some of our closest relatives
+- In order to determine if other animals have moral capabilities, we should first observe the behavior of our closest evolutionary relatives: bonobos and chimpanzees
 
-![](images/tree2.JPG)
+.smaller-picture[![](images/tree2.JPG)]
 
 ---
 
-# Bonobos and chimpanzeess
+# Bonobos and chimpanzees
 
-.small-picture-writing[
-- Both live in Sub-Saharan Africa, separated by the Congo river
-- North of the Congo river, there is less rainfall and more competition for food
+.left-column-med[
+- Both bonobos and chimpanzees live in Sub-Saharan Africa, separated by the Congo river
+- North of the Congo river, where chimpanzees live, there is less rainfall and more competition for food; south of the Congo river, where bonobos live, food is abundant and competition is limited
 - These different environmental pressures led to large differences in behavior between the two species]
 
-.small-picture[![](images/Bonobo_vs_chimp.png)
-Red is where bonobos live, blue is where chimps live]
+.right-column-med[![](images/Bonobo_vs_chimp.png)
+Chimps live in the blue areas and bonobos live in the red areas]
 
 ???
+The congo river is very wide so they can't swim across
 For example, some gorillas and chimps live in the same areas, where gorillas  eat what is on the ground, so chimps have to find food elsewhere 
 ---
 # Bonobos and chimpanzees
 
 .center[<iframe width="700" height="400" src="https://www.youtube.com/embed/Wrv-W-_mHnI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
 
+.right[https://www.youtube.com/watch?v=Wrv-W-_mHnI]
 
 ---
-# Is there enough evidence to support the veneer theory?
+# Is vaneer theory supported?
 
 - While bonobos are relatively peaceful, chimps can be very violent
 - Bonobo females ban together to form strong alliances, but chimpanzee males often hurt females and children for their own benefit
+--
+
 - .highlight[Discussion question:] can understanding the behavior of our closest relatives (chimps and bonobos) tell us anything about human morality? Are we chimps with self-control (as veneer theory would suggest), or is something else going on?
 
 
 ---
-# The Beethoven error
+# The "Beethoven" error
 - Beethoven was incredibly disorganized and messy; nonetheless, surrounded by chaos, he created beautiful works of art
 - It would be an error to say that beauty cannot result from a disorderly, chaotic process
 - In the same way, while natural selection can be cruel and ruthless, it would be an error to say that it can only result in cruel and ruthless creatures
@@ -106,9 +125,8 @@ For example, some gorillas and chimps live in the same areas, where gorillas  ea
 
 # A naturalistic theory of human morality
 
-- If we evolved an intuitive moral sense (i.e., a conscious) from living in social groups, then other social animals should also show signs of moral intuitions
-- For example, if non-human social animals have moral intuitions, then they will avoid harming and try to help when someone is suffering
-
+- If we evolved morality from living in social groups, then we should be able to observe other social animals acting in moral ways 
+- For example, non-human social animals would be inclined to help others and would be sensitive to violations of fairness
 
 ---
 

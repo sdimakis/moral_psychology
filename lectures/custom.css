@@ -86,6 +86,13 @@
   float: left;
 }
 
+.left-column-bigger {
+  color: black;
+  width: 73%;
+  height: 92%;
+  float: left;
+}
+
 
 .left-column-small{
   color: black;
@@ -94,6 +101,13 @@
   float: left;
 }
 
+
+.left-column-smaller{
+  color: black;
+  width: 32%;
+  height: 92%;
+  float: left;
+}
 .right-column-big{
   color: black;
   width: 60%;
@@ -101,10 +115,24 @@
   float: right;
 }
 
+.right-column-bigger{
+  color: black;
+  width: 68%;
+  height: 92%;
+  float: right;
+}
 
 .right-column-small{
   color: black;
   width: 30%;
+  height: 92%;
+  float: right;
+}
+
+
+.right-column-smaller{
+  color: black;
+  width: 25%;
   height: 92%;
   float: right;
 }

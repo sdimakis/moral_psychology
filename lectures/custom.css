@@ -72,6 +72,12 @@
   width: 60%;
 }
 
+.smallish-picture{
+  color: black;
+  float: left;
+  width: 80%;
+}
+
 
 .words-right-picture{
   width: 40%;
@@ -142,14 +148,13 @@
 .right-column-med{
   color: black;
   width: 42%;
-  height: 92%;
+  height: 50%;
   float: right;
 }
 
 .left-column-med{
   color: black;
-  width: 56%;
-  height: 92%;
+  width: 58%;
   float: left;
 }
 

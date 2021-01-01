@@ -44,9 +44,6 @@ Individuals develop variable and sometimes even opposing intuitions about what t
 - Weeks 3-8: moral reasoning, moral judgments, moral behavior, moral emotions, and the moral self
 - Weeks 9-10: applications of moral psychology (politics, religion, the law)
 
---
-.smaller-picture[![](images/review_paper.JPG)]
-
 ---
 # Assignments
 
@@ -388,8 +385,10 @@ Definitions of morality are either **descriptive** or **normative**
 - **Normative**: morality is a code of conduct that would be agreed upon by all "rational" persons 
 - **Descriptive**: morality is a system of morals that are endorsed by an individual or a group
 
-Most of our normative theories come from philosophers, who have long debated what people *ought* to think is moral. Most of our descriptive theories of morality come from anthropologists and psychologists, who describe the moral systems endorsed by groups of people or cultures
-- Descriptive definitions allow for different people or groups to come to different conclusions about what is moral
+Philosophers generally create normative theories, debating what we *ought* to think is moral and how we *ought* to make moral judgments
+
+Social scientists generally theorize descriptively, recording how individuals differ in their moral intuitions and theorizing about the psychological mechanisms underlying them 
+
 
 .footnote[Zalta et al. (2020)]
 
@@ -406,15 +405,15 @@ A good descriptive theory of morality needs to account for meaningful difference
 # Five descriptive theories of morality
 
 1. **Moral foundations theory**
-3. Morality is care/harm
+3. The moral dyad: agent and patient
 2. The model of moral motives
-4. Relationship regulation theory
+4. Relationship regulation
 5. Circle of moral concern
 
 ---
 # Moral foundations theory (MFT)
 
-.left-column-big[Haidt has taken a **functionalist** approaches to defining morality, meaning that he describes something as moral if it fulfills a particular *function*.
+.left-column-big[Haidt has taken a **functionalist** approaches to defining morality, meaning that he describes something as moral if it fulfills a particular *function*
 
 >"Moral systems are interlocking sets of values, virtues, norms, practices, identities, institutions, technologies, and evolved psychological mechanisms that work together to **suppress or regulate selfishness and make cooperative social life possible.**"
 
@@ -462,17 +461,15 @@ A candidate for a 6th intuition:
 # Five descriptive theories of morality
 
 1. Moral foundations theory
-3. **Morality is care/harm**
+3. **The moral dyad: agent and patient**
 2. The model of moral motives
-4. Relationship regulation theory
+4. Relationship regulation
 5. Circle of moral concern
 
 ---
-# Morality is care/harm
+# The moral dyad: agent and patient
 
-.left-column-big[However, some psychologists argue that all foundations can be mapped onto a single harm principle, e.g., authority provides a way to reduce conflict peacefully, purity provides a way to reduce harm from diseases.
-
-Meaningful differences arise when individuals disagree about which actions are harmful.
+.left-column-big[However, Gray argues that, instead of five foundations, all foundations can be mapped onto a single harm principle: help/ do not harm
 
 "Morality is essentially represented by a cognitive template that combines a **perceived intentional agent** with **a perceived suffering patient.**" 
 
@@ -482,12 +479,32 @@ Meaningful differences arise when individuals disagree about which actions are h
 <center><b>Kurt Gray</b>, <i>Social Psychologist<i></center>]
 
 ---
+# The moral dyad: agent and patient
+.footnote[Gray, Waytz, & Young (2012)]
+<center>![](images/gray_dyad.JPG) </center>
+When asked for a single moral act, people almost always say an act in which an agent causes harm to a patient
+
+Acts that cause harm to a defenseless victim are the most easily accessible moral violations and are judged the most harshly
+---
+# The moral dyad: agent and patient
+.footnote[Gray, Waytz, & Young (2012)]
+<center>![](images/gray2.JPG)</center>
+This causes agent/patient to become a cognitive template for a moral violation
+
+---
+# The moral dyad: agent and patient
+.footnote[Gray, Waytz, & Young (2012)]
+<center>![](images/gray3.JPG) </center>
+The immoral agent/patient cognitive template can sometimes lead individuals to perceive a victim even when there is not one, especially when individuals personify the dead, animals, or groups
+
+This model suggests that people do not have fundamentally different moralities, but instead disagree on which acts are harmful
+---
 # Five descriptive theories of morality
 
 1. Moral foundations theory
-3. Morality is care/harm
+3. The moral dyad: agent and patient
 2. **The model of moral motives**
-4. Relationship regulation theory
+4. Relationship regulation
 5. Circle of moral concern
 
 ---
@@ -528,15 +545,15 @@ The second row is what we should do: we should be hardworking and conscientiousn
 # Five descriptive theories of morality
 
 1. Moral foundations theory
-3. Morality is care/harm
+3. The moral dyad: agent and patient
 2. The model of moral motives
-4. **Relationship regulation theory**
+4. **Relationship regulation**
 5. Circle of moral concern
 ---
 
 #  Relationship regulation theory of morality
 
-.left-column-big[Rai also believes that MFT does not fully capture the scope of moral disagreements. He argues that the the determination of if an action is right cannot be determined outside of its social-relational context. 
+.left-column-big[Rai (and Fiske) also believe that MFT does not fully capture the scope of moral disagreements. He argues that the determination of if an action is right or wrong cannot be determined outside of its social-relational context. 
 
 "We must reconceptualize moral psychology as **embedded in our social-relational cognition**, such that moral judgments and behaviors emerge out of the specific obligations and transgressions entailed by particular types of social relationships."
 .right[-Rai & Fiske, 2011]]
@@ -581,9 +598,9 @@ Two people can employ different relational mental models at different times, e.g
 # Five descriptive theories of morality
 
 1. Moral foundations theory
-3. Morality is care/harm
+3. The moral dyad: agent and patient
 2. The model of moral motives
-4. Relationship regulation theory
+4. Relationship regulation
 5. **Circle of moral concern**
 
 ---

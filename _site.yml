@@ -9,9 +9,9 @@ navbar:
       href: schedule.html
     - text: "Lectures"
       menu:
-      - text: "Defining morality"
+      - text: "Week 1: Defining and measuring morality"
         href: "lectures/1_defining_morality.html"
-      - text: "Evolution of morality"
+      - text: "Week 2: Evolution and development"
         href: "lectures/2_evolution.html"
     - text: "Homework"
       menu:

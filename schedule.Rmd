@@ -16,8 +16,8 @@ data <- import(here("syllabus.csv"))
 
 data[4,3] <- "Theories of moral development: Kohlberg's stage theory, social domain theory"
 data[1,4] <- "[Syllabus](syllabus.docx)"
-data[2,4] <- "[Wade (2007)](readings/week_1/Wade_2007.pdf); [Allchin (2009)](readings/week_1/Allchin_2009.pdf)"
-data[3,4] <- "[Hamlin, Wynn, & Bloom (2007)](readings/week_2/Hamlin_2007.pdf); [Bloom (2010)](readings/week_2/Bloom_2010.pdf)"
+data[2,4] <- "[Graham et al. (2013)](readings/week_1/Graham_2013.pdf); [Janoff-Bulman & Carnes (2013)](readings/week_1/Janoff-Bulman_2013.pdf)"
+data[3,4] <- "[Brosnan & de Waal (2014)](readings/week_2/Brosnan_2014.pdf); [de Waal (2013)](https://www.ted.com/talks/frans_de_waal_moral_behavior_in_animals)"
 data[4,4] <- "[Kohlberg (1968)](readings/week_2/Kohlberg_1968.pdf); [Smetana (2013)](readings/week_2/Smetana_2014.pdf)"
 data[5,4] <- "[Greene et al. (2009)](readings/week_3/Greene_2009.pdf); [Aktas, Yilmaz, & Bahcekapili (2017)](readings/week_3/Aktas_2017.pdf)"
 data[6,4] <- "[Haidt (2001)](readings/week_3/Haidt_2001.pdf); [Sauer (2012)](readings/week_3/Sauer_2012.pdf)"

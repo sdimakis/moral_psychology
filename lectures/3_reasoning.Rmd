@@ -1,0 +1,20 @@
+---
+title: "Moral reasoning"
+subtitle: "Week 3 - Moral Psychology"
+output:
+  xaringan::moon_reader:
+    css: [default, custom_fonts.css, custom_theme.css, custom.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# Week 3
+This week we will be discussing how adult humans judge actions as right or wrong
+
+.highlight[In week 3:]
+
+
+

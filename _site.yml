@@ -13,6 +13,8 @@ navbar:
         href: "lectures/1_defining_morality.html"
       - text: "Week 2: Evolution and development"
         href: "lectures/2_evolution.html"
+      - text: "Week 3: Moral reasoning"
+        href: "lectures/3_reasoning.html"
     - text: "Homework"
       menu:
       - text: "Homework 1"

@@ -1,0 +1,26 @@
+---
+title: "Intuitionism
+subtitle: "Week 3 - Moral Psychology"
+output:
+  xaringan::moon_reader:
+    css: [default, custom_fonts.css, custom_theme.css, custom.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# The rationalist model of moral judgment
+.footnote[Haidt (2001)]
+![](images/rationalist_model.JPG)
+
+- Conscious reasoning determines moral judgments  
+- Emotions (e.g., sympathy, disgust, anger) are sometimes used as input to guide conscious reasoning
+
+???
+In this model, a person is completely rational. In order to make a judgment, individuals reflect and reason through the evidence carefully, thinking about whether the action is fair, whether it harmed anyone, etc. 
+---
+# The social intuitionist model
+.footnote[Haidt (2001)]
+![](images/social_intuitionist_model.JPG)

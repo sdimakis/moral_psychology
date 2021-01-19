@@ -15,8 +15,8 @@ output:
 This week we will be discussing how adults judge actions as right or wrong
 
 .highlight[In week 3:]
-- How do we determine which course of action to take in a moral dilemma?
-- How do we determine if an action is right or wrong? 
+- **How do we determine which course of action to take in a moral dilemma?**
+- **How do we determine if an action is right or wrong?** 
 - Do moral judgments arise from a deliberate, conscious process, or an automatic, unconscious one?
 
 ---
@@ -31,7 +31,7 @@ This week we will be discussing how adults judge actions as right or wrong
 In this model, a person is completely rational. In order to make a judgment, individuals reflect and reason through the evidence carefully, thinking about whether the action is fair, whether it harmed anyone, etc. 
 
 ---
-# Conscious reasoning
+# Moral reasoning
 Psychologists study moral reasoning primarily through moral dilemmas
 - A **moral dilemma** is a moral situation where an individual has to choose between two conflicting moral principles
 
@@ -39,6 +39,8 @@ Psychologists study moral reasoning primarily through moral dilemmas
 For example, the following scenario pits two moral principles against each other: do not kill and do not allow someone to suffer.
 
 >A doctor must decide whether to kill a dying patient who is asking for an end to her suffering. 
+
+The most studied dilemma in moral psychology is .highlight[the trolley dilemma].
 
 .footnote[Monin et al. (2007)]
 ---
@@ -58,7 +60,7 @@ A runaway trolley is barreling down a set of train tracks. There is unfortunatel
 
 .left-column-big[![](images/trolley.jpg)]
 <br><br><br><br><br><br><br><br><br><br>
-You are standing to the side of the track. Next to you is a lever. If you pull the lever, you can divert the train onto an alternate track where it will kill one person instead of five. Should you pull the lever?
+You are standing to the side of the track. Next to you is a lever. If you pull the lever, you can divert the train onto an alternate track where it will kill one person instead of five. **Should you pull the lever?**
 
 ???
 Moral dilemma: kill 5 people with inaction or kill 1 person with action?
@@ -70,7 +72,7 @@ Moral dilemma: kill 5 people with inaction or kill 1 person with action?
 .left-column-biggest[![](images/trolley_bridge2.jpg)]
 
 <br><br><br><br><br><br><br><br><br><br>
-A runaway trolley is barreling down a set of train tracks. There is unfortunately no conductor to stop the train, which is about to run over and kill five people...
+Now consider this second case. A runaway trolley is barreling down a set of train tracks. There is unfortunately no conductor to stop the train, which is about to run over and kill five people...
 
 ---
 
@@ -233,7 +235,7 @@ Cushman et al. (2006) administered moral dilemmas that differed on just one prin
 ![](images/cushman_2006.JPG)
 Individuals were able to give justifications for the action principle (it is worse to act than not act) and contact principle (it is worse to harm someone with physical contact than without) but not the intention principle (it's worse to harm someone as a means to an end than as a side effect)
 ---
-# Abstract moral principles 
+# Philosophy guiding moral reasoning
 .footnote[Aktas et al. (2017)]
 
 Aktas et al. (2017) gave participants four moral dilemmas and had them choose whether the action to save the five people was "right" or "wrong"
@@ -249,18 +251,18 @@ Organ transplant personal -- a surgeon kills one patient and harvests their orga
 Organ transplant impersonal -- a surgeon allows a nurse to kill a patient and then harvests their organs to save 5 
 
 ---
-# Abstract moral principles 
+# Philosophy guiding moral reasoning
 .footnote[Aktas et al. (2017)]
 
 Additionally, participants were given five choices to justify their right or wrong judgment
 
-**Amoral**: Moral reasons did not play an important role in my judgment <br>
-**Virtue-ethical**: Someone who intentionally harms an innocent person cannot be moral <br>
-**Deontology**: Intentionally harming an innocent person is against fundamental moral rules and is thus unacceptable regardless of its intended consequences <br>
-**Utilitarianism**: Moral action is what ensures the well-being of the maximum number of people <br>
-**Fatalistic**: It is wrong to interfere with consequences that arise as a result of the natural course of events no matter what the ensuing harm is 
+- **Amoral**: Moral reasons did not play an important role in my judgment 
+- **Virtue-ethical**: Someone who intentionally harms an innocent person cannot be moral
+- **Deontology**: Intentionally harming an innocent person is against fundamental moral rules and is thus unacceptable regardless of its intended consequences <br>
+- **Utilitarianism**: Moral action is what ensures the well-being of the maximum number of people <br>
+- **Fatalistic**: It is wrong to interfere with consequences that arise as a result of the natural course of events no matter what the ensuing harm is 
 ---
-# Abstract moral principles 
+# Philosophy guiding moral reasoning
 .footnote[Aktas et al. (2017)]
 .right-column-big[![](images/aktas_2017.JPG)]
 
@@ -275,12 +277,23 @@ This study was done on predominately muslim participants (the study was done in 
 
 ---
 # Summary
--
--
--
+- Individuals find harmful actions much less morally acceptable when personal force (i.e., violence) is involved and when a person is using someone as a means to an end
+- Some moral reasoning is conscious; people justify that it is worse to harm someone with action than to harm someone with inaction, and that it is worse to harm someone with physical contact than without it
+- When asked to justify decisions in moral dilemmas, individuals prefer to endorse deontology over other moral philosophies, that there are fundamental moral rules that cannot be violated
 
 ---
-# The role of affect in moral reasoning
+
+# The rationalist model of moral judgment
+.footnote[Haidt (2001)]
+
+Let's revisit the rationalist model of moral judgment
+
+![](images/rationalist_model.JPG)
+
+Many philosophers and psychologists have argued that affect has a more direct role in determining a moral judgment than this model suggests
+
+---
+# The role of affect in moral judgments
 .footnote[Greene et al. (2001)]
 Greene et al. (2001) gave participants moral-personal dilemmas (like the footbridge trolley dilemma), moral-impersonal dilemmas (like the switch trolley dilemma), and non-moral dilemmas
 
@@ -290,7 +303,7 @@ They found that moral-personal dilemmas involved areas of the brain associated w
 ???
 They also found that solving moral dilemmas involved the same brain areas that are used in a stroop task, whether automatic process are being influenced/override by conscious processing
 ---
-#The role of affect in moral reasoning
+#The role of affect in moral judgments
 .footnote[Koenigs et al. (2007); Cima et al. (2010); Bartels & Pizzaro (2011)]
 Other studies have looked at special populations who endorse pulling the switch **and** pushing the man off of the bridge
 - Individuals who have damage to the ventromedial prefrontal cortex (VMPC), an area involved
@@ -298,19 +311,11 @@ in generating emotions
 - Psychopaths (individuals who have deficits in emotional processing and inhibitory control)
 - Utilitarians/ consequentialists (individuals who philosophize that the morality of an action should be judged on the consequences of the action, i.e., their moral philosophy requires them to suppress emotional responses)
 
-Based on these findings, emotion may play a more important role in moral reasoning than the rationalist model suggests
+Based on these findings, **emotion may play a more direct role** in moral reasoning than the rationalist model suggests
 
 ---
-# The rationalist model of moral judgment
-.footnote[Haidt (2001)]
-![](images/rationalist_model.JPG)
+#The role of affect in moral judgments
 
-- Conscious reasoning determines moral judgments  
-- Emotions (e.g., sympathy, disgust, anger) are sometimes used as input to guide conscious reasoning
+Thinking about pushing a man off of a bridge elicits more negative affect than thinking about pulling a lever; our decision to not push does not seem to be controlled at all by conscious reasoning
 
-???
-In this model, a person is completely rational. In order to make a judgment, individuals reflect and reason through the evidence carefully, thinking about whether the action is fair, whether it harmed anyone, etc. 
----
-# The social intuitionist model
-.footnote[Haidt (2001)]
-![](images/social_intuitionist_model.JPG)
+.highlight[Next class]: Are our moral decisions really guided by conscious reasoning or are they guided by our emotions?  

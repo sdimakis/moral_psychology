@@ -99,6 +99,14 @@
   float: left;
 }
 
+.left-column-biggest {
+  color: black;
+  width: 95%;
+  height: 100%;
+  float: right;
+}
+
+
 
 .left-column-small{
   color: black;
@@ -158,3 +166,14 @@
   float: left;
 }
 
+.tiny-picture{
+  width: 80px;
+  height: auto;
+  float: right;
+}
+
+.less-tiny-picture{
+  width: 100px;
+  height: auto;
+  float: right;
+}

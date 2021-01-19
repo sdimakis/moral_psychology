@@ -9,12 +9,16 @@ navbar:
       href: schedule.html
     - text: "Lectures"
       menu:
-      - text: "Week 1: Defining and measuring morality"
-        href: "lectures/1_defining_morality.html"
-      - text: "Week 2: Evolution and development"
-        href: "lectures/2_evolution.html"
-      - text: "Week 3: Moral reasoning"
-        href: "lectures/3_reasoning.html"
+      - text: "1a: Defining morality"
+        href: "lectures/1a_defining_morality.html"
+      - text: "1b: Defining and measuring morality"
+        href: "lectures/1b_measuring-morality.html"
+      - text: "2a: Evolution of morality"
+        href: "lectures/2a_evolution.html"
+      - text: "2b: Moral development"
+        href: "lectures/2b_development.html"
+      - text: "3a: Moral reasoning"
+        href: "lectures/3a_reasoning.html"
     - text: "Homework"
       menu:
       - text: "Homework 1"

@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Course schedule</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
+<script src="site_libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="site_libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="custom_website.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-custom  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="syllabus.html">Syllabus</a>
+</li>
+<li>
+  <a href="schedule.html">Course schedule</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lectures
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lectures/1a_defining_morality.html">1a: Defining morality</a>
+    </li>
+    <li>
+      <a href="lectures/1b_measuring-morality.html">1b: Defining and measuring morality</a>
+    </li>
+    <li>
+      <a href="lectures/2a_evolution.html">2a: Evolution</a>
+    </li>
+    <li>
+      <a href="lectures/2b_development.html">2b: Development</a>
+    </li>
+    <li>
+      <a href="lectures/3a_reasoning.html">3a: Conscious reasoning</a>
+    </li>
+    <li>
+      <a href="lectures/3b_intuitionism.html">3b: Intuitionism</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Homework
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="homework/homework_1.html">Homework 1 (Week 1)</a>
+    </li>
+    <li>
+      <a href="homework/homework_2.html">Homework 2 (Week 3)</a>
+    </li>
+    <li>
+      <a href="homework/homework_3.html">Homework 3 (Week 5)</a>
+    </li>
+    <li>
+      <a href="homework/homework_4.html">Homework 4 (Week 8)</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Assessments
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="quizzes/quiz_1.html">Quiz 1 (Week 2)</a>
+    </li>
+    <li>
+      <a href="quizzes/quiz_2.html">Quiz 2 (Week 4)</a>
+    </li>
+    <li>
+      <a href="exams/midterm.html">Midterm exam (Week 6)</a>
+    </li>
+    <li>
+      <a href="quizzes/quiz_3.html">Quiz 3 (Week 7)</a>
+    </li>
+    <li>
+      <a href="quizzes/quiz_4.html">Quiz 4 (Week 9)</a>
+    </li>
+    <li>
+      <a href="exams/final.html">Final exam (Finals Week)</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="contact.html">
+    <span class="fa fa-envelope-o"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="resources.html">
+    <span class="fa fa-bookmark-o"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://github.com/sdimakis/moral_psychology">
+    <span class="fa fa-github"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore"><b>Course schedule</b></h1>
+
+</div>
+
+
+<p>Readings should be completed before the class date indicated on the schedule.</p>
+<table class="table table-striped" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Week
+</th>
+<th style="text-align:left;">
+Topic
+</th>
+<th style="text-align:left;">
+Subtopic
+</th>
+<th style="text-align:left;">
+Readings
+</th>
+<th style="text-align:left;">
+Due
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+1a
+</td>
+<td style="text-align:left;">
+Defining and measuring morality
+</td>
+<td style="text-align:left;">
+Defining morality; descriptive and normative moral theories
+</td>
+<td style="text-align:left;">
+<a href="syllabus.docx">Syllabus</a>
+</td>
+<td style="text-align:left;">
+HW1 due Sunday at 11:59pm
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+1b
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Measuring morality in psychological research
+</td>
+<td style="text-align:left;">
+<a href="readings/week_1/Graham_2013.pdf">Graham et al. (2013)</a>; <a href="readings/week_1/Janoff-Bulman_2013.pdf">Janoff-Bulman &amp; Carnes (2013)</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2a
+</td>
+<td style="text-align:left;">
+Evolution and development
+</td>
+<td style="text-align:left;">
+Nonhuman animal morality, evolution of morality
+</td>
+<td style="text-align:left;">
+<a href="readings/week_2/Brosnan_2014.pdf">Brosnan &amp; de Waal (2014)</a>; <a href="https://www.ted.com/talks/frans_de_waal_moral_behavior_in_animals">de Waal (2013)</a>
+</td>
+<td style="text-align:left;">
+QUIZ1 due Sunday at 11:59pm
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2b
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Infant morality; theories of moral development
+</td>
+<td style="text-align:left;">
+<a href="readings/week_2/Kohlberg_1968.pdf">Kohlberg (1968)</a>; <a href="readings/week_2/Bloom_2010.pdf">Bloom (2010)</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3a
+</td>
+<td style="text-align:left;">
+Moral reasoning
+</td>
+<td style="text-align:left;">
+Abstract moral principles, trolleyology
+</td>
+<td style="text-align:left;">
+<a href="readings/week_3/Greene_2009.pdf">Greene et al. (2009)</a>; <a href="readings/week_3/Cushman_2006.pdf">Cushman, Young, &amp; Hauser (2006)</a>
+</td>
+<td style="text-align:left;">
+HW2 due Sunday at 11:59pm
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+3b
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+The social intuitionist model, emotion vs. reason debate
+</td>
+<td style="text-align:left;">
+<a href="readings/week_3/Haidt_2001.pdf">Haidt (2001)</a>; <a href="readings/week_3/Sauer_2012.pdf">Sauer (2012)</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4a
+</td>
+<td style="text-align:left;">
+Moral judgment
+</td>
+<td style="text-align:left;">
+Character judgments
+</td>
+<td style="text-align:left;">
+<a href="readings/week_4/Klein_2016.pdf">Klein &amp; O’Brien (2016)</a>
+</td>
+<td style="text-align:left;">
+QUIZ2 due Sunday at 11:59pm
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4b
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Action judgments, moral dumbfounding
+</td>
+<td style="text-align:left;">
+<a href="readings/week_4/Haidt_1993.pdf">Haidt, Koller, &amp; Dias (1993)</a>; <a href="readings/week_4/Uhlmann_2015.pdf">Uhlmann et al. (2015)</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+5a
+</td>
+<td style="text-align:left;">
+Moral behavior
+</td>
+<td style="text-align:left;">
+Cooperation, insights from game theory
+</td>
+<td style="text-align:left;">
+<a href="readings/week_5/Butler_2011.pdf">Butler, Burbank, &amp; Chisholm (2011)</a>; <a href="readings/week_5/Fehr_2002.pdf">Fehr &amp; Gachter (2002)</a>
+</td>
+<td style="text-align:left;">
+HW3 due Sunday at 11:59pm
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+5b
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Altruism and reputation
+</td>
+<td style="text-align:left;">
+<a href="readings/week_5/Sonnetag_2013.pdf">Sonnentag &amp; McDaniel (2013)</a>; <a href="readings/week_5/Monin_2001.pdf">Monin &amp; Miller (2001)</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+6a
+</td>
+<td style="text-align:left;">
+Immoral behavior
+</td>
+<td style="text-align:left;">
+MIDTERM
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+6b
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Moral inconsistency and hypocrisy
+</td>
+<td style="text-align:left;">
+<a href="readings/week_6/Conway_2012.pdf">Conway &amp; Peetz (2012)</a>; <a href="readings/week_6/Valdesolo_2008.pdf">Valdesolo &amp; DeSteno (2008)</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+7a
+</td>
+<td style="text-align:left;">
+Moral emotions
+</td>
+<td style="text-align:left;">
+Other-condemning emotions
+</td>
+<td style="text-align:left;">
+<a href="readings/week_7/Schnall_2008.pdf">Schnall et al. (2008)</a>; <a href="readings/week_7/Cronin_2012.pdf">Cronin, Reysen, &amp; Branscombe (2012)</a>
+</td>
+<td style="text-align:left;">
+QUIZ3 due Sunday at 11:59pm
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+7b
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Self-conscious and other-suffering emotions
+</td>
+<td style="text-align:left;">
+<a href="readings/week_7/Bastian_2011.pdf">Bastian, Jetten, &amp; Fasoli (2011)</a>; <a href="readings/week_7/Bloom_2013.pdf">Bloom (2013)</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+8a
+</td>
+<td style="text-align:left;">
+The moral self
+</td>
+<td style="text-align:left;">
+The moral self, moral identity
+</td>
+<td style="text-align:left;">
+<a href="readings/week_8/Stets_2011.pdf">Stets &amp; Carter (2011)</a>
+</td>
+<td style="text-align:left;">
+HW4 due Sunday at 11:59pm
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+8b
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Self-concept maintenance
+</td>
+<td style="text-align:left;">
+<a href="readings/week_8/Bandura_1996.pdf">Bandura et al. (1996)</a>; <a href="readings/week_8/Mazar_2005.pdf">Mazar, Amir, &amp; Ariely (2008)</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9a
+</td>
+<td style="text-align:left;">
+Morality and politics
+</td>
+<td style="text-align:left;">
+Morality of conservatives and liberals
+</td>
+<td style="text-align:left;">
+<a href="readings/week_9/Graham_2009.pdf">Graham, Haidt, &amp; Nosek (2009)</a>; <a href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust?language=en">Pizarro (2012)</a>
+</td>
+<td style="text-align:left;">
+QUIZ4 due Sunday at 11:59pm
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9b
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Moral influence, persuasion
+</td>
+<td style="text-align:left;">
+<a href="readings/week_9/Day_2014.pdf">Day et al. (2014)</a>; <a href="readings/week_9/Feinberg_2015.pdf">Feinberg &amp; Willer (2015)</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+10a
+</td>
+<td style="text-align:left;">
+Morality, religion, and culture
+</td>
+<td style="text-align:left;">
+Morality and religion
+</td>
+<td style="text-align:left;">
+<a href="readings/week_10/Shariff_2007.pdf">Shariff &amp; Norenzayan (2007)</a>; <a href="readings/week_10/Graham_2010.pdf">Graham &amp; Haidt (2010)</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+10b
+</td>
+<td style="text-align:left;">
+</td>
+<td style="text-align:left;">
+Morality and the law, intentionality, culture
+</td>
+<td style="text-align:left;">
+<a href="readings/week_10/Miller_1990.pdf">Miller, Bersoff, &amp; Harwood (1990)</a>; <a href="readings/week_10/Alicke_2008.pdf">Alicke et al. (2008)</a>
+</td>
+<td style="text-align:left;">
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

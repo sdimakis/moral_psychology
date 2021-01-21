@@ -1,0 +1,8 @@
+---
+title: "<b>Homework 2</b>"
+output:
+  html_document:
+    theme: cosmo
+---
+
+Instructions TBD.

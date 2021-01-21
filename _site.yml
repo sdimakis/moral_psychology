@@ -1,10 +1,13 @@
 name: "Course website"
 output_dir: "."
 navbar:
-  title: "Moral Psychology"
+  title: ""
+  type: custom
   left:
-    - text: Syllabus
+    - icon: fa-home
       href: index.html
+    - text: Syllabus
+      href: syllabus.html
     - text: Course schedule
       href: schedule.html
     - text: "Lectures"
@@ -13,37 +16,38 @@ navbar:
         href: "lectures/1a_defining_morality.html"
       - text: "1b: Defining and measuring morality"
         href: "lectures/1b_measuring-morality.html"
-      - text: "2a: Evolution of morality"
+      - text: "2a: Evolution"
         href: "lectures/2a_evolution.html"
-      - text: "2b: Moral development"
+      - text: "2b: Development"
         href: "lectures/2b_development.html"
-      - text: "3a: Moral reasoning"
+      - text: "3a: Conscious reasoning"
         href: "lectures/3a_reasoning.html"
+      - text: "3b: Intuitionism"
+        href: "lectures/3b_intuitionism.html"
     - text: "Homework"
       menu:
-      - text: "Homework 1"
+      - text: "HW1  (Week 1)"
         href: "homework/homework_1.html"
-      - text: "Homework 2"
+      - text: "HW2  (Week 3)"
         href: "homework/homework_2.html"
-      - text: "Homework 3"
+      - text: "HW3  (Week 5)"
         href: "homework/homework_3.html"
-      - text: "Homework 4"
+      - text: "HW4  (Week 8)"
         href: "homework/homework_4.html"
     - text: "Assessments"
       menu:
-      - text: "Quiz 1"
+      - text: "Q1  (Week 2)"
         href: "quizzes/quiz_1.html"        
-      - text: "Quiz 2"
-        href: "quizzes/quiz_2.html"        
-      - text: "Quiz 3"
-        href: "quizzes/quiz_3.html"        
-      - text: "Quiz 4"
-        href: "quizzes/quiz_4.html"
-      - text: "Midterm exam"
+      - text: "Q2  (Week 4)"
+        href: "quizzes/quiz_2.html"
+      - text: "Midterm  (Week 6)"
         href: "exams/midterm.html" 
-      - text: "Final exam"
+      - text: "Q3  (Week 7)"
+        href: "quizzes/quiz_3.html"        
+      - text: "Q4  (Week 9)"
+        href: "quizzes/quiz_4.html"
+      - text: "Final  (Finals Week)"
         href: "exams/final.html"
-
   right:
     - icon: fa-envelope-o
       href: "contact.html"
@@ -51,5 +55,10 @@ navbar:
       href: "resources.html"
     - icon: fa-github
       href: https://github.com/sdimakis/moral_psychology
-
+output:
+  html_document:
+    theme: readable
+    css: custom_website.css
+    include:
+      after_body: footer.html
 

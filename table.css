@@ -1,0 +1,111 @@
+ /* define avatar*/
+
+.avatar {
+  vertical-align: middle;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+ /* background of navbar is white*/
+
+.navbar-custom {
+  background-color: white;
+  padding-top: 15px;
+}
+
+ /* navbar buttons*/
+.navbar-custom .navbar-nav>li>a {
+  color: black;
+  font-size: 12px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 3px 1em 3px;
+  border-radius: 8px;
+  margin-right: 8px;
+}
+
+ /* navbar buttons blue when clicked on*/
+.navbar-custom .navbar-nav>.active>a {
+  background-color: #e6f0ff;
+  border-color: black;
+
+}
+
+ /* navbar buttons blue when hovered over*/
+.navbar-custom .navbar-nav>li>a:hover {
+  background-color: #ededed;
+  border-color: black;
+
+}
+
+/* NAVBAR MENU*/
+
+
+ /* navbar menu rounded corners*/
+.navbar-custom .dropdown-menu {
+  border-radius: 10px;
+  min-width: 3px;
+}
+
+ /* navbar menu text*/
+.navbar-custom .dropdown-menu>li>a {
+  font-size: 12px;
+  font-weight: bold;
+
+
+}
+
+ /* navbar menu text when hovered over*/
+.navbar-custom .dropdown-menu>a:hover {
+  font-weight: bold;
+  font-size: 12px;
+  background-color: #e6f0ff;
+}
+
+
+ /* navbar menu gray when hovered over*/
+.navbar-custom .dropdown-menu>li>a:hover {
+  background-color: #ededed;
+  color: black;
+  font-weight: bold;
+  border-color: black;
+
+
+}
+
+  
+ /* TOC black 12px font*/
+
+.list-group-item {
+  color: black;
+  font-size: 12px;
+
+}
+
+ /* TOC gray when clicked on*/
+
+.list-group-item.active {
+  background-color: #e6f0ff;
+  color: black;
+
+}
+
+ /* TOC blue highlight when hover*/
+
+.list-group-item:hover, 
+.list-group-item.active:hover {
+  color: black;
+  background-color: #ededed;
+
+}
+
+
+
+
+
+
+.table{
+width: 1px;
+white-space: nowrap;
+}

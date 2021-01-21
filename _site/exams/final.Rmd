@@ -1,0 +1,8 @@
+---
+title: "<b>Final paper</b>"
+output:
+  html_document:
+    theme: cosmo
+---
+
+Instructions TBD.

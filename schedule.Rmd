@@ -1,9 +1,5 @@
 ---
 title: "<b>Course schedule</b>"
-output:
-  html_document:
-    theme: cosmo
-
 ---
 
 ```{r, include = FALSE}
@@ -35,8 +31,6 @@ data[19,4] <- "[Shariff & Norenzayan (2007)](readings/week_10/Shariff_2007.pdf);
 data[20,4] <- "[Miller, Bersoff, & Harwood (1990)](readings/week_10/Miller_1990.pdf); [Alicke et al. (2008)](readings/week_10/Alicke_2008.pdf)"
 
 ```
-
-
 
 Readings should be completed before the class date indicated on the schedule. 
 

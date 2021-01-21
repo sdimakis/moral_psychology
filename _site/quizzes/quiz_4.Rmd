@@ -1,0 +1,8 @@
+---
+title: "<b>Quiz 4</b>"
+output:
+  html_document:
+    theme: cosmo
+---
+
+[Quiz 1 (encrypted)](Quiz_4.docx)

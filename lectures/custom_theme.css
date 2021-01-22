@@ -1,5 +1,6 @@
 .remark-slide-content {
-  border: 10px solid black;
+  border-top: 10px solid #a9a9a9;
+  border-bottom: 10px solid #a9a9a9;
   padding: 20px 60px;
 }
 
@@ -60,16 +61,19 @@ a:hover {
 
 .title-slide {
   background-image: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/lectures/images/trolley_theme.jpg);
-  background-size: 1000px;
-  border: 10px solid black;;
+  background-size: 900px;
+  border-top: 10px solid #a9a9a9;
+  border-bottom: 10px solid #a9a9a9;
+
 }
 
 .title-slide h1 {
-  padding-top: 260px;
+  padding-top: 100px;
+  padding-left: 70px;
   font-size: 60px;
   text-align: left;
   margin-top: 160px;
-  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, -2px 2px 0 #000;
+  color: black;
 
 }
 
@@ -78,8 +82,8 @@ a:hover {
   text-align: left;
   padding-top: 0px;
   margin-top: 0px;  
-  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, -1px 1px 0 #000;
-
+  padding-left: 30px;
+  color: black;
 }
 
 .title-slide .remark-slide-number {

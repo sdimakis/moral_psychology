@@ -1,16 +1,19 @@
 ---
-title: "<b><p style=\"color:#2780e4\">Extra resources</p></b>"
+title: "Extra resources"
 output: 
   html_document: 
-    theme: yeti
     toc: yes
     toc_depth: 1
     toc_float: yes
     css: custom_website.css
 ---
 
-# **Reading**
-Please contact me if you would like additional reading on a particular topic. I would be happy to share journal articles and extra resources. For books about moral psychology and moral philosophy for a general audience, I recommend:
+# Research articles
+
+
+# Books
+
+For books about moral psychology and moral philosophy for a general audience:
 
 - **Moral Tribes** *Joshua Greene*
 
@@ -22,26 +25,29 @@ Please contact me if you would like additional reading on a particular topic. I 
 
 - **What It Means to Be Moral** *Phil Zuckerman*
 
-# **Talks**
 
-- [Our buggy moral code](https://www.ted.com/talks/dan_ariely_our_buggy_moral_code?language=en) *Dan Ariely*
+# Talks
 
-- [Moral behavior in animals](https://www.ted.com/talks/frans_de_waal_moral_behavior_in_animals?language=en) *Frans de waal*
+- <u>[**Our buggy moral code**](https://www.ted.com/talks/dan_ariely_our_buggy_moral_code?language=en)</u> *Dan Ariely*
 
-
-- [The moral roots of liberals and conservatives](https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives) *Jonathan Haidt*
-
-- [Science can answer moral questions](https://www.ted.com/talks/sam_harris_science_can_answer_moral_questions) *Sam Harris*
+- <u>[**Moral behavior in animals**](https://www.ted.com/talks/frans_de_waal_moral_behavior_in_animals?language=en)</u> *Frans de waal*
 
 
-- [Progress is not a zero sum game](https://www.ted.com/talks/robert_wright_progress_is_not_a_zero_sum_game) *Robert Wright*
+- <u>[**The moral roots of liberals and conservatives**](https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives)</u> *Jonathan Haidt*
+
+- <u>[**Science can answer moral questions**](https://www.ted.com/talks/sam_harris_science_can_answer_moral_questions)</u> *Sam Harris*
+
+
+- <u>[**Progress is not a zero sum game**](https://www.ted.com/talks/robert_wright_progress_is_not_a_zero_sum_game)</u> *Robert Wright*
 
 
 
-# **Podcasts**
+# Podcasts
 
 - **The Moral Science Podcast** *Amber Cazzell* [`r fontawesome::fa('apple')`](https://podcasts.apple.com/us/podcast/the-moral-science-podcast/id1468695145) [`r fontawesome::fa('spotify')`](https://open.spotify.com/show/0GaXHC2UcuErWfKlMl3dcf) [`r fontawesome::fa('google')`](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iZGRjYmM4L3BvZGNhc3QvcnNz?hl=en)
 
 - **Making Sense** *Sam Harris* [`r fontawesome::fa('apple')`](https://podcasts.apple.com/us/podcast/making-sense-with-sam-harris/id733163012) [`r fontawesome::fa('spotify')`](https://open.spotify.com/show/5rgumWEx4FsqIY8e1wJNAk) [`r fontawesome::fa('google')`](https://podcasts.google.com/feed/aHR0cDovL3dha2luZ3VwLmxpYnN5bi5jb20vcnNz/episode/NGZmZGJiNGZjYWJkNGYzMDlmMDQ0ZjM4Y2MwZGJjN2E)
 
 - **The Psychology Podcast** *Scott Barry Kaufman* [`r fontawesome::fa('apple')`](https://podcasts.apple.com/us/podcast/the-psychology-podcast-with-scott-barry-kaufman/id942777522) [`r fontawesome::fa('spotify')`](https://open.spotify.com/show/4POIiQQjnQOuz0AqnLk3KZ) [`r fontawesome::fa('google')`](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yZjU1YmZjMC9wb2RjYXN0L3Jzcw==)
+
+- **Very Bad Wizards** *David Pizarro & Tamler Sommers* [`r fontawesome::fa('apple')`](https://podcasts.apple.com/us/podcast/very-bad-wizards/id557975157) [`r fontawesome::fa('spotify')`](https://open.spotify.com/show/4gGFerFYkDHnezTlwExEbu?si=AU5C1BzDTMCaS7uc_wqrjw) [`r fontawesome::fa('google')`](https://play.google.com/music/managemusic?t=Very_Bad_Wizards)

@@ -109,3 +109,30 @@
 width: 1px;
 white-space: nowrap;
 }
+
+/* LINKS */
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+  text-decoration: underline
+
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+  background-color: #e6f0ff;
+}
+
+
+.nav-pills>li {
+  background: #e6f0ff;
+  border-radius: 5px;
+
+ }

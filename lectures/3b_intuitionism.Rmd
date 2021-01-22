@@ -1,5 +1,5 @@
 ---
-title: "Intuitionism
+title: "Intuitionism"
 subtitle: "Week 3 - Moral Psychology"
 output:
   xaringan::moon_reader:

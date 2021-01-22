@@ -100,3 +100,16 @@
 
 }
 
+/* LINKS */
+
+/* unvisited link */
+a:link {
+  color: black;
+
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+  background-color: #e6f0ff;
+}

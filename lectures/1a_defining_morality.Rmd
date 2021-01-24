@@ -1,5 +1,5 @@
 ---
-title: "Defining morality"
+title: "Introduction"
 subtitle: "Week 1 - Moral Psychology"
 output:
   xaringan::moon_reader:
@@ -16,7 +16,7 @@ output:
 
 In the first week, after a review of the syllabus, we will be exploring how philosophers and scientists have understood and measured morality.
 
-.highlight[In week 1:]
+.highlight-blue[In week 1:]
 - **How will the course be structured?** 
 - **How will my learning be assessed? **
 - **How has morality been understood and defined?**
@@ -24,79 +24,9 @@ In the first week, after a review of the syllabus, we will be exploring how phil
 
 ---
 
-# Moral Psychology
+# Introductions
 
-Individuals develop variable and sometimes even opposing intuitions about what themselves and others should and should never do. **Moral psychology** is the scientific study of how individuals judge behaviors and character traits as right or wrong/ good or bad, and act (or fail to act) in virtuous ways. In this course, we will explore questions like:
-
-- How do we come to the conclusion that a behavior is wrong?
-- How do we judge if someone else is a good or bad person?
-- How do we lie, cheat, steal, and hurt others with a clear conscience? 
-- Why do different groups of people come to different conclusions about what is right? 
-- How do we persuade others to reconsider their stance on moral issues?
-
----
-# Structure of the course
-
-- Week 1-2: background (introduction, measurement, evolution, and development)
-- Weeks 3-8: moral thinking (moral reasoning, moral judgments, moral behavior, moral emotions, and the moral self)
-- Weeks 9-10: applications of moral psychology (politics, religion, the law)
-
----
-# Assignments
-
-Your course grade will be determined by the following assignments:
-
-
-```{r, include = FALSE}
-library(kableExtra)
-library(tidyverse)
-```
-
-```{r, echo = FALSE}
-Assignment <- c("Midterm exam", "Final paper", "Quizzes (25 points x4)", "Homework (20 points x4)", "Participation", "")
-Points <- c(rep("100 points", 3), "80 points", "20 points", "= 400 points")
-grade_table <- cbind(Assignment, Points) %>% 
-  as.data.frame()
-
-grade_table %>% kbl() %>% 
-  kable_styling(c("striped"), position = "left")
-```
-
-
----
-
-# Assessments  
-
-- The sit-down midterm exam is scheduled for **the sixth week** of the course. The exam will consist of matching, fill-in-the-blank, multiple choice, and  short answer questions.
-
-- The final research paper will be due during **finals week**.  You will choose a research question to explore from a list of topics.
-
----
-
-#Weekly assignments
-
-- Every Sunday, there will be an assignment due on Canvas at **11:59pm**
-- The assignments will alternate between quizzes and structured homework assignments
-
----
-
-# Discussion guidelines
-
-While studying moral psychology, we are bound to hear from others who do not agree with our moral values. I do not expect to agree with you on everything, and I do not expect you to agree with your classmates on everything. We are a group with diverse backgrounds and experiences. We must therefore make it a priority that everyone in this class have the opportunity to offer their ideas, hear one another’s ideas, and make arguments and challenge ideas. 
-
-If you do not feel comfortable participating in a class discussion or believe there is more that I could be doing to promote a more effective learning environment, I urge you to come talk to me. I will always listen to your concerns with respect and an open mind and will make adjustments when appropriate.
-
-
----
-
-# Discussion guidelines
-
-Proposed discussion guidelines:
-1. Criticize ideas and not people
-2. Avoid making assumptions about others
-3. Allow others to make mistakes and learn from them
-4. Keep an open mind - don’t assume your beliefs are fully formed and that you can’t learn from others
-5. Treat others with respect, even when you disagree
+Fill later with ice breaker
 
 ---
 
@@ -104,16 +34,9 @@ Proposed discussion guidelines:
 
 - www.sdimakis.github.io/moral_psychology
 - Course content, syllabus, readings, lectures, and assignments are all posted here
+- Let's navigate now to the website to go over the syllabus
 
-Any questions? 
-
---
-
-Let's get started!
 ---
-
-
-
 #The Good Place: How Your Life is Scored
 
 .center[
@@ -157,7 +80,7 @@ Let's test these claims. On a piece of paper, order the following actions from r
   - Helping your friend.
   - Eating a chicken sandwich.
 
-.highlight[Discussion question:] what did you disagree on and why?
+.highlight-blue[Discussion question:] what did you disagree on and why?
 ---
 # What people think is "moral" varies
 
@@ -304,7 +227,7 @@ Definitions of morality are either **descriptive** or **normative**
 
 #Normative definitions of morality
 
-.left-column-big[**Utilitarianism** is the *normative* moral theory that an action is morally right if it .highlight[benefits the most people.]
+.left-column-big[**Utilitarianism** is the *normative* moral theory that an action is morally right if it .highlight-blue[benefits the most people.]
 
 - Utilitarianism is a <u>consequentialist</u> theory, meaning that it focuses on the consequences of the action.
 
@@ -323,7 +246,7 @@ John Stuart Mill is a 19th century British philosopher.
 
 #Normative definitions of morality
 
-.left-column-big[**Deontology** is the *normative moral* theory that the determination that an action is right or wrong should depend on .highlight[a set of predetermined rules], rather than on the consequences of the action.
+.left-column-big[**Deontology** is the *normative moral* theory that the determination that an action is right or wrong should depend on .highlight-blue[a set of predetermined rules], rather than on the consequences of the action.
 
 >"A lie always harms another; if not some human being, then it nevertheless does harm to humanity in general, inasmuch as it vitiates the very source of right." 
 
@@ -383,4 +306,4 @@ Definitions of morality are either **descriptive** or **normative**
   - **Utilitarians** believe the moral act is the one that brings about the best consequences for the most amount of people
   - **Deontologists** believe the moral act is the one that does not violate predetermined rules, like the right that any individual has to life
 
-.highlight[ Next class:] Descriptive psychological moral theories
+.highlight-blue[ Next class:] Descriptive psychological moral theories

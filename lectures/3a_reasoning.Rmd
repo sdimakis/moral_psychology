@@ -14,7 +14,7 @@ output:
 # Week 3
 This week we will be discussing how adults judge actions as right or wrong
 
-.highlight[In week 3:]
+.highlight-blue[In week 3:]
 - **How do we determine which course of action to take in a moral dilemma?**
 - **How do we determine if an action is right or wrong?** 
 - Do moral judgments arise from a deliberate, conscious process, or an automatic, unconscious one?
@@ -40,7 +40,7 @@ For example, the following scenario pits two moral principles against each other
 
 >A doctor must decide whether to kill a dying patient who is asking for an end to her suffering. 
 
-The most studied dilemma in moral psychology is .highlight[the trolley dilemma].
+The most studied dilemma in moral psychology is .highlight-blue[the trolley dilemma].
 
 .footnote[Monin et al. (2007)]
 ---
@@ -90,7 +90,7 @@ You are standing on a footbridge overlooking the train. Next to you is a heavy g
 - If you recall from lecture 1, the normative philosophical theory *utilitarianism* says that what we ought to do is what will benefit the most people, and clearly, pushing the man off the bridge is what is best for the most number of people, so why don't we want to push?
 
 
-.highlight[Discussion question:] In both scenarios, you are choosing to either kill one person or five people, so why won't you push the man off the bridge?
+.highlight-blue[Discussion question:] In both scenarios, you are choosing to either kill one person or five people, so why won't you push the man off the bridge?
 
 
 .footnote[Hauser et al. (2008)]
@@ -318,4 +318,4 @@ Based on these findings, **emotion may play a more direct role** in moral reason
 
 Thinking about pushing a man off of a bridge elicits more negative affect than thinking about pulling a lever; our decision to not push does not seem to be controlled at all by conscious reasoning
 
-.highlight[Next class]: Are our moral decisions really guided by conscious reasoning or are they guided by our emotions?  
+.highlight-blue[Next class]: Are our moral decisions really guided by conscious reasoning or are they guided by our emotions?  

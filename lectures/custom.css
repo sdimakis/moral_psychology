@@ -177,3 +177,13 @@
   height: auto;
   float: right;
 }
+
+.highlight-blue {
+  color: black;
+  background-color: #e6f0ff; 
+}
+
+.highlight-gray {
+  color: black;
+  background-color: #efefef; 
+}

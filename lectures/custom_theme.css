@@ -1,80 +1,49 @@
 .remark-slide-content {
-  border-top: 10px solid #a9a9a9;
-  border-bottom: 10px solid #a9a9a9;
+  border-top: 10px solid black;
+  border-bottom: 10px solid black;
   padding: 20px 60px;
 }
 
 .remark-slide-content > h1 {
   margin-top: 20px;
   margin-bottom: 0px;
-}
-
-.inverse {
-  background-color: white;
-  border:none;
-  font-color: #fff;
-  text-shadow: none;
-}
-
-.inverse, .inverse h1, .inverse h2, .inverse a {
-  color: #fff;
-}
-
-.inverse h3 {
-  color: #000;
-}
-
-.inverse code {
-  color: #E1E000;
-}
-
-.footnote {
-  border-top: 2px solid black;
-  font-size: 0.6em;
-}
-
-.remark-code-line-highlighted { background-color: rgba(225, 224, 0, 0.6); }
-
-h1, h2 {
-  color: black;
-  font-size: 60px;
-}
-
-code {
-  color: #007935;
-}
-
-a {
-  color: #3F97B5;
-  text-decoration: none;
-  transition: all .2s ease-in-out;
-}
-
-a:hover {
-    font-size: 1.2em;
-    color: #EC008C;
+  background-color: #e6f0ff;
+  border-left: 10px solid black;
+  padding-left: 5px;
 }
 
 .remark-slide-number {
-  font-size: 0.6em;
+  font-size: 20px;
+  color: black;
+}
+
+.footnote {
+  font-size: 20px;
+  border-left: solid black;
+  background-color: #ededed;
+  border-width: 5px;
+  padding-left: 5px;
 }
 
 .title-slide {
-  background-image: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/lectures/images/trolley_theme.jpg);
-  background-size: 900px;
-  border-top: 10px solid #a9a9a9;
-  border-bottom: 10px solid #a9a9a9;
+  background-image: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/lectures/images/trolley_bridge.jpg);
+  background-color: white;
+  background-size: 400px;
+  border-top: 10px solid black;
+  border-bottom: 10px solid black;
 
 }
 
+
 .title-slide h1 {
-  padding-top: 100px;
-  padding-left: 70px;
   font-size: 60px;
   text-align: left;
-  margin-top: 160px;
+  margin-top: 400px;
   color: black;
-
+  background-color: #e6f0ff;
+  border-left: 10px solid black;
+  padding-left: 5px;
+  text-shadow: none;
 }
 
 .title-slide h2 {
@@ -82,12 +51,14 @@ a:hover {
   text-align: left;
   padding-top: 0px;
   margin-top: 0px;  
-  padding-left: 30px;
   color: black;
+  background-color: #ededed;
+  border-left: 10px solid black;
+  padding-left: 5px;
+  text-shadow: none;
 }
 
 .title-slide .remark-slide-number {
-  display: none;
+  text-shadow: none;
 }
 
-.mjx-chtml { font-size: 100% !important; }

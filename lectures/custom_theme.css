@@ -26,9 +26,9 @@
 }
 
 .title-slide {
-  background-image: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/lectures/images/trolley_bridge.jpg);
+  background-image: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/lectures/images/hand.jfif);
+  background-size: 1000px;
   background-color: white;
-  background-size: 400px;
   border-top: 10px solid black;
   border-bottom: 10px solid black;
 
@@ -44,6 +44,7 @@
   border-left: 10px solid black;
   padding-left: 5px;
   text-shadow: none;
+
 }
 
 .title-slide h2 {
@@ -60,5 +61,6 @@
 
 .title-slide .remark-slide-number {
   text-shadow: none;
+  text: none;
 }
 

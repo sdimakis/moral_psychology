@@ -4,11 +4,6 @@ subtitle: "Week 2 - Moral Psychology"
 output:
   xaringan::moon_reader:
     css: [default, custom_fonts.css, custom_theme.css, custom.css]
-    lib_dir: libs
-    nature:
-      highlightStyle: github
-      highlightLines: true
-      countIncrementalSlides: false
 ---
 
 

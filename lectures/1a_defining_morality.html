@@ -3,7 +3,7 @@
   <head>
     <title>Introduction</title>
     <meta charset="utf-8" />
-    <link href="libs/remark-css-0.0.1/default.css" rel="stylesheet" />
+    <link href="1a_defining_morality_files/remark-css-0.0.1/default.css" rel="stylesheet" />
     <link rel="stylesheet" href="custom_fonts.css" type="text/css" />
     <link rel="stylesheet" href="custom_theme.css" type="text/css" />
     <link rel="stylesheet" href="custom.css" type="text/css" />
@@ -317,11 +317,7 @@ Definitions of morality are either **descriptive** or **normative**
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
-<script>var slideshow = remark.create({
-"highlightStyle": "github",
-"highlightLines": true,
-"countIncrementalSlides": false
-});
+<script>var slideshow = remark.create();
 if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   window.dispatchEvent(new Event('resize'));
 });
@@ -386,24 +382,7 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
       links[i].target = '_blank';
     }
   }
-})();
-// adds .remark-code-has-line-highlighted class to <pre> parent elements
-// of code chunks containing highlighted lines with class .remark-code-line-highlighted
-(function(d) {
-  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
-  const preParents = [];
-  const findPreParent = function(line, p = 0) {
-    if (p > 1) return null; // traverse up no further than grandparent
-    const el = line.parentElement;
-    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
-  };
-
-  for (let line of hlines) {
-    let pre = findPreParent(line);
-    if (pre && !preParents.includes(pre)) preParents.push(pre);
-  }
-  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
-})(document);</script>
+})();</script>
 
 <script>
 slideshow._releaseMath = function(el) {

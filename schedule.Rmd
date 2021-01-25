@@ -1,6 +1,140 @@
 ---
 title: "<b>Course schedule</b>"
+output: 
+  html_document: 
+    toc: yes
+    toc_float: yes
+    toc_depth: 1
+    css: table.css
 ---
+<style>
+div.highlight-blue {background-color:#e6f0ff; border-left: 5px solid black; padding-left: 5px}
+</style>
+
+<style>
+div.highlight-gray {background-color:#efefef; border-left: 5px solid black; padding-left: 5px}
+</style>
+
+
+# Week 1: Defining and measuring morality {.tabset .tabset-pills}
+
+## Day 1
+
+<div class = highlight-blue>**Topic:** Introduction</div>
+<div class = highlight-gray>**Required readings**:<br>
+- Syllabus **([Web](syllabus.html)) ([Print copy](syllabus.docx))**<br>
+**Optional readings**: <br>
+- Pinker, S. (2008, January 13). The Moral Instinct. *The New York Times Magazine.* https://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html <br>
+- CrashCourse. (2016, November 21). *Utilitarianism: Crash Course Philosophy #36.* [Video]. YouTube. https://www.youtube.com/watch?v=-a739VjqdSI <br>
+- Haidt, J. (2008). [Morality.](readings/week_1/Optional/Haidt_2008.pdf) *Perspectives on Psychological Science, 3*, 65–72.
+</div>
+
+## Day 2
+
+<div class = highlight-blue>**Topic:** Defining and measuring morality</div>
+<div class = highlight-gray>**Required readings**:</div>
+
+###
+
+
+
+
+
+# Week 2 {.tabset .tabset-pills}
+
+## Day 1
+
+## Day 2
+
+## Sunday
+
+###
+
+# Week 3 {.tabset .tabset-pills}
+
+## Day 1
+
+## Day 2
+
+## Sunday
+
+###
+
+# Week 4 {.tabset .tabset-pills}
+
+## Day 1
+
+## Day 2
+
+## Sunday
+
+###
+
+# Week 5 {.tabset .tabset-pills}
+
+## Day 1
+
+## Day 2
+
+## Sunday
+
+###
+
+# Week 6 {.tabset .tabset-pills}
+
+## Day 1
+
+## Day 2
+
+## Sunday
+
+###
+
+# Week 7 {.tabset .tabset-pills}
+
+## Day 1
+
+## Day 2
+
+## Sunday
+
+###
+
+# Week 8 {.tabset .tabset-pills}
+
+## Day 1
+
+## Day 2
+
+## Sunday
+
+###
+
+# Week 9 {.tabset .tabset-pills}
+
+## Day 1
+
+## Day 2
+
+## Sunday
+
+###
+
+# Week 10 {.tabset .tabset-pills}
+
+## Day 1
+
+## Day 2
+
+## Sunday
+
+###
+
+# Finals Week {.tabset .tabset-pills}
+
+## Day 1
+
+###
 
 ```{r, include = FALSE}
 library(rio)

@@ -1,5 +1,5 @@
  /* define avatar*/
-
+ 
 .avatar {
   vertical-align: middle;
   width: 100px;
@@ -108,8 +108,18 @@ a:link {
 
 }
 
+/* visited link */
+a:visisted {
+  color: black;
+
+}
+
 /* mouse over link */
 a:hover {
   color: black;
+  background-color: #e6f0ff;
+}
+
+.highlight-blue {
   background-color: #e6f0ff;
 }

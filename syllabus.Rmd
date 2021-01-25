@@ -15,11 +15,6 @@ Term, meeting days and times, location of course
 </center>
 <br>
 
-<style>
-.nav-tabs-custom > .nav-tabs > li.active {border-top-color: green}
-}
-</style>
-
 You can download a copy of the syllabus [here](syllabus.docx).
 
 # Course description

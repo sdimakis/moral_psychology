@@ -187,3 +187,8 @@
   color: black;
   background-color: #efefef; 
 }
+
+.pull-right-small {
+  float: right;
+  width: 40%;
+}

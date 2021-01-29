@@ -1,0 +1,9 @@
+---
+title: "Blame attribution"
+subtitle: "Week 4 - Moral Psychology"
+output:
+  xaringan::moon_reader:
+    css: [default, custom_fonts.css, custom_theme.css, custom.css]
+---
+
+# Week 4

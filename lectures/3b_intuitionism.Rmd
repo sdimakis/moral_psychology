@@ -5,6 +5,14 @@ output:
   xaringan::moon_reader:
     css: [default, custom_fonts.css, custom_theme.css, custom.css]
 ---
+# Week 3
+This week we will be discussing how adults judge actions as right or wrong
+
+.highlight-blue[In week 3:]
+- How do we determine which course of action to take in a moral dilemma?
+- **How do we determine if an action is right or wrong?**
+- **Do moral judgments arise from a deliberate, conscious process, or an automatic, unconscious one?**
+---
 
 # The rationalist model of moral judgment
 Last class..
@@ -320,6 +328,13 @@ A person who does extremely taboo, highly unusual, and disgusting acts in a soci
 
 It may be rational then to avoid such acts, to avoid negative character judgments and protect your reputation
 
+---
+# Criticisms of the social intuitionist model
+.footnote[Helzer & Critcher (2018)]
+
+Actions are wrong, not because anyone is harmed, but because they signal that the person doing the action has a flawed moral-cognitive machinery that may result in harm to others in the future 
+
+Would you hire someone to babysit your children who urinates on bibles and eats their pets?
 ---
 # Summary
 

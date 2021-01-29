@@ -24,6 +24,10 @@ navbar:
         href: "lectures/3a_reasoning.html"
       - text: "3b: Intuitionism"
         href: "lectures/3b_intuitionism.html"
+      - text: "4a: Character judgments"
+        href: "lectures/4a_character_judgments.html"
+      - text: "4b: Blame attribution"
+        href: "lectures/4b_blame_attribution.html"
     - text: "Homework"
       menu:
       - text: "HW1  (Week 1)"

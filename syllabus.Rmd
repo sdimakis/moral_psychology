@@ -15,7 +15,7 @@ Term, meeting days and times, location of course
 </center>
 <br>
 
-You can download a copy of the syllabus [here](syllabus.docx).
+You can download a copy of the syllabus <u>[here](syllabus.docx).</u>
 
 # Course description
 

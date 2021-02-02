@@ -3,16 +3,23 @@ title: "<b>Course schedule</b>"
 output: 
   html_document: 
     toc: yes
-    toc_float: yes
     toc_depth: 1
+    toc_float: yes
     css: table.css
+
 ---
+
+
 <style>
 div.highlight-blue {background-color:#e6f0ff; border-left: 5px solid black; padding-left: 5px}
 </style>
 
 <style>
 div.highlight-gray {background-color:#efefef; border-left: 5px solid black; padding-left: 5px}
+</style>
+
+<style>
+div.highlight-white{background-color:#ffffff; border-left: 5px solid black; padding-left: 5px}
 </style>
 
 
@@ -22,111 +29,436 @@ div.highlight-gray {background-color:#efefef; border-left: 5px solid black; padd
 
 <div class = highlight-blue>**Topic:** Introduction</div>
 <div class = highlight-gray>**Required readings**:<br>
-- Syllabus **([Web](syllabus.html)) ([Print copy](syllabus.docx))**<br>
-**Optional readings**: <br>
-- Pinker, S. (2008, January 13). The Moral Instinct. *The New York Times Magazine.* https://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html <br>
-- CrashCourse. (2016, November 21). *Utilitarianism: Crash Course Philosophy #36.* [Video]. YouTube. https://www.youtube.com/watch?v=-a739VjqdSI <br>
-- Haidt, J. (2008). [Morality.](readings/week_1/Optional/Haidt_2008.pdf) *Perspectives on Psychological Science, 3*, 65–72.
+ <p> - *Course syllabus* **[[Web](syllabus.html)] [[Print copy](syllabus.docx)]**</p>
+
+**Optional**: <br><p>
+- Pinker (2008). *The Moral Instinct.* **[[Web](https://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html)] [[Print copy](readings/week_1/Optional/Pinker_2008.pdf)]** <br>
+- Haidt (2008). *Morality.* **[[Print copy](readings/week_1/Optional/Haidt_2008.pdf)]** <br>
+- Ellemers et al. (2019). *The Psychology of Morality: A Review and Analysis of Empirical Studies Published From 1940 Through 2017.* **[[Print copy](readings/week_1/Optional/Ellemers_2019.pdf)]** <br>
+- CrashCourse. (2016). *Utilitarianism: Crash Course Philosophy #36.* **[[Video](https://www.youtube.com/watch?v=-a739VjqdSI)]** <br>
+- Gert (2020). *The Definition of Morality.* **[[Web](https://plato.stanford.edu/entries/morality-definition/)]**</p>
 </div>
+<br>
+
 
 ## Day 2
 
 <div class = highlight-blue>**Topic:** Defining and measuring morality</div>
-<div class = highlight-gray>**Required readings**:</div>
+<div class = highlight-gray>**Required readings**:<br>
+ <p> - Graham et al. (2013). *Moral Foundations Theory: The Pragmatic Validity of Moral Pluralism.* **[[Print copy](readings/week_1/Graham_2013.pdf)]**<br>
+ - Janoff-Bulman & Carnes (2013). *Surveying the Moral Landscape: Moral Motives and Group-Based Moralities.* **[[Print copy](readings/week_1/Janoff-Bulman_2013.pdf)]**
+ 
+ </p>
+
+**Optional**: <br><p>
+- Gray, Waytz, & Young (2012). *The Moral Dyad: A Fundamental Template Unifying Moral Judgment.* **[[Print copy](readings/week_1/Optional/Gray_2012.pdf)]**<br>
+- Rai & Fiske (2011). *Moral Psychology Is Relationship Regulation: Moral Motives for Unity, Hierarchy, Equality, and Proportionality* **[[Print copy](readings/week_1/Optional/Rai_2011.pdf)]**
+
+</p>
+</div>
+<br>
+
+## Sunday
+
+<div class = highlight-blue>**Assignment:** Homework 1</div>
+<div class = highlight-gray>**Description**:<br>
+Insert description here.
+</div>
+
 
 ###
 
 
-
-
-
-# Week 2 {.tabset .tabset-pills}
+# Week 2: Evolution and development {.tabset .tabset-pills}
 
 ## Day 1
 
+<div class = highlight-blue>**Topic:** Evolution of morality </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- de Waal (2013). *Moral behavior in animals.* **[[Video](https://www.ted.com/talks/frans_de_waal_moral_behavior_in_animals)]** <br>
+- Brosnan & de Waal (2014). *Evolution of responses to (un)fairness.* **[[Print copy](readings/week_2/Brosnan_2014.pdf)]** <br></p>
+
+**Optional**: <br>
+<p>- Rice & Gainer (1962). *"Altruism" in the albino rat.* **[[Print copy](readings/week_2/Optional/Rice_1962.pdf)]** <br>
+- Masserman (1964). *"Altruistic" behavior in rhesus monkeys.* **[Print copy](readings/week_2/Optional/Masserman_1964.pdf)**
+- Horner et al. (2011). *Spontaneous prosocial choice by chimpanzees.* **[[Print copy](readings/week_2/Optional/Horner_2011.pdf)]**
+- de Waal et al. (2008). *Giving is self-rewarding for monkeys.* **[[Print copy](readings/week_2/Optional/dewaal_2008.pdf)]** 
+- de Waal & Berger (2000). *Payment for labour in monkeys.* **[[Print copy](readings/week_2/Optional/dewaal_2000.pdf)]**
+</p>
+</div>
+<br>
+
+
 ## Day 2
 
+<div class = highlight-blue>**Topic:** Moral development </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Kohlberg (1968). *The Child as a Moral Philosopher.* **[[Print copy](readings/week_2/Kohlberg_1968.pdf)]**  <br>
+- Bloom (2010). *The moral life of babies*. **[[Web](https://www.nytimes.com/2010/05/09/magazine/09babies-t.html)] [[Print copy](readings/week_2/Bloom_2010.pdf)]** </p>
+
+**Optional**: <br>
+<p>- Warneken & Tomasello (2006). *Altruistic Helping in Human Infants and Young Chimpanzees.* **[[Print copy](readings/week_2/Optional/Warneken_2006.pdf)]**
+- Hamlin, Wynn, & Bloom (2007). *Social evaluation by preverbal infants.* **[[Print copy](readings/week_2/Optional/Hamlin_2007.pdf)]**
+- Smetana (2013). *Moral development: The social domain theory view.* **[[Print copy](readings/week_2/Optional/Smetana_2014.pdf)]**
+</div>
+<br>
+
 ## Sunday
+<div class = highlight-blue>**Assignment:** Homework 1</div>
+<div class = highlight-gray>**Description**:<br>
+Insert description here.
+</div>
 
 ###
 
-# Week 3 {.tabset .tabset-pills}
+# Week 3: Moral reasoning {.tabset .tabset-pills}
 
 ## Day 1
 
+<div class = highlight-blue>**Topic:** Conscious reasoning </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Greene et al. (2009). *Pushing moral buttons: The interaction between personal force and intention in moral judgment.* **[[Print copy](readings/week_3/Greene_2009.pdf)]** <br>
+- Cushman, Young, & Hauser (2006). *The Role of Conscious Reasoning and Intuition in Moral Judgment.* **[[Print copy](readings/week_3/Cushman_2006.pdf)]**<br></p>
+
+**Optional**: <br>
+<p>-  Aktas, Yilmaz, & Bahçekapili (2017). *Moral pluralism on the trolley tracks: Different normative principles are used for different reasons in justifying moral judgments.* **[[Print copy](readings/week_3/Optional/Aktas_2017.pdf)]**
+- Bruers & Braeckman (2014). *A Review and Systematization of the Trolley Problem.* **[[Print copy](readings/week_3/Optional/Bruers_2014.pdf)]**
+- Greene et al. (2001). *An fMRI Investigation of Emotional Engagement in Moral Judgment.* **[[Print copy](readings/week_3/Optional/Greene_2001.pdf)]**
+- Bartels & Pizarro (2011). *The mismeasure of morals: Antisocial personality traits predict utilitarian responses to moral dilemmas.* **[[Print copy](readings/week_3/Optional/Bartels_2011.pdf)]**
+</div>
+<br>
+
 ## Day 2
 
+<div class = highlight-blue>**Topic:** Intuitionism </div>
+<div class = highlight-gray>**Required readings**: <br>
+<p>- Haidt (2001). *The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment.* **[[Print copy](readings/week_3/Haidt_2001.pdf)]** <br>
+- Uhlmann et al. (2009). *The motivated use of moral principles.* **[[Print copy](readings/week_3/Uhlmann_2009.pdf)]**<br></p>
+
+
+**Optional**: <br>
+<p>-  Haidt, Koller, & Dias (1993). *Affect, Culture, and Morality, or Is It Wrong to Eat Your Dog?* **[[Print copy](readings/week_3/Optional/Haidt_1993.pdf)]**
+- Pizarro & Bloom (2003). *The Intelligence of the Moral Intuitions: Comment on Haidt (2001).* **[[Print copy](readings/week_3/Optional/Pizarro_2003.pdf)]**
+- Monin, Pizarro, & Beer (2007). *Deciding Versus Reacting:Conceptions of Moral Judgment and the Reason-Affect Debate.* **[[Print copy](readings/week_3/Optional/Monin_2007.pdf)]**
+- Uhlmann, Pizarro, & Diermeier (2015). *A Person-Centered Approach to Moral Judgment.* **[[Print copy](readings/week_3/Optional/Uhlmann_2015.pdf)]**
+- Royzman, Kim, & Leeman (2015). *The curious tale of Julie and Mark: Unraveling the moral dumbfounding effect*. **[[Print copy](readings/week_3/Optional/Royzman_2015.pdf)]**
+
+<br>
+</div>
+<br>
+
 ## Sunday
+<div class = highlight-blue>**Assignment:** Homework 1</div>
+<div class = highlight-gray>**Description**:<br>
+Insert description here.
+</div>
 
 ###
 
-# Week 4 {.tabset .tabset-pills}
+# Week 4: Person perception & attribution {.tabset .tabset-pills}
 
 ## Day 1
 
+<div class = highlight-blue>**Topic:** Character perception </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Helzer & Critcher (2018). *What Do We Evaluate When We Evaluate Moral Character?* **[[Print copy](readings/week_4/Helzer_2018.pdf)]**<br>
+- Uhlmann, Zhu, & Tannenbaum (2013). *When it takes a bad person to do the right thing.* **[[Print copy](readings/week_4/Uhlmann_2013.pdf)]** <br></p>
+
+**Optional**: <br>
+<p>- Todorov et al. (2008). *Understanding evaluation of faces on social dimensions* **[[Print copy](readings/week_4/Optional/Todorov_2008.pdf)]**
+- Critcher, Inbar, & Pizarro (2012). *How Quick Decisions Illuminate Moral Character* **[[Print copy](readings/week_4/Optional/Critcher_2012.pdf)]**
+- Goodwin (2015). *Moral Character in Person Perception.* **[[Print copy](readings/week_4/Optional/Goodwin_2015.pdf)]**
+- Tannenbaum, Uhlmann, & Diermeier (2011). *Moral signals, public outrage, and immaterial harms.* **[[Print copy](readings/week_4/Optional/Tannenbaum_2011.pdf)]**
+
+</div>
+<br>
+
 ## Day 2
 
+<div class = highlight-blue>**Topic:** Attribution of blame </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
+
 ## Sunday
+<div class = highlight-blue>**Assignment:** Homework 1</div>
+<div class = highlight-gray>**Description**:<br>
+Insert description here.
+</div>
 
 ###
 
-# Week 5 {.tabset .tabset-pills}
+# Week 5: Moral behavior {.tabset .tabset-pills}
 
 ## Day 1
 
+<div class = highlight-blue>**Topic:** Cooperation </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
 ## Day 2
 
+<div class = highlight-blue>**Topic:** Altruism </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
 ## Sunday
+<div class = highlight-blue>**Assignment:** Homework 1</div>
+<div class = highlight-gray>**Description**:<br>
+Insert description here.
+</div>
 
 ###
 
-# Week 6 {.tabset .tabset-pills}
+# Week 6: Immoral behavior {.tabset .tabset-pills}
 
 ## Day 1
 
+<div class = highlight-blue>**Topic:** Midterm </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
 ## Day 2
 
+<div class = highlight-blue>**Topic:** Moral inconsistency and hypocrisy </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
 ## Sunday
+<div class = highlight-blue>**Assignment:** Homework 1</div>
+<div class = highlight-gray>**Description**:<br>
+Insert description here.
+</div>
 
 ###
 
-# Week 7 {.tabset .tabset-pills}
+# Week 7: Moral emotions {.tabset .tabset-pills}
 
 ## Day 1
 
+<div class = highlight-blue>**Topic:** Moral emotions pt. 1 </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
 ## Day 2
 
+<div class = highlight-blue>**Topic:** Moral emotions pt. 2</div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
 ## Sunday
+<div class = highlight-blue>**Assignment:** Homework 1</div>
+<div class = highlight-gray>**Description**:<br>
+Insert description here.
+</div>
 
 ###
 
-# Week 8 {.tabset .tabset-pills}
+# Week 8: The moral self {.tabset .tabset-pills}
 
 ## Day 1
 
+<div class = highlight-blue>**Topic:** Moral identity </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
 ## Day 2
 
+<div class = highlight-blue>**Topic:** Self-concept maintenance </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
 ## Sunday
+<div class = highlight-blue>**Assignment:** Homework 1</div>
+<div class = highlight-gray>**Description**:<br>
+Insert description here.
+</div>
 
 ###
 
-# Week 9 {.tabset .tabset-pills}
+# Week 9: Morality and politics {.tabset .tabset-pills}
 
 ## Day 1
 
+<div class = highlight-blue>**Topic:** Morality of conservatives and liberals </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
 ## Day 2
 
-## Sunday
+<div class = highlight-blue>**Topic:** Moral persuasion </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
 
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
+## Sunday
+<div class = highlight-blue>**Assignment:** Homework 1</div>
+<div class = highlight-gray>**Description**:<br>
+Insert description here.
+</div>
 ###
 
-# Week 10 {.tabset .tabset-pills}
+# Week 10: Morality, religion, and culture {.tabset .tabset-pills}
 
 ## Day 1
 
+<div class = highlight-blue>**Topic:** Morality and religion </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
 ## Day 2
 
+<div class = highlight-blue>**Topic:** Morality and culture </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
 ## Sunday
+<div class = highlight-blue>**Assignment:** Homework 1</div>
+<div class = highlight-gray>**Description**:<br>
+Insert description here.
+</div>
 
 ###
 
@@ -134,45 +466,20 @@ div.highlight-gray {background-color:#efefef; border-left: 5px solid black; padd
 
 ## Day 1
 
+<div class = highlight-blue>**Topic:** ?? </div>
+<div class = highlight-gray>**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
+
 ###
-
-```{r, include = FALSE}
-library(rio)
-library(here)
-library(kableExtra)
-library(tidyverse)
-
-data <- import(here("syllabus.csv"))
-
-data[1,4] <- "[Syllabus](syllabus.docx)"
-data[2,4] <- "[Graham et al. (2013)](readings/week_1/Graham_2013.pdf); [Janoff-Bulman & Carnes (2013)](readings/week_1/Janoff-Bulman_2013.pdf)"
-data[3,4] <- "[Brosnan & de Waal (2014)](readings/week_2/Brosnan_2014.pdf); [de Waal (2013)](https://www.ted.com/talks/frans_de_waal_moral_behavior_in_animals)"
-data[4,4] <- "[Kohlberg (1968)](readings/week_2/Kohlberg_1968.pdf); [Bloom (2010)](readings/week_2/Bloom_2010.pdf)"
-data[5,4] <- "[Greene et al. (2009)](readings/week_3/Greene_2009.pdf); [Cushman, Young, & Hauser (2006)](readings/week_3/Cushman_2006.pdf)"
-data[6,4] <- "[Haidt (2001)](readings/week_3/Haidt_2001.pdf); [Sauer (2012)](readings/week_3/Sauer_2012.pdf)"
-data[7,4] <- "[Klein & O'Brien (2016)](readings/week_4/Klein_2016.pdf)"
-data[8,4] <- "[Haidt, Koller, & Dias (1993)](readings/week_4/Haidt_1993.pdf); [Uhlmann et al. (2015)](readings/week_4/Uhlmann_2015.pdf)"
-data[9,4] <- "[Butler, Burbank, & Chisholm (2011)](readings/week_5/Butler_2011.pdf); [Fehr & Gachter (2002)](readings/week_5/Fehr_2002.pdf)"
-data[10,4] <- "[Sonnentag & McDaniel (2013)](readings/week_5/Sonnetag_2013.pdf); [Monin & Miller (2001)](readings/week_5/Monin_2001.pdf)"
-data[12,4] <- "[Conway & Peetz (2012)](readings/week_6/Conway_2012.pdf); [Valdesolo & DeSteno (2008)](readings/week_6/Valdesolo_2008.pdf)"
-data[13,4] <- "[Schnall et al. (2008)](readings/week_7/Schnall_2008.pdf); [Cronin, Reysen, & Branscombe (2012)](readings/week_7/Cronin_2012.pdf)"
-data[14,4] <- "[Bastian, Jetten, & Fasoli (2011)](readings/week_7/Bastian_2011.pdf); [Bloom (2013)](readings/week_7/Bloom_2013.pdf)"
-data[15,4] <- "[Stets & Carter (2011)](readings/week_8/Stets_2011.pdf)"
-data[16,4] <- "[Bandura et al. (1996)](readings/week_8/Bandura_1996.pdf); [Mazar, Amir, & Ariely (2008)](readings/week_8/Mazar_2005.pdf)"
-data[17,4] <- "[Graham, Haidt, & Nosek (2009)](readings/week_9/Graham_2009.pdf); [Pizarro (2012)](https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust?language=en)"
-data[18,4] <- "[Day et al. (2014)](readings/week_9/Day_2014.pdf); [Feinberg & Willer (2015)](readings/week_9/Feinberg_2015.pdf)"
-data[19,4] <- "[Shariff & Norenzayan (2007)](readings/week_10/Shariff_2007.pdf); [Graham & Haidt (2010)](readings/week_10/Graham_2010.pdf)"
-data[20,4] <- "[Miller, Bersoff, & Harwood (1990)](readings/week_10/Miller_1990.pdf); [Alicke et al. (2008)](readings/week_10/Alicke_2008.pdf)"
-
-```
-
-Readings should be completed before the class date indicated on the schedule. 
-
-
-```{r, echo = FALSE}
-
-data %>% 
-  kbl() %>% 
-  kable_styling(c("striped"))
-```
-

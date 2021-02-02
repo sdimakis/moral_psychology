@@ -17,7 +17,7 @@
  /* navbar buttons*/
 .navbar-custom .navbar-nav>li>a {
   color: black;
-  font-size: 12px;
+  font-size: 13px;
   font-weight: bold;
   border: 1px solid black;
   padding: 3px 1em 3px;
@@ -50,7 +50,7 @@
 
  /* navbar menu text*/
 .navbar-custom .dropdown-menu>li>a {
-  font-size: 12px;
+  font-size: 13px;
   font-weight: bold;
 
 
@@ -59,7 +59,7 @@
  /* navbar menu text when hovered over*/
 .navbar-custom .dropdown-menu>a:hover {
   font-weight: bold;
-  font-size: 12px;
+  font-size: 13px;
   background-color: #e6f0ff;
 }
 
@@ -104,20 +104,20 @@
 
 /* unvisited link */
 a:link {
-  color: black;
+  color: #4e94ff;
 
 }
 
 /* visited link */
 a:visisted {
-  color: black;
+  color: #4e94ff;
 
 }
 
 /* mouse over link */
 a:hover {
-  color: black;
-  background-color: #e6f0ff;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 .highlight-blue {

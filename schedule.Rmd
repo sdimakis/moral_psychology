@@ -80,7 +80,7 @@ Insert description here.
 
 **Optional**: <br>
 <p>- Rice & Gainer (1962). *"Altruism" in the albino rat.* **[[Print copy](readings/week_2/Optional/Rice_1962.pdf)]** <br>
-- Masserman (1964). *"Altruistic" behavior in rhesus monkeys.* **[Print copy](readings/week_2/Optional/Masserman_1964.pdf)**
+- Masserman (1964). *"Altruistic" behavior in rhesus monkeys.* **[[Print copy](readings/week_2/Optional/Masserman_1964.pdf)]**
 - Horner et al. (2011). *Spontaneous prosocial choice by chimpanzees.* **[[Print copy](readings/week_2/Optional/Horner_2011.pdf)]**
 - de Waal et al. (2008). *Giving is self-rewarding for monkeys.* **[[Print copy](readings/week_2/Optional/dewaal_2008.pdf)]** 
 - de Waal & Berger (2000). *Payment for labour in monkeys.* **[[Print copy](readings/week_2/Optional/dewaal_2000.pdf)]**
@@ -175,17 +175,19 @@ Insert description here.
 
 ## Day 2
 
-<div class = highlight-blue>**Topic:** Attribution of blame </div>
+<div class = highlight-blue>**Topic:** Attribution of blame and praise </div>
 <div class = highlight-gray>**Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
+<p>- Alicke (2000). *Culpable Control and the Psychology of Blame.* **[[Print copy](readings/week_4/Alicke_2000.pdf)]<br>**
+- Anderson, Crockett, & Pizarro (2020). *A Theory of Moral Praise.* **[[Print copy](readings/week_4/Anderson_2020.pdf)]** </p>
 
 **Optional**: <br>
-<p>-  Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
+<p>-  Alicke (1992). *Culpable Causation.* **[[Print copy](readings/week_4/Optional/Alicke_1992.pdf)]** 
+- Pizarro, Uhlmann, & Bloom (2003). *Causal deviance and the attribution of moral responsibility.* **[[Print copy](readings/week_4/Optional/Pizarro_2003b.pdf)]**
+- Alicke (2008). *Blaming Badly.* **[[Print copy](readings/week_10/Alicke_2008.pdf)]**
+- Malle, Guglielmo, & Monroe (2014). *A theory of blame.* **[[Print copy](readings/week_4/Optional/Malle_2014.pdf)]**
+- Knobe (2003). *Intentional action and side effects in ordinary language.* **[[Print copy](readings/week_4/Optional/Knobe_2003.pdf)]**
+- Pizarro, Uhlmann, & Salovey (2003). *Asymmetry in judgments of moral blame and praise: The Role of Perceived Metadesires.* **[[Print copy](readings/week_4/Optional/Pizarro_2003a.pdf)]**
+- Alicke, Rogers, & Taylor (2018). *What Is Blame and Why Do We Love It?* **[[Print copy](readings/week_4/Optional/Alicke_2018.pdf)]**
 <br>
 </div>
 <br>

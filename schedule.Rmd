@@ -205,17 +205,17 @@ Insert description here.
 
 ## Day 1
 
-<div class = highlight-blue>**Topic:** Cooperation </div>
+<div class = highlight-blue>**Topic:** Cooperation - social dilemma games </div>
 <div class = highlight-gray>**Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
+<p>- Dunning et al. (2014). *Trust at Zero Acquaintance: More a Matter of Respect Than Expectation of Reward.* **[[Print Copy](readings/week_5/Dunning_2014.pdf)]**
+- Fehr & GaÈchter (2002). *Altruistic punishment in humans.* **[[Print copy](readings/week_5/Fehr_2002.pdf)]**</p>
 
 **Optional**: <br>
-<p>-  Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
+<p>-  Hardin (1968). *The Tragedy of the Commons*. **[[Print copy](readings/week_5/Optional/Hardin_1968.pdf)]**
+- TedEd. (2017). *What is the tragedy of the commons? - Nicholas Amendolare*  **[[Video](https://www.youtube.com/watch?v=CxC161GvMPc)]**
+- Thielmann, Spadaro, & Balliet (2020). *Personality and Prosocial Behavior: A Theoretical Framework and Meta-Analysis.* **[[Print copy](readings/week_5/Optional/Thielmann_2020.pdf)]**
+- Jensen, Call, & Tomasello (2007). *Chimpanzees Are Rational Maximizers in an Ultimatum Game.* **[[Print copy](readings/week_5/Optional/Jensen_2007.pdf)]**
+- Butler, Burbank, & Chisholm (2010). *The frames behind the games: Player’s perceptions of prisoners dilemma, chicken, dictator, and ultimatum games.* **[[Print copy](readings/week_5/Optional/Butler_2011.pdf)]**
 <br>
 </div>
 <br>

@@ -1,0 +1,24 @@
+---
+title: "Altruism and reputation"
+subtitle: "Week 5 - Moral Psychology"
+output:
+  xaringan::moon_reader:
+    css: [default, custom_fonts.css, custom_theme.css, custom.css]
+---
+This week, we will be exploring moral behavior
+
+.highlight-blue[In week 1:]
+-
+-
+-
+-
+
+---
+
+# The dictator game
+<center>
+![](images/dg1.png)
+???
+The dictator tests altruism more so than cooperation
+The dictator has $10. They can give some money to the other person but they don't have to.
+  

@@ -2,6 +2,7 @@
   border-top: 10px solid black;
   border-bottom: 10px solid black;
   padding: 20px 60px;
+  font-size: 80%;
 }
 
 .remark-slide-content > h1 {
@@ -10,10 +11,16 @@
   background-color: #e6f0ff;
   border-left: 10px solid black;
   padding-left: 5px;
+  font-size: 45px;
+
+}
+
+.remark-slide body {
+  font-size: 7px;
 }
 
 .remark-slide-number {
-  font-size: 20px;
+  font-size: 18px;
   color: black;
 }
 
@@ -34,7 +41,6 @@
 
 }
 
-
 .title-slide h1 {
   font-size: 60px;
   text-align: left;
@@ -44,13 +50,15 @@
   border-left: 10px solid black;
   padding-left: 5px;
   text-shadow: none;
+  font-size: 45px;
 
 }
 
 .title-slide h2 {
   font-size: 20px;
   text-align: left;
-  padding-top: 0px;
+  padding-top: 6px;
+  padding-bottom: 6px;
   margin-top: 0px;  
   color: black;
   background-color: #ededed;
@@ -64,3 +72,6 @@
   text: none;
 }
 
+.title-slide .remark-slide-number {
+  display: none;
+}

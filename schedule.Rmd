@@ -11,15 +11,7 @@ output:
 
 
 <style>
-div.highlight-blue {background-color:#e6f0ff; border-left: 5px solid black; padding-left: 5px}
-</style>
-
-<style>
-div.highlight-gray {background-color:#efefef; border-left: 5px solid black; padding-left: 5px}
-</style>
-
-<style>
-div.highlight-white{background-color:#ffffff; border-left: 5px solid black; padding-left: 5px}
+div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 </style>
 
 
@@ -27,8 +19,8 @@ div.highlight-white{background-color:#ffffff; border-left: 5px solid black; padd
 
 ## Day 1
 
-<div class = highlight-blue>**Topic:** Introduction</div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Introduction <br>
+**Required readings**:<br>
  <p> - *Course syllabus* **[[Web](syllabus.html)] [[Print copy](syllabus.docx)]**</p>
 
 **Optional**: <br><p>
@@ -43,8 +35,8 @@ div.highlight-white{background-color:#ffffff; border-left: 5px solid black; padd
 
 ## Day 2
 
-<div class = highlight-blue>**Topic:** Defining and measuring morality</div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Defining and measuring morality <br>
+**Required readings**:<br>
  <p> - Graham et al. (2013). *Moral Foundations Theory: The Pragmatic Validity of Moral Pluralism.* **[[Print copy](readings/week_1/Graham_2013.pdf)]**<br>
  - Janoff-Bulman & Carnes (2013). *Surveying the Moral Landscape: Moral Motives and Group-Based Moralities.* **[[Print copy](readings/week_1/Janoff-Bulman_2013.pdf)]**
  
@@ -60,8 +52,8 @@ div.highlight-white{background-color:#ffffff; border-left: 5px solid black; padd
 
 ## Sunday
 
-<div class = highlight-blue>**Assignment:** Homework 1</div>
-<div class = highlight-gray>**Description**:<br>
+<div class = highlight-gray>**Assignment:** Homework 1 <br>
+**Description**:<br>
 Insert description here.
 </div>
 
@@ -73,8 +65,8 @@ Insert description here.
 
 ## Day 1
 
-<div class = highlight-blue>**Topic:** Evolution of morality </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Evolution of morality <br>
+**Required readings**:<br>
 <p>- de Waal (2013). *Moral behavior in animals.* **[[Video](https://www.ted.com/talks/frans_de_waal_moral_behavior_in_animals)]** <br>
 - Brosnan & de Waal (2014). *Evolution of responses to (un)fairness.* **[[Print copy](readings/week_2/Brosnan_2014.pdf)]** <br></p>
 
@@ -91,8 +83,8 @@ Insert description here.
 
 ## Day 2
 
-<div class = highlight-blue>**Topic:** Moral development </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Moral development <br>
+**Required readings**:<br>
 <p>- Kohlberg (1968). *The Child as a Moral Philosopher.* **[[Print copy](readings/week_2/Kohlberg_1968.pdf)]**  <br>
 - Bloom (2010). *The moral life of babies*. **[[Web](https://www.nytimes.com/2010/05/09/magazine/09babies-t.html)] [[Print copy](readings/week_2/Bloom_2010.pdf)]** </p>
 
@@ -104,8 +96,8 @@ Insert description here.
 <br>
 
 ## Sunday
-<div class = highlight-blue>**Assignment:** Homework 1</div>
-<div class = highlight-gray>**Description**:<br>
+<div class = highlight-gray>**Assignment:** Homework 1 <br>
+**Description**:<br>
 Insert description here.
 </div>
 
@@ -115,8 +107,8 @@ Insert description here.
 
 ## Day 1
 
-<div class = highlight-blue>**Topic:** Conscious reasoning </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Conscious reasoning <br>
+**Required readings**:<br>
 <p>- Greene et al. (2009). *Pushing moral buttons: The interaction between personal force and intention in moral judgment.* **[[Print copy](readings/week_3/Greene_2009.pdf)]** <br>
 - Cushman, Young, & Hauser (2006). *The Role of Conscious Reasoning and Intuition in Moral Judgment.* **[[Print copy](readings/week_3/Cushman_2006.pdf)]**<br></p>
 
@@ -130,8 +122,8 @@ Insert description here.
 
 ## Day 2
 
-<div class = highlight-blue>**Topic:** Intuitionism </div>
-<div class = highlight-gray>**Required readings**: <br>
+<div class = highlight-gray>**Topic:** Intuitionism  <br>
+**Required readings**: <br>
 <p>- Haidt (2001). *The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment.* **[[Print copy](readings/week_3/Haidt_2001.pdf)]** <br>
 - Uhlmann et al. (2009). *The motivated use of moral principles.* **[[Print copy](readings/week_3/Uhlmann_2009.pdf)]**<br></p>
 
@@ -148,8 +140,8 @@ Insert description here.
 <br>
 
 ## Sunday
-<div class = highlight-blue>**Assignment:** Homework 1</div>
-<div class = highlight-gray>**Description**:<br>
+<div class = highlight-gray>**Assignment:** Homework 1 <br>
+**Description**:<br>
 Insert description here.
 </div>
 
@@ -159,8 +151,8 @@ Insert description here.
 
 ## Day 1
 
-<div class = highlight-blue>**Topic:** Character perception </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Character perception <br>
+**Required readings**:<br>
 <p>- Helzer & Critcher (2018). *What Do We Evaluate When We Evaluate Moral Character?* **[[Print copy](readings/week_4/Helzer_2018.pdf)]**<br>
 - Uhlmann, Zhu, & Tannenbaum (2013). *When it takes a bad person to do the right thing.* **[[Print copy](readings/week_4/Uhlmann_2013.pdf)]** <br></p>
 
@@ -175,8 +167,8 @@ Insert description here.
 
 ## Day 2
 
-<div class = highlight-blue>**Topic:** Attribution of blame and praise </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Attribution of blame and praise <br>
+**Required readings**:<br>
 <p>- Alicke (2000). *Culpable Control and the Psychology of Blame.* **[[Print copy](readings/week_4/Alicke_2000.pdf)]<br>**
 - Anderson, Crockett, & Pizarro (2020). *A Theory of Moral Praise.* **[[Print copy](readings/week_4/Anderson_2020.pdf)]** </p>
 
@@ -194,8 +186,8 @@ Insert description here.
 
 
 ## Sunday
-<div class = highlight-blue>**Assignment:** Homework 1</div>
-<div class = highlight-gray>**Description**:<br>
+<div class = highlight-gray>**Assignment:** Homework 1 <br>
+**Description**:<br>
 Insert description here.
 </div>
 
@@ -205,10 +197,10 @@ Insert description here.
 
 ## Day 1
 
-<div class = highlight-blue>**Topic:** Cooperation - social dilemma games </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Cooperation - social dilemma games <br>
+**Required readings**:<br>
 <p>- Dunning et al. (2014). *Trust at Zero Acquaintance: More a Matter of Respect Than Expectation of Reward.* **[[Print Copy](readings/week_5/Dunning_2014.pdf)]**
-- Fehr & GaÈchter (2002). *Altruistic punishment in humans.* **[[Print copy](readings/week_5/Fehr_2002.pdf)]**</p>
+- Fehr & Gaechter (2002). *Altruistic punishment in humans.* **[[Print copy](readings/week_5/Fehr_2002.pdf)]**</p>
 
 **Optional**: <br>
 <p>-  Hardin (1968). *The Tragedy of the Commons*. **[[Print copy](readings/week_5/Optional/Hardin_1968.pdf)]**
@@ -222,24 +214,25 @@ Insert description here.
 
 ## Day 2
 
-<div class = highlight-blue>**Topic:** Altruism </div>
-<div class = highlight-gray>**Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
+<div class = highlight-gray>**Topic:** Altruism and reputation <br>
+**Required readings**:<br>
+<p>- Vonasch et al. (2018). *Death Before Dishonor: Incurring Costs to Protect Moral Reputation.* **[[Print copy](readings/week_5/Vonasch_2018.pdf)]**
+- Dana, Cain, & Dawes (2006). *What you dont know wont hurt me: Costly (but quiet) exit in dictator games.* **[[Print copy](readings/week_5/Dana_2006.pdf)]** </p>
 
 **Optional**: <br>
-<p>-  Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
+<p>-  Cohn et al. (2019). *Civic honesty around the globe.* **[[Print copy](readings/week_5/Optional/Cohn_2019.pdf)]**
+- Batson & Shaw (1991). *Evidence for Altruism: Toward a Pluralism of Prosocial Motives.* **[[Print copy](readings/week_5/Optional/Batson_1991.pdf)]**
+- Cheng et al. (2010). *Love hurts: An fMRI study.* **[[Print copy](readings/week_5/Optional/Cheng_2010.pdf)]**
+- Monin & Miller (2001). *Moral Credentials and the Expression of Prejudice.* **[[Print copy](readings/week_5/Optional/Monin_2001.pdf)]**
+- Small, Loewenstein, & Slovic (2007). *Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims.* **[[Print copy](readings/week_5/Optional/Small_2007.pdf)]**
+- Bloom (2013). *The baby in the well: the case against empathy.* **[[Web](https://www.newyorker.com/magazine/2013/05/20/the-baby-in-the-well)][[Print copy](readings/week_5/Optional/Bloom_2013.pdf)]**
 <br>
 </div>
 <br>
 
 ## Sunday
-<div class = highlight-blue>**Assignment:** Homework 1</div>
-<div class = highlight-gray>**Description**:<br>
+<div class = highlight-gray>**Assignment:** Homework 1 <br>
+**Description**:<br>
 Insert description here.
 </div>
 
@@ -249,25 +242,21 @@ Insert description here.
 
 ## Day 1
 
-<div class = highlight-blue>**Topic:** Midterm </div>
-<div class = highlight-gray>**Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
+<div class = highlight-gray>**Topic:** Midterm <br>
+**Required readings**: <br>
+<p>- Midterm review study guide **[[Web]()][[Print copy]()]**</p>
 
 **Optional**: <br>
 <p>-  Reading 1
 - Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
 <br>
+
 </div>
-<br>
 
 ## Day 2
 
-<div class = highlight-blue>**Topic:** Moral inconsistency and hypocrisy </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Moral inconsistency and hypocrisy  <br>
+**Required readings**:<br>
 <p>- Reading 1 <br>
 - Reading 2 <br></p>
 
@@ -282,8 +271,8 @@ Insert description here.
 <br>
 
 ## Sunday
-<div class = highlight-blue>**Assignment:** Homework 1</div>
-<div class = highlight-gray>**Description**:<br>
+<div class = highlight-gray>**Assignment:** Homework 1 <br>
+**Description**:<br>
 Insert description here.
 </div>
 
@@ -293,8 +282,8 @@ Insert description here.
 
 ## Day 1
 
-<div class = highlight-blue>**Topic:** Moral emotions pt. 1 </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Moral emotions pt. 1 <br>
+**Required readings**:<br>
 <p>- Reading 1 <br>
 - Reading 2 <br></p>
 
@@ -310,8 +299,8 @@ Insert description here.
 
 ## Day 2
 
-<div class = highlight-blue>**Topic:** Moral emotions pt. 2</div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Moral emotions pt. 2 <br>
+**Required readings**:<br>
 <p>- Reading 1 <br>
 - Reading 2 <br></p>
 
@@ -326,19 +315,18 @@ Insert description here.
 <br>
 
 ## Sunday
-<div class = highlight-blue>**Assignment:** Homework 1</div>
-<div class = highlight-gray>**Description**:<br>
+<div class = highlight-gray>**Assignment:** Homework 1 <br>
+**Description**:<br>
 Insert description here.
 </div>
-
 ###
 
 # Week 8: The moral self {.tabset .tabset-pills}
 
 ## Day 1
 
-<div class = highlight-blue>**Topic:** Moral identity </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Moral identity  <br>
+**Required readings**:<br>
 <p>- Reading 1 <br>
 - Reading 2 <br></p>
 
@@ -354,8 +342,8 @@ Insert description here.
 
 ## Day 2
 
-<div class = highlight-blue>**Topic:** Self-concept maintenance </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Self-concept maintenance <br>
+**Required readings**:<br>
 <p>- Reading 1 <br>
 - Reading 2 <br></p>
 
@@ -370,8 +358,8 @@ Insert description here.
 <br>
 
 ## Sunday
-<div class = highlight-blue>**Assignment:** Homework 1</div>
-<div class = highlight-gray>**Description**:<br>
+<div class = highlight-gray>**Assignment:** Homework 1 <br>
+**Description**:<br>
 Insert description here.
 </div>
 
@@ -381,8 +369,8 @@ Insert description here.
 
 ## Day 1
 
-<div class = highlight-blue>**Topic:** Morality of conservatives and liberals </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Morality of conservatives and liberals <br>
+**Required readings**:<br>
 <p>- Reading 1 <br>
 - Reading 2 <br></p>
 
@@ -398,8 +386,8 @@ Insert description here.
 
 ## Day 2
 
-<div class = highlight-blue>**Topic:** Moral persuasion </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Moral persuasion <br>
+**Required readings**:<br>
 <p>- Reading 1 <br>
 - Reading 2 <br></p>
 
@@ -414,8 +402,8 @@ Insert description here.
 <br>
 
 ## Sunday
-<div class = highlight-blue>**Assignment:** Homework 1</div>
-<div class = highlight-gray>**Description**:<br>
+<div class = highlight-gray>**Assignment:** Homework 9 <br>
+**Description**:<br>
 Insert description here.
 </div>
 ###
@@ -424,8 +412,8 @@ Insert description here.
 
 ## Day 1
 
-<div class = highlight-blue>**Topic:** Morality and religion </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Morality and religion  <br>
+**Required readings**:<br>
 <p>- Reading 1 <br>
 - Reading 2 <br></p>
 
@@ -441,8 +429,8 @@ Insert description here.
 
 ## Day 2
 
-<div class = highlight-blue>**Topic:** Morality and culture </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Morality and culture <br>
+**Required readings**:<br>
 <p>- Reading 1 <br>
 - Reading 2 <br></p>
 
@@ -457,8 +445,8 @@ Insert description here.
 <br>
 
 ## Sunday
-<div class = highlight-blue>**Assignment:** Homework 1</div>
-<div class = highlight-gray>**Description**:<br>
+<div class = highlight-gray>**Assignment:** Homework 10 <br>
+**Description**:<br>
 Insert description here.
 </div>
 
@@ -468,8 +456,8 @@ Insert description here.
 
 ## Day 1
 
-<div class = highlight-blue>**Topic:** ?? </div>
-<div class = highlight-gray>**Required readings**:<br>
+<div class = highlight-gray>**Topic:** Final exam <br>
+**Required readings**:<br>
 <p>- Reading 1 <br>
 - Reading 2 <br></p>
 

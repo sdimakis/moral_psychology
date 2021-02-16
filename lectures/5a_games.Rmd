@@ -8,13 +8,17 @@ output:
 ---
 
 # Week 5
-This week, we will be discussing moral behavior, particularly how we are able to suppress  self-interest for the interests of others and of our groups
+This week, we will be discussing moral behavior, particularly suppressing self-interest for the interests of others and the collective
 
 .highlight-blue[In week 5:]
+
 - **What can economic games tell us about how we cooperate with each other?**
+
 - **How trusting and generous are we towards strangers?**
-- Is *genuine* altruism real, or do people always act in self-interest?
-- Who are our "moral heroes"? How are they special?
+
+- Does *true* altruism exist or are all pro-social acts inherently selfish?
+
+- How concerned are we about being perceived as *moral*?
   
 ---
 

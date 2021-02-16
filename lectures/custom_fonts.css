@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
 
-body { font-family: 'PT Sans Narrow', sans-serif;}
-h1{font-family: 'Amatic SC', cursive;}
-h2{font-family: 'Crimson Text', serif;}
+
+body {font-family: 'Yanone Kaffeesatz', sans-serif;}
+h1{font-family: 'Crimson Text', serif;}
+h2{font-family: 'Yanone Kaffeesatz', sans-serif;}
 

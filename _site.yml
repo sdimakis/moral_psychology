@@ -32,6 +32,10 @@ navbar:
         href: "lectures/5a_games.html"
       - text: "5b: Altruism and reputation"
         href: "lectures/5b_altruism.html"
+      - text: "6a: Determinants of dishonesty"
+        href: "lectures/6a_lying.html"
+      - text: "6b: Midterm (no lecture)"
+        href: "lectures/6b_midterm.html"
     - text: "Homework"
       menu:
       - text: "HW1  (Week 1)"

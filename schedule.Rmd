@@ -19,7 +19,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 
 ## Day 1
 
-<div class = highlight-gray>**Topic:** Introduction <br>
+<div class = highlight-gray>**Topic:** Introduction to moral psychology <br>
 **Required readings**:<br>
  <p> - *Course syllabus* **[[Web](syllabus.html)] [[Print copy](syllabus.docx)]**</p>
 

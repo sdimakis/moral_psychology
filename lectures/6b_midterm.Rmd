@@ -1,0 +1,14 @@
+---
+title: "Midterm"
+subtitle: "Week 6 - Moral Psychology"
+output:
+  xaringan::moon_reader:
+    css: [default, custom_fonts.css, custom_theme.css, custom.css]
+---
+
+```{r, echo = FALSE}
+library(countdown)
+
+countdown(minutes = 90, seconds = 0)
+```
+

@@ -36,6 +36,10 @@ navbar:
         href: "lectures/6a_lying.html"
       - text: "6b: Midterm (no lecture)"
         href: "lectures/6b_midterm.html"
+      - text: "7a: Moral identity"
+        href: "lectures/7a_identity.html"
+      - text: "7b: Self-concept maintenance"
+        href: "lectures/6b_maintenance.html"
     - text: "Homework"
       menu:
       - text: "HW1  (Week 1)"

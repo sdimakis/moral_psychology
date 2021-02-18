@@ -1,0 +1,7 @@
+---
+title: "Moral identity"
+subtitle: "Week 7 - Moral Psychology"
+output:
+  xaringan::moon_reader:
+    css: [default, custom_fonts.css, custom_theme.css, custom.css]
+---

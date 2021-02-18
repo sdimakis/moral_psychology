@@ -35,6 +35,11 @@
   
 }
 
+.smaller-font { 
+  font-size: 90% 
+  
+}
+
 .smallish {
   font-size: 80%;
 }

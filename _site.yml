@@ -12,13 +12,13 @@ navbar:
       href: schedule.html
     - text: "Lectures"
       menu:
-      - text: "1a: Defining morality"
+      - text: "1a: Introduction to moral psychology"
         href: "lectures/1a_defining_morality.html"
       - text: "1b: Defining and measuring morality"
         href: "lectures/1b_measuring-morality.html"
-      - text: "2a: Evolution"
+      - text: "2a: Evolution of morality"
         href: "lectures/2a_evolution.html"
-      - text: "2b: Development"
+      - text: "2b: Moral development"
         href: "lectures/2b_development.html"
       - text: "3a: Conscious reasoning"
         href: "lectures/3a_reasoning.html"

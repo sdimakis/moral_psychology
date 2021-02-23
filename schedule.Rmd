@@ -289,15 +289,14 @@ Insert description here.
 
 <div class = highlight-gray>**Topic:** Moral identity  <br>
 **Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
+<p>- Strohminger & Nichols (2014). *The essential moral self.* **[[Print copy](readings/week_7/Strohminger_2014.pdf)]**
+- Aquino & Reed (2002). *The Self-Importance of Moral Identity.* **[[Print copy](readings/week_7/Aquino_2002.pdf)]** <br></p>
 
 **Optional**: <br>
-<p>-  Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
+<p>-  Strohminger & Nichols (2015). *Neurodegeneration and Identity.* **[[Print copy](readings/week_7/Optional/Strohminger_2015.pdf)]**
+- Strohminger (2018). *Identity Is Essentially Moral.* **[[Print copy](readings/week_7/Optional/Strohminger_2018.pdf)]**
+- Aquino et al. (2009). *Testing a Social-Cognitive Model of Moral Behavior: The Interactive Influence of Situations and Moral Identity Centrality.* **[[Print copy](readings/week_7/Optional/Aquino_2009.pdf)]**
+- Strohminger, Knobe, & Newman (2017). *The True Self: A Psychological Concept Distinct From the Self.* **[[Print copy](readings/week_7/Optional/Strohminger_2017.pdf)]**
 <br>
 </div>
 <br>

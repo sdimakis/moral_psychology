@@ -1,0 +1,15 @@
+---
+title: "Moral emotions pt 2"
+subtitle: "Week 8 - Moral Psychology"
+output:
+  xaringan::moon_reader:
+    css: [default, custom_fonts.css, custom_theme.css, custom.css]
+---
+
+# Week 8
+
+This week, we will be discussing moral emotions 
+
+.highlight-gray[In week 8:]
+
+- 

@@ -40,6 +40,10 @@ navbar:
         href: "lectures/7a_identity.html"
       - text: "7b: Self-concept maintenance"
         href: "lectures/7b_maintenance.html"
+      - text: "8a: Moral emotions p1"
+        href: "lectures/8a_emotions1.html"
+      - text: "8b: Moral emotions p2"
+        href: "lectures/8b_emotions2.html"
     - text: "Homework"
       menu:
       - text: "HW1  (Week 1)"

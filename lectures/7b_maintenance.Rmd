@@ -403,7 +403,7 @@ Dishonest behavior is seen as more justifiable when it benefits both you and ano
 ---
 
 # Pre-violation justifications
-.footnote[Shalvi et al. (2015)]
+.footnote[Shalvi et al. (2015); Monin & Miller (2001)]
 
 .pull-left[
 ### Moral licensing 

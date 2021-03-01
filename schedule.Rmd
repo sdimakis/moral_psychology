@@ -305,15 +305,14 @@ Insert description here.
 
 <div class = highlight-gray>**Topic:** Self-concept maintenance <br>
 **Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
+<p>- Shalvi et al. (2015). *Self-Serving Justifications: Doing Wrong and Feeling Moral.* **[[Print copy](readings/week_7/Shalvi_2015.pdf)]** 
+- Bandura (1999). *Moral Disengagement in the Perpetration of Inhumanities.* **[[Print copy](readings/week_7/Bandura_1999.pdf)]**  <br></p>
 
 **Optional**: <br>
-<p>-  Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
+<p>-  Bryan, Adams, & Monin (2013). *When Cheating Would Make You a Cheater: Implicating the Self Prevents Unethical Behavior.* **[[Print copy](lectures/images/bryan et al 2013.JPG)]**
+- Mazar, Amir, & Ariely (2008). *The Dishonesty of Honest People: A Theory of Self-Concept Maintenance.* **[[Print copy](readings/week_7/Optional/Mazar_2008.pdf)]**
+- Valdesolo & DeSteno (2007). *Moral Hypocrisy: Social Groups and the Flexibility of Virtue.* **[[Print copy](readings/week_7/Optional/Valdesolo_2007.pdf)]**
+- Conrads et al. (2013). *Lying and team incentives.* **[[Print copy](readings/week_7/Optional/Conrads_2013.pdf)]**
 <br>
 </div>
 <br>

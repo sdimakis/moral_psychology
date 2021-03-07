@@ -122,3 +122,12 @@ a:hover {
 .highlight-blue {
   background-color: #e6f0ff;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+
+
+body {font-family: 'Crimson Text', serif;}
+h1{font-family: 'Crimson Text', serif;}
+h2{font-family: 'Crimson Text', serif;}
+

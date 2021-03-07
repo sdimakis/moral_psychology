@@ -32,15 +32,15 @@
 
 }
 
+
  /* navbar buttons blue when hovered over*/
 .navbar-custom .navbar-nav>li>a:hover {
   background-color: #ededed;
-  border-color: black;
+  border: 1px solid black;
 
 }
 
 /* NAVBAR MENU*/
-
 
  /* navbar menu rounded corners*/
 .navbar-custom .dropdown-menu {
@@ -52,8 +52,6 @@
 .navbar-custom .dropdown-menu>li>a {
   font-size: 11px;
   font-weight: bold;
-
-
 }
 
  /* navbar menu text when hovered over*/
@@ -62,6 +60,16 @@
   font-size: 11px;
   background-color: #e6f0ff;
 }
+
+.navbar-custom .dropdown-menu>a:hover .navbar-nav:a{ 
+  background-color: #3e8e41;
+}
+
+.navbar-custom>li.active>a, .navbar-nav>li.active>a:hover, .navbar-nav>li.active>a:focus {
+    color: #000000;
+    background-color: #e6f0ff;
+}
+
 
 
  /* navbar menu gray when hovered over*/
@@ -100,6 +108,9 @@
 
 }
 
+#TOC {
+  border: 1px solid black;
+}
 
 
 
@@ -129,16 +140,33 @@ a:hover {
 
 }
 
-
-
-.nav-pills>li {
-  background: #e6f0ff;
-  border-radius: 5px;
-
- }
  
 
 .apa-reference {
   padding-left: 36px;
   text-indent: -36px;
 }
+
+.nav-pills>li {
+    background: white;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+    color: #000000;
+    background-color: #e6f0ff;
+    border: .2px solid black;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+
+
+
+
+body {font-family: 'Crimson Text', serif;}
+h1{font-family: 'Crimson Text', serif;}
+h2{font-family: 'Crimson Text', serif;}

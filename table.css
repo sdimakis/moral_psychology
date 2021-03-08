@@ -175,15 +175,18 @@ a:hover {
 }
 
 .nav-pills>li>a {
+    border-radius: 4px;
     font-size: 18px;
     font-weight: bold;
     padding: 3px 1em 3px;
+
+
 }
 
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
     color: #000000;
-    background-color: #e6f0ff;
-    border: .2px solid black;
+    background-color: #eee5ff;
+    border: black;
 }
 
 .nav .open>a, .nav .open>a:hover, .nav .open>a:focus {

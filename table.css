@@ -184,7 +184,9 @@ a:hover {
 .nav-pills>li {
     background: white;
     border-radius: 8px;
-    border: .5px solid black;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid black;
 }
 
 .nav-pills>li>a {
@@ -192,7 +194,6 @@ a:hover {
     font-size: 18px;
     font-weight: bold;
     padding: 3px 1em 3px;
-    border: .5px solid black;
 
 
 
@@ -201,8 +202,10 @@ a:hover {
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
     color: black;
     background-color: #eee5ff;
-    border: .5px solid black;
     border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 3px 1em 3px;
 
 }
 

@@ -1,4 +1,18 @@
- /* define avatar*/
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+
+
+
+body {
+  font-family: 'Crimson Text', serif;
+  font-size: 18px;
+}
+h1{font-family: 'Crimson Text', serif;}
+h2{font-family: 'Crimson Text', serif;}
+
+
+
+/* define avatar*/
 
 .avatar {
   vertical-align: middle;
@@ -17,7 +31,8 @@
  /* navbar buttons*/
 .navbar-custom .navbar-nav>li>a {
   color: black;
-  font-size: 11px;
+  font-size: 18px;
+  font-family: 'Crimson Text', serif;
   font-weight: bold;
   border: 1px solid black;
   padding: 3px 1em 3px;
@@ -46,18 +61,20 @@
 .navbar-custom .dropdown-menu {
   border-radius: 10px;
   min-width: 3px;
+  border: white;
 }
 
  /* navbar menu text*/
 .navbar-custom .dropdown-menu>li>a {
-  font-size: 11px;
+  font-size: 15px;
   font-weight: bold;
+  font-family: 'Crimson Text', serif;
 }
 
  /* navbar menu text when hovered over*/
 .navbar-custom .dropdown-menu>a:hover {
   font-weight: bold;
-  font-size: 11px;
+  font-size: 15px;
   background-color: #e6f0ff;
 }
 
@@ -87,7 +104,7 @@
 
 .list-group-item {
   color: black;
-  font-size: 12px;
+  font-size: 15px;
 
 }
 
@@ -110,8 +127,11 @@
 
 #TOC {
   border: 1px solid black;
+
 }
 
+
+/* UNIQUE to tables!! */
 
 
 
@@ -140,7 +160,8 @@ a:hover {
 
 }
 
- 
+
+
 
 .apa-reference {
   padding-left: 36px;
@@ -149,10 +170,15 @@ a:hover {
 
 .nav-pills>li {
     background: white;
-    border-radius: 5px;
+    border-radius: 8px;
     border: 1px solid black;
 }
 
+.nav-pills>li>a {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 3px 1em 3px;
+}
 
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
     color: #000000;
@@ -160,13 +186,9 @@ a:hover {
     border: .2px solid black;
 }
 
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+    border: 1px solid black;
+  
+}
 
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
 
-
-
-
-body {font-family: 'Crimson Text', serif;}
-h1{font-family: 'Crimson Text', serif;}
-h2{font-family: 'Crimson Text', serif;}

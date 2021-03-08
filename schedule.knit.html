@@ -1,0 +1,1176 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Course schedule</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="table.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 66px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h2 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h3 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h4 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h5 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h6 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-custom  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="syllabus.html">Syllabus</a>
+</li>
+<li>
+  <a href="schedule.html">Course schedule</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lectures
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lectures/1a_defining_morality.html">1a: Introduction to moral psychology</a>
+    </li>
+    <li>
+      <a href="lectures/1b_measuring-morality.html">1b: Defining and measuring morality</a>
+    </li>
+    <li>
+      <a href="lectures/2a_evolution.html">2a: Evolution of morality</a>
+    </li>
+    <li>
+      <a href="lectures/2b_development.html">2b: Moral development</a>
+    </li>
+    <li>
+      <a href="lectures/3a_reasoning.html">3a: Conscious reasoning</a>
+    </li>
+    <li>
+      <a href="lectures/3b_intuitionism.html">3b: Intuitionism</a>
+    </li>
+    <li>
+      <a href="lectures/4a_character_judgments.html">4a: Character judgments</a>
+    </li>
+    <li>
+      <a href="lectures/4b_blame_attribution.html">4b: Attribution of blame and praise</a>
+    </li>
+    <li>
+      <a href="lectures/5a_games.html">5a: Cooperation - social dilemma games</a>
+    </li>
+    <li>
+      <a href="lectures/5b_altruism.html">5b: Altruism and reputation</a>
+    </li>
+    <li>
+      <a href="lectures/6a_lying.html">6a: Determinants of dishonesty</a>
+    </li>
+    <li>
+      <a href="lectures/6b_midterm.html">6b: Midterm (no lecture)</a>
+    </li>
+    <li>
+      <a href="lectures/7a_identity.html">7a: Moral identity</a>
+    </li>
+    <li>
+      <a href="lectures/7b_maintenance.html">7b: Self-concept maintenance</a>
+    </li>
+    <li>
+      <a href="lectures/8a_emotions1.html">8a: Moral emotions p1</a>
+    </li>
+    <li>
+      <a href="lectures/8b_emotions2.html">8b: Moral emotions p2</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Homework
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="homework/homework_1.html">HW1  (Week 1)</a>
+    </li>
+    <li>
+      <a href="homework/homework_2.html">HW2  (Week 3)</a>
+    </li>
+    <li>
+      <a href="homework/homework_3.html">HW3  (Week 5)</a>
+    </li>
+    <li>
+      <a href="homework/homework_4.html">HW4  (Week 8)</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Assessments
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="quizzes/quiz_1.html">Q1  (Week 2)</a>
+    </li>
+    <li>
+      <a href="quizzes/quiz_2.html">Q2  (Week 4)</a>
+    </li>
+    <li>
+      <a href="exams/midterm.html">Midterm  (Week 6)</a>
+    </li>
+    <li>
+      <a href="quizzes/quiz_3.html">Q3  (Week 7)</a>
+    </li>
+    <li>
+      <a href="quizzes/quiz_4.html">Q4  (Week 9)</a>
+    </li>
+    <li>
+      <a href="exams/final.html">Final  (Finals Week)</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="contact.html">
+    <span class="fa fa-envelope-o"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="resources.html">
+    <span class="fa fa-bookmark-o"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://github.com/sdimakis/moral_psychology">
+    <span class="fa fa-github"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore"><b>Course schedule</b></h1>
+
+</div>
+
+
+<style>
+div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
+</style>
+<div id="week-1-defining-and-measuring-morality" class="section level1 tabset tabset-pills">
+<h1>Week 1: Defining and measuring morality</h1>
+<div id="day-1" class="section level2">
+<h2>Day 1</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Introduction to moral psychology <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li><em>Course syllabus</em> <strong>[<a href="syllabus.html">Web</a>] [<a href="syllabus.docx">Print copy</a>]</strong>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Pinker (2008). <em>The Moral Instinct.</em> <strong>[<a href="https://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html">Web</a>] [<a href="readings/week_1/Optional/Pinker_2008.pdf">Print copy</a>]</strong> <br></li>
+<li>Haidt (2008). <em>Morality.</em> <strong>[<a href="readings/week_1/Optional/Haidt_2008.pdf">Print copy</a>]</strong> <br></li>
+<li>Ellemers et al. (2019). <em>The Psychology of Morality: A Review and Analysis of Empirical Studies Published From 1940 Through 2017.</em> <strong>[<a href="readings/week_1/Optional/Ellemers_2019.pdf">Print copy</a>]</strong> <br></li>
+<li>CrashCourse. (2016). <em>Utilitarianism: Crash Course Philosophy #36.</em> <strong>[<a href="https://www.youtube.com/watch?v=-a739VjqdSI">Video</a>]</strong> <br></li>
+<li>Gert (2020). <em>The Definition of Morality.</em> <strong>[<a href="https://plato.stanford.edu/entries/morality-definition/">Web</a>]</strong>
+</p>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="day-2" class="section level2">
+<h2>Day 2</h2>
+<div class="highlight-gray">
+<strong>Topic:</strong> Defining and measuring morality <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Graham et al. (2013). <em>Moral Foundations Theory: The Pragmatic Validity of Moral Pluralism.</em> <strong>[<a href="readings/week_1/Graham_2013.pdf">Print copy</a>]</strong><br></li>
+<li>Janoff-Bulman &amp; Carnes (2013). <em>Surveying the Moral Landscape: Moral Motives and Group-Based Moralities.</em> <strong>[<a href="readings/week_1/Janoff-Bulman_2013.pdf">Print copy</a>]</strong></li>
+</ul>
+</p>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Gray, Waytz, &amp; Young (2012). <em>The Moral Dyad: A Fundamental Template Unifying Moral Judgment.</em> <strong>[<a href="readings/week_1/Optional/Gray_2012.pdf">Print copy</a>]</strong><br></li>
+<li>Rai &amp; Fiske (2011). <em>Moral Psychology Is Relationship Regulation: Moral Motives for Unity, Hierarchy, Equality, and Proportionality</em> <strong>[<a href="readings/week_1/Optional/Rai_2011.pdf">Print copy</a>]</strong></li>
+</ul>
+</p>
+</div>
+<p><br></p>
+</div>
+<div id="sunday" class="section level2">
+<h2>Sunday</h2>
+<div class="highlight-gray">
+<p><strong>Assignment:</strong> Homework 1 <br> <strong>Description</strong>:<br> Insert description here.</p>
+</div>
+<div id="section" class="section level3">
+<h3></h3>
+</div>
+</div>
+</div>
+<div id="week-2-evolution-and-development" class="section level1 tabset tabset-pills">
+<h1>Week 2: Evolution and development</h1>
+<div id="day-1-1" class="section level2">
+<h2>Day 1</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Evolution of morality <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>de Waal (2013). <em>Moral behavior in animals.</em> <strong>[<a href="https://www.ted.com/talks/frans_de_waal_moral_behavior_in_animals">Video</a>]</strong> <br></li>
+<li>Brosnan &amp; de Waal (2014). <em>Evolution of responses to (un)fairness.</em> <strong>[<a href="readings/week_2/Brosnan_2014.pdf">Print copy</a>]</strong> <br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Rice &amp; Gainer (1962). <em>“Altruism” in the albino rat.</em> <strong>[<a href="readings/week_2/Optional/Rice_1962.pdf">Print copy</a>]</strong> <br></li>
+<li>Masserman (1964). <em>“Altruistic” behavior in rhesus monkeys.</em> <strong>[<a href="readings/week_2/Optional/Masserman_1964.pdf">Print copy</a>]</strong></li>
+<li>Horner et al. (2011). <em>Spontaneous prosocial choice by chimpanzees.</em> <strong>[<a href="readings/week_2/Optional/Horner_2011.pdf">Print copy</a>]</strong></li>
+<li>de Waal et al. (2008). <em>Giving is self-rewarding for monkeys.</em> <strong>[<a href="readings/week_2/Optional/dewaal_2008.pdf">Print copy</a>]</strong></li>
+<li>de Waal &amp; Berger (2000). <em>Payment for labour in monkeys.</em> <strong>[<a href="readings/week_2/Optional/dewaal_2000.pdf">Print copy</a>]</strong></li>
+</ul>
+</p>
+</div>
+<p><br></p>
+</div>
+<div id="day-2-1" class="section level2">
+<h2>Day 2</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Moral development <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Kohlberg (1968). <em>The Child as a Moral Philosopher.</em> <strong>[<a href="readings/week_2/Kohlberg_1968.pdf">Print copy</a>]</strong> <br></li>
+<li>Bloom (2010). <em>The moral life of babies</em>. <strong>[<a href="https://www.nytimes.com/2010/05/09/magazine/09babies-t.html">Web</a>] [<a href="readings/week_2/Bloom_2010.pdf">Print copy</a>]</strong>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Warneken &amp; Tomasello (2006). <em>Altruistic Helping in Human Infants and Young Chimpanzees.</em> <strong>[<a href="readings/week_2/Optional/Warneken_2006.pdf">Print copy</a>]</strong></li>
+<li>Hamlin, Wynn, &amp; Bloom (2007). <em>Social evaluation by preverbal infants.</em> <strong>[<a href="readings/week_2/Optional/Hamlin_2007.pdf">Print copy</a>]</strong></li>
+<li>Smetana (2013). <em>Moral development: The social domain theory view.</em> <strong>[<a href="readings/week_2/Optional/Smetana_2014.pdf">Print copy</a>]</strong>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="sunday-1" class="section level2">
+<h2>Sunday</h2>
+<div class="highlight-gray">
+<p><strong>Assignment:</strong> Homework 1 <br> <strong>Description</strong>:<br> Insert description here.</p>
+</div>
+<div id="section-1" class="section level3">
+<h3></h3>
+</div>
+</div>
+</div>
+<div id="week-3-moral-reasoning" class="section level1 tabset tabset-pills">
+<h1>Week 3: Moral reasoning</h1>
+<div id="day-1-2" class="section level2">
+<h2>Day 1</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Conscious reasoning <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Greene et al. (2009). <em>Pushing moral buttons: The interaction between personal force and intention in moral judgment.</em> <strong>[<a href="readings/week_3/Greene_2009.pdf">Print copy</a>]</strong> <br></li>
+<li>Cushman, Young, &amp; Hauser (2006). <em>The Role of Conscious Reasoning and Intuition in Moral Judgment.</em> <strong>[<a href="readings/week_3/Cushman_2006.pdf">Print copy</a>]</strong><br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Aktas, Yilmaz, &amp; Bahçekapili (2017). <em>Moral pluralism on the trolley tracks: Different normative principles are used for different reasons in justifying moral judgments.</em> <strong>[<a href="readings/week_3/Optional/Aktas_2017.pdf">Print copy</a>]</strong></li>
+<li>Bruers &amp; Braeckman (2014). <em>A Review and Systematization of the Trolley Problem.</em> <strong>[<a href="readings/week_3/Optional/Bruers_2014.pdf">Print copy</a>]</strong></li>
+<li>Greene et al. (2001). <em>An fMRI Investigation of Emotional Engagement in Moral Judgment.</em> <strong>[<a href="readings/week_3/Optional/Greene_2001.pdf">Print copy</a>]</strong></li>
+<li>Bartels &amp; Pizarro (2011). <em>The mismeasure of morals: Antisocial personality traits predict utilitarian responses to moral dilemmas.</em> <strong>[<a href="readings/week_3/Optional/Bartels_2011.pdf">Print copy</a>]</strong>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="day-2-2" class="section level2">
+<h2>Day 2</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Intuitionism <br> <strong>Required readings</strong>: <br>
+<p>
+<ul>
+<li>Haidt (2001). <em>The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment.</em> <strong>[<a href="readings/week_3/Haidt_2001.pdf">Print copy</a>]</strong> <br></li>
+<li>Uhlmann et al. (2009). <em>The motivated use of moral principles.</em> <strong>[<a href="readings/week_3/Uhlmann_2009.pdf">Print copy</a>]</strong><br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Haidt, Koller, &amp; Dias (1993). <em>Affect, Culture, and Morality, or Is It Wrong to Eat Your Dog?</em> <strong>[<a href="readings/week_3/Optional/Haidt_1993.pdf">Print copy</a>]</strong></li>
+<li>Pizarro &amp; Bloom (2003). <em>The Intelligence of the Moral Intuitions: Comment on Haidt (2001).</em> <strong>[<a href="readings/week_3/Optional/Pizarro_2003.pdf">Print copy</a>]</strong></li>
+<li>Monin, Pizarro, &amp; Beer (2007). <em>Deciding Versus Reacting:Conceptions of Moral Judgment and the Reason-Affect Debate.</em> <strong>[<a href="readings/week_3/Optional/Monin_2007.pdf">Print copy</a>]</strong></li>
+<li>Uhlmann, Pizarro, &amp; Diermeier (2015). <em>A Person-Centered Approach to Moral Judgment.</em> <strong>[<a href="readings/week_3/Optional/Uhlmann_2015.pdf">Print copy</a>]</strong></li>
+<li>Royzman, Kim, &amp; Leeman (2015). <em>The curious tale of Julie and Mark: Unraveling the moral dumbfounding effect</em>. <strong>[<a href="readings/week_3/Optional/Royzman_2015.pdf">Print copy</a>]</strong></li>
+</ul>
+<br>
+</div>
+<p><br></p>
+</div>
+<div id="sunday-2" class="section level2">
+<h2>Sunday</h2>
+<div class="highlight-gray">
+<p><strong>Assignment:</strong> Homework 1 <br> <strong>Description</strong>:<br> Insert description here.</p>
+</div>
+<div id="section-2" class="section level3">
+<h3></h3>
+</div>
+</div>
+</div>
+<div id="week-4-person-perception-attribution" class="section level1 tabset tabset-pills">
+<h1>Week 4: Person perception &amp; attribution</h1>
+<div id="day-1-3" class="section level2">
+<h2>Day 1</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Character perception <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Helzer &amp; Critcher (2018). <em>What Do We Evaluate When We Evaluate Moral Character?</em> <strong>[<a href="readings/week_4/Helzer_2018.pdf">Print copy</a>]</strong><br></li>
+<li>Uhlmann, Zhu, &amp; Tannenbaum (2013). <em>When it takes a bad person to do the right thing.</em> <strong>[<a href="readings/week_4/Uhlmann_2013.pdf">Print copy</a>]</strong> <br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Todorov et al. (2008). <em>Understanding evaluation of faces on social dimensions</em> <strong>[<a href="readings/week_4/Optional/Todorov_2008.pdf">Print copy</a>]</strong></li>
+<li>Critcher, Inbar, &amp; Pizarro (2012). <em>How Quick Decisions Illuminate Moral Character</em> <strong>[<a href="readings/week_4/Optional/Critcher_2012.pdf">Print copy</a>]</strong></li>
+<li>Goodwin (2015). <em>Moral Character in Person Perception.</em> <strong>[<a href="readings/week_4/Optional/Goodwin_2015.pdf">Print copy</a>]</strong></li>
+<li>Tannenbaum, Uhlmann, &amp; Diermeier (2011). <em>Moral signals, public outrage, and immaterial harms.</em> <strong>[<a href="readings/week_4/Optional/Tannenbaum_2011.pdf">Print copy</a>]</strong></li>
+</ul>
+</div>
+<p><br></p>
+</div>
+<div id="day-2-3" class="section level2">
+<h2>Day 2</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Attribution of blame and praise <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Alicke (2000). <em>Culpable Control and the Psychology of Blame.</em> <strong>[<a href="readings/week_4/Alicke_2000.pdf">Print copy</a>]<br></strong></li>
+<li>Anderson, Crockett, &amp; Pizarro (2020). <em>A Theory of Moral Praise.</em> <strong>[<a href="readings/week_4/Anderson_2020.pdf">Print copy</a>]</strong>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Alicke (1992). <em>Culpable Causation.</em> <strong>[<a href="readings/week_4/Optional/Alicke_1992.pdf">Print copy</a>]</strong></li>
+<li>Pizarro, Uhlmann, &amp; Bloom (2003). <em>Causal deviance and the attribution of moral responsibility.</em> <strong>[<a href="readings/week_4/Optional/Pizarro_2003b.pdf">Print copy</a>]</strong></li>
+<li>Alicke (2008). <em>Blaming Badly.</em> <strong>[<a href="readings/week_10/Alicke_2008.pdf">Print copy</a>]</strong></li>
+<li>Malle, Guglielmo, &amp; Monroe (2014). <em>A theory of blame.</em> <strong>[<a href="readings/week_4/Optional/Malle_2014.pdf">Print copy</a>]</strong></li>
+<li>Knobe (2003). <em>Intentional action and side effects in ordinary language.</em> <strong>[<a href="readings/week_4/Optional/Knobe_2003.pdf">Print copy</a>]</strong></li>
+<li>Pizarro, Uhlmann, &amp; Salovey (2003). <em>Asymmetry in judgments of moral blame and praise: The Role of Perceived Metadesires.</em> <strong>[<a href="readings/week_4/Optional/Pizarro_2003a.pdf">Print copy</a>]</strong></li>
+<li>Alicke, Rogers, &amp; Taylor (2018). <em>What Is Blame and Why Do We Love It?</em> <strong>[<a href="readings/week_4/Optional/Alicke_2018.pdf">Print copy</a>]</strong> <br>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="sunday-3" class="section level2">
+<h2>Sunday</h2>
+<div class="highlight-gray">
+<p><strong>Assignment:</strong> Homework 1 <br> <strong>Description</strong>:<br> Insert description here.</p>
+</div>
+<div id="section-3" class="section level3">
+<h3></h3>
+</div>
+</div>
+</div>
+<div id="week-5-moral-behavior" class="section level1 tabset tabset-pills">
+<h1>Week 5: Moral behavior</h1>
+<div id="day-1-4" class="section level2">
+<h2>Day 1</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Cooperation - social dilemma games <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Dunning et al. (2014). <em>Trust at Zero Acquaintance: More a Matter of Respect Than Expectation of Reward.</em> <strong>[<a href="readings/week_5/Dunning_2014.pdf">Print Copy</a>]</strong></li>
+<li>Fehr &amp; Gaechter (2002). <em>Altruistic punishment in humans.</em> <strong>[<a href="readings/week_5/Fehr_2002.pdf">Print copy</a>]</strong>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Hardin (1968). <em>The Tragedy of the Commons</em>. <strong>[<a href="readings/week_5/Optional/Hardin_1968.pdf">Print copy</a>]</strong></li>
+<li>TedEd. (2017). <em>What is the tragedy of the commons? - Nicholas Amendolare</em> <strong>[<a href="https://www.youtube.com/watch?v=CxC161GvMPc">Video</a>]</strong></li>
+<li>Thielmann, Spadaro, &amp; Balliet (2020). <em>Personality and Prosocial Behavior: A Theoretical Framework and Meta-Analysis.</em> <strong>[<a href="readings/week_5/Optional/Thielmann_2020.pdf">Print copy</a>]</strong></li>
+<li>Jensen, Call, &amp; Tomasello (2007). <em>Chimpanzees Are Rational Maximizers in an Ultimatum Game.</em> <strong>[<a href="readings/week_5/Optional/Jensen_2007.pdf">Print copy</a>]</strong></li>
+<li>Butler, Burbank, &amp; Chisholm (2010). <em>The frames behind the games: Player’s perceptions of prisoners dilemma, chicken, dictator, and ultimatum games.</em> <strong>[<a href="readings/week_5/Optional/Butler_2011.pdf">Print copy</a>]</strong> <br>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="day-2-4" class="section level2">
+<h2>Day 2</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Altruism and reputation <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Vonasch et al. (2018). <em>Death Before Dishonor: Incurring Costs to Protect Moral Reputation.</em> <strong>[<a href="readings/week_5/Vonasch_2018.pdf">Print copy</a>]</strong></li>
+<li>Dana, Cain, &amp; Dawes (2006). <em>What you dont know wont hurt me: Costly (but quiet) exit in dictator games.</em> <strong>[<a href="readings/week_5/Dana_2006.pdf">Print copy</a>]</strong>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Cohn et al. (2019). <em>Civic honesty around the globe.</em> <strong>[<a href="readings/week_5/Optional/Cohn_2019.pdf">Print copy</a>]</strong></li>
+<li>Batson &amp; Shaw (1991). <em>Evidence for Altruism: Toward a Pluralism of Prosocial Motives.</em> <strong>[<a href="readings/week_5/Optional/Batson_1991.pdf">Print copy</a>]</strong></li>
+<li>Cheng et al. (2010). <em>Love hurts: An fMRI study.</em> <strong>[<a href="readings/week_5/Optional/Cheng_2010.pdf">Print copy</a>]</strong></li>
+<li>Monin &amp; Miller (2001). <em>Moral Credentials and the Expression of Prejudice.</em> <strong>[<a href="readings/week_5/Optional/Monin_2001.pdf">Print copy</a>]</strong></li>
+<li>Small, Loewenstein, &amp; Slovic (2007). <em>Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims.</em> <strong>[<a href="readings/week_5/Optional/Small_2007.pdf">Print copy</a>]</strong></li>
+<li>Bloom (2013). <em>The baby in the well: the case against empathy.</em> <strong>[<a href="https://www.newyorker.com/magazine/2013/05/20/the-baby-in-the-well">Web</a>][<a href="readings/week_5/Optional/Bloom_2013.pdf">Print copy</a>]</strong> <br>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="sunday-4" class="section level2">
+<h2>Sunday</h2>
+<div class="highlight-gray">
+<p><strong>Assignment:</strong> Homework 1 <br> <strong>Description</strong>:<br> Insert description here.</p>
+</div>
+<div id="section-4" class="section level3">
+<h3></h3>
+</div>
+</div>
+</div>
+<div id="week-6-unethical-behavior" class="section level1 tabset tabset-pills">
+<h1>Week 6: Unethical behavior</h1>
+<div id="day-1-5" class="section level2">
+<h2>Day 1</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Determinants of dishonesty <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Markowitz &amp; Levine (2021). <em>It’s the Situation and Your Disposition: A Test of Two Honesty Hypotheses.</em> <strong>[<a href="readings/week_6/Markowitz_2021.pdf">Print copy</a>]</strong></li>
+<li>Gino, Ayal, &amp; Ariely (2009). <em>Contagion and Differentiation in Unethical Behavior: The Effect of One Bad Apple on the Barrel.</em> <strong>[<a href="readings/week_6/Gino_2009.pdf">Print copy</a>]</strong> <br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Lee &amp; Gino (2018). <em>In Search of Moral Equilibrium: Person, Situation, and Their Interplay in Behavioral Ethics.</em> <strong>[<a href="readings/week_6/optional/Lee_2018.pdf">Print copy</a>]</strong></li>
+<li>Kouchaki &amp; Smith (2014). <em>The Morning Morality Effect: The Influence of Time of Day on Unethical Behavior.</em> <strong>[<a href="readings/week_6/optional/Kouchaki_2014a.pdf">Print copy</a>]</strong></li>
+<li>Amir, Kogut, &amp; Bereby-Meyer (2016). <em>Careful Cheating: People Cheat Groups Rather than Individuals.</em> <strong>[<a href="readings/week_6/optional/Amir_2016.pdf">Print copy</a>]</strong></li>
+<li>Zhong, Bohns, &amp; Gino (2010). <em>Good Lamps Are the Best Police: Darkness Increases Dishonesty and Self-Interested Behavior.</em> <strong>[<a href="readings/week_6/optional/Zhong_2010.pdf">Print copy</a>]</strong></li>
+<li>Jones &amp; Paulhus (2017). <em>Duplicity Among the Dark Triad: Three Faces of Deceit</em>. <strong>[<a href="readings/week_6/optional/Jones_2017.pdf">Print copy</a>]</strong></li>
+<li>Gino &amp; Wiltermuth (2014). <em>Evil Genius? How Dishonesty Can Lead to Greater Creativity.</em> <strong>[<a href="readings/week_6/optional/Gino_2014.pdf">Print copy</a>]</strong></li>
+<li>Kouchaki &amp; Desai (2014). <em>Anxious, Threatened, and Also Unethical: How Anxiety Makes Individuals Feel Threatened and Commit Unethical Acts.</em> <strong>[<a href="readings/week_6/optional/Kouchaki_2014b.pdf">Print copy</a>]</strong> <br>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="day-2-5" class="section level2">
+<h2>Day 2</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Midterm <br> <strong>Required readings</strong>: <br>
+<p>
+<ul>
+<li>Midterm review study guide <strong>[<a href="">Web</a>][<a href="">Print copy</a>]</strong>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Reading 1</li>
+<li>Reading 2 <br></li>
+</ul>
+</div>
+</div>
+<div id="sunday-5" class="section level2">
+<h2>Sunday</h2>
+<div class="highlight-gray">
+<p><strong>Assignment:</strong> Homework 1 <br> <strong>Description</strong>:<br> Insert description here.</p>
+</div>
+<div id="section-5" class="section level3">
+<h3></h3>
+</div>
+</div>
+</div>
+<div id="week-7-the-moral-self" class="section level1 tabset tabset-pills">
+<h1>Week 7: The moral self</h1>
+<div id="day-1-6" class="section level2">
+<h2>Day 1</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Moral identity <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Strohminger &amp; Nichols (2014). <em>The essential moral self.</em> <strong>[<a href="readings/week_7/Strohminger_2014.pdf">Print copy</a>]</strong></li>
+<li>Aquino &amp; Reed (2002). <em>The Self-Importance of Moral Identity.</em> <strong>[<a href="readings/week_7/Aquino_2002.pdf">Print copy</a>]</strong> <br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Strohminger &amp; Nichols (2015). <em>Neurodegeneration and Identity.</em> <strong>[<a href="readings/week_7/Optional/Strohminger_2015.pdf">Print copy</a>]</strong></li>
+<li>Strohminger (2018). <em>Identity Is Essentially Moral.</em> <strong>[<a href="readings/week_7/Optional/Strohminger_2018.pdf">Print copy</a>]</strong></li>
+<li>Aquino et al. (2009). <em>Testing a Social-Cognitive Model of Moral Behavior: The Interactive Influence of Situations and Moral Identity Centrality.</em> <strong>[<a href="readings/week_7/Optional/Aquino_2009.pdf">Print copy</a>]</strong></li>
+<li>Strohminger, Knobe, &amp; Newman (2017). <em>The True Self: A Psychological Concept Distinct From the Self.</em> <strong>[<a href="readings/week_7/Optional/Strohminger_2017.pdf">Print copy</a>]</strong> <br>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="day-2-6" class="section level2">
+<h2>Day 2</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Self-concept maintenance <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Shalvi et al. (2015). <em>Self-Serving Justifications: Doing Wrong and Feeling Moral.</em> <strong>[<a href="readings/week_7/Shalvi_2015.pdf">Print copy</a>]</strong></li>
+<li>Bandura (1999). <em>Moral Disengagement in the Perpetration of Inhumanities.</em> <strong>[<a href="readings/week_7/Bandura_1999.pdf">Print copy</a>]</strong> <br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Bryan, Adams, &amp; Monin (2013). <em>When Cheating Would Make You a Cheater: Implicating the Self Prevents Unethical Behavior.</em> <strong>[<a href="lectures/images/bryan%20et%20al%202013.JPG">Print copy</a>]</strong></li>
+<li>Mazar, Amir, &amp; Ariely (2008). <em>The Dishonesty of Honest People: A Theory of Self-Concept Maintenance.</em> <strong>[<a href="readings/week_7/Optional/Mazar_2008.pdf">Print copy</a>]</strong></li>
+<li>Valdesolo &amp; DeSteno (2007). <em>Moral Hypocrisy: Social Groups and the Flexibility of Virtue.</em> <strong>[<a href="readings/week_7/Optional/Valdesolo_2007.pdf">Print copy</a>]</strong></li>
+<li>Conrads et al. (2013). <em>Lying and team incentives.</em> <strong>[<a href="readings/week_7/Optional/Conrads_2013.pdf">Print copy</a>]</strong> <br>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="sunday-6" class="section level2">
+<h2>Sunday</h2>
+<div class="highlight-gray">
+<p><strong>Assignment:</strong> Homework 1 <br> <strong>Description</strong>:<br> Insert description here.</p>
+</div>
+<div id="section-6" class="section level3">
+<h3></h3>
+</div>
+</div>
+</div>
+<div id="week-8-moral-emotions" class="section level1 tabset tabset-pills">
+<h1>Week 8: Moral emotions</h1>
+<div id="day-1-7" class="section level2">
+<h2>Day 1</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Moral emotions pt. 1 <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Reading 1 <br></li>
+<li>Reading 2 <br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Reading 1</li>
+<li>Reading 2</li>
+<li>Reading 3</li>
+<li>Reading 4</li>
+<li>Reading 5 <br>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="day-2-7" class="section level2">
+<h2>Day 2</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Moral emotions pt. 2 <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Reading 1 <br></li>
+<li>Reading 2 <br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Reading 1</li>
+<li>Reading 2</li>
+<li>Reading 3</li>
+<li>Reading 4</li>
+<li>Reading 5 <br>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="sunday-7" class="section level2">
+<h2>Sunday</h2>
+<div class="highlight-gray">
+<p><strong>Assignment:</strong> Homework 1 <br> <strong>Description</strong>:<br> Insert description here.</p>
+</div>
+<div id="section-7" class="section level3">
+<h3></h3>
+</div>
+</div>
+</div>
+<div id="week-9-morality-and-politics" class="section level1 tabset tabset-pills">
+<h1>Week 9: Morality and politics</h1>
+<div id="day-1-8" class="section level2">
+<h2>Day 1</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Morality of conservatives and liberals <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Reading 1 <br></li>
+<li>Reading 2 <br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Reading 1</li>
+<li>Reading 2</li>
+<li>Reading 3</li>
+<li>Reading 4</li>
+<li>Reading 5 <br>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="day-2-8" class="section level2">
+<h2>Day 2</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Moral persuasion <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Reading 1 <br></li>
+<li>Reading 2 <br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Reading 1</li>
+<li>Reading 2</li>
+<li>Reading 3</li>
+<li>Reading 4</li>
+<li>Reading 5 <br>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="sunday-8" class="section level2">
+<h2>Sunday</h2>
+<div class="highlight-gray">
+<p><strong>Assignment:</strong> Homework 9 <br> <strong>Description</strong>:<br> Insert description here.</p>
+</div>
+<div id="section-8" class="section level3">
+<h3></h3>
+</div>
+</div>
+</div>
+<div id="week-10-morality-religion-and-culture" class="section level1 tabset tabset-pills">
+<h1>Week 10: Morality, religion, and culture</h1>
+<div id="day-1-9" class="section level2">
+<h2>Day 1</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Morality and religion <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Reading 1 <br></li>
+<li>Reading 2 <br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Reading 1</li>
+<li>Reading 2</li>
+<li>Reading 3</li>
+<li>Reading 4</li>
+<li>Reading 5 <br>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="day-2-9" class="section level2">
+<h2>Day 2</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Morality and culture <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Reading 1 <br></li>
+<li>Reading 2 <br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Reading 1</li>
+<li>Reading 2</li>
+<li>Reading 3</li>
+<li>Reading 4</li>
+<li>Reading 5 <br>
+</div>
+<br></li>
+</ul>
+</div>
+<div id="sunday-9" class="section level2">
+<h2>Sunday</h2>
+<div class="highlight-gray">
+<p><strong>Assignment:</strong> Homework 10 <br> <strong>Description</strong>:<br> Insert description here.</p>
+</div>
+<div id="section-9" class="section level3">
+<h3></h3>
+</div>
+</div>
+</div>
+<div id="finals-week" class="section level1 tabset tabset-pills">
+<h1>Finals Week</h1>
+<div id="day-1-10" class="section level2">
+<h2>Day 1</h2>
+<div class = highlight-gray>
+<strong>Topic:</strong> Final exam <br> <strong>Required readings</strong>:<br>
+<p>
+<ul>
+<li>Reading 1 <br></li>
+<li>Reading 2 <br>
+</p></li>
+</ul>
+<strong>Optional</strong>: <br>
+<p>
+<ul>
+<li>Reading 1</li>
+<li>Reading 2</li>
+<li>Reading 3</li>
+<li>Reading 4</li>
+<li>Reading 5 <br>
+</div>
+<br></li>
+</ul>
+<div id="section-10" class="section level3">
+<h3></h3>
+</div>
+</div>
+</div>
+
+
+
+<p style="text-align:right;"><br><br><br>-----------<br>&copy; 2021</p>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

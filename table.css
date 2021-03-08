@@ -7,8 +7,13 @@ body {
   font-family: 'Crimson Text', serif;
   font-size: 18px;
 }
-h1{font-family: 'Crimson Text', serif;}
-h2{font-family: 'Crimson Text', serif;}
+h1{font-family: 'Crimson Text', serif;
+
+}
+h2{font-family: 'Crimson Text', serif;
+      background-color: #e6f0ff;
+
+}
 
 
 
@@ -99,6 +104,12 @@ h2{font-family: 'Crimson Text', serif;}
 
 }
 
+
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+    border: 1px solid black;
+  
+}
+
   
  /* TOC black 12px font*/
 
@@ -157,6 +168,7 @@ a:visited {
 /* mouse over link */
 a:hover {
   text-decoration: none;
+  background-color: #ffe5e8;
 
 }
 
@@ -168,30 +180,30 @@ a:hover {
   text-indent: -36px;
 }
 
+
 .nav-pills>li {
     background: white;
     border-radius: 8px;
-    border: 1px solid black;
+    border: .5px solid black;
 }
 
 .nav-pills>li>a {
-    border-radius: 4px;
+    border-radius: 8px;
     font-size: 18px;
     font-weight: bold;
     padding: 3px 1em 3px;
+    border: .5px solid black;
+
 
 
 }
 
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
-    color: #000000;
+    color: black;
     background-color: #eee5ff;
-    border: black;
-}
+    border: .5px solid black;
+    border-radius: 8px;
 
-.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
-    border: 1px solid black;
-  
 }
 
 

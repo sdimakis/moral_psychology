@@ -1,5 +1,5 @@
 ---
-title: "<b>Course schedule</b>"
+title: "<b><center>Course schedule</center></b>"
 output: 
   html_document: 
     toc: yes
@@ -15,7 +15,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 </style>
 
 
-# Week 1: Defining and measuring morality {.tabset .tabset-pills}
+# **Week 1**: Defining and measuring morality {.tabset .tabset-pills}
 
 ## Day 1
 
@@ -61,7 +61,7 @@ Insert description here.
 ###
 
 
-# Week 2: Evolution and development {.tabset .tabset-pills}
+# **Week 2**: Evolution and development {.tabset .tabset-pills}
 
 ## Day 1
 
@@ -103,7 +103,7 @@ Insert description here.
 
 ###
 
-# Week 3: Moral reasoning {.tabset .tabset-pills}
+# **Week 3**: Moral reasoning {.tabset .tabset-pills}
 
 ## Day 1
 
@@ -147,7 +147,7 @@ Insert description here.
 
 ###
 
-# Week 4: Person perception & attribution {.tabset .tabset-pills}
+# **Week 4**: Person perception & attribution {.tabset .tabset-pills}
 
 ## Day 1
 
@@ -193,7 +193,7 @@ Insert description here.
 
 ###
 
-# Week 5: Moral behavior {.tabset .tabset-pills}
+# **Week 5**: Moral behavior {.tabset .tabset-pills}
 
 ## Day 1
 
@@ -238,7 +238,7 @@ Insert description here.
 
 ###
 
-# Week 6: Unethical behavior {.tabset .tabset-pills}
+# **Week 6**: Unethical behavior {.tabset .tabset-pills}
 
 
 ## Day 1
@@ -283,7 +283,7 @@ Insert description here.
 
 ###
 
-# Week 7: The moral self {.tabset .tabset-pills}
+# **Week 7**: The moral self {.tabset .tabset-pills}
 
 ## Day 1
 
@@ -325,7 +325,7 @@ Insert description here.
 
 ###
 
-# Week 8: Moral emotions {.tabset .tabset-pills}
+# **Week 8**: Moral emotions {.tabset .tabset-pills}
 
 ## Day 1
 
@@ -368,7 +368,7 @@ Insert description here.
 </div>
 ###
 
-# Week 9: Morality and politics {.tabset .tabset-pills}
+# **Week 9**: Morality and politics {.tabset .tabset-pills}
 
 ## Day 1
 
@@ -411,7 +411,7 @@ Insert description here.
 </div>
 ###
 
-# Week 10: Morality, religion, and culture {.tabset .tabset-pills}
+# **Week 10**: Morality, religion, and culture {.tabset .tabset-pills}
 
 ## Day 1
 
@@ -455,7 +455,7 @@ Insert description here.
 
 ###
 
-# Finals Week {.tabset .tabset-pills}
+# **Week 11**: Finals week {.tabset .tabset-pills}
 
 ## Day 1
 

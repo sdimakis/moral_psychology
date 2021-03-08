@@ -3,7 +3,7 @@ title: "Welcome!"
 
 ---
 <style>
-div.blue {background-color:#e6f0ff; border-radius: 10px;   border: 1px solid black; padding: 20px;}
+div.blue {background-color:#eee5ff; border-radius: 10px;   border: 1px solid black; padding: 20px;}
 </style>
 <div class = "blue">
 

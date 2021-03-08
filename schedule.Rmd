@@ -1,5 +1,5 @@
 ---
-title: "<b><center>Course schedule</center></b>"
+title: "Course reading and assignment schedule"
 output: 
   html_document: 
     toc: yes

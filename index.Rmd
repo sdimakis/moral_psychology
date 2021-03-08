@@ -8,7 +8,7 @@ div.blue {background-color:#eee5ff; border-radius: 10px;   border: 1px solid bla
 <div class = "blue">
 
 
-Welcome to the course website for PSYXXX Moral Psychology, a course taught in the Department of Psychology at the University of Oregon. In this course, you will learn about import theories and research findings in moral science. The course is interdisciplinary by nature, drawing from  work in psychology but also from philosophy, behavioral economics,  neuroscience, biology, and other social sciences. In this course, we will explore questions like:
+Welcome to the course website for **PSYXXX Moral Psychology**, a course taught in the Department of Psychology at the University of Oregon. In this course, you will learn about import theories and research findings in moral science. The course is interdisciplinary by nature, drawing from  work in psychology but also from philosophy, behavioral economics,  neuroscience, biology, and other social sciences. In this course, we will explore questions like:
 
 - How do we come to the conclusion that a behavior is wrong?
 - How do we judge if someone else is a good or bad person?

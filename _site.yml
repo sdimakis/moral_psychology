@@ -1,7 +1,6 @@
 name: "Course website"
 output_dir: "."
 navbar:
-  title: ""
   type: custom
   left:
     - icon: fa-home

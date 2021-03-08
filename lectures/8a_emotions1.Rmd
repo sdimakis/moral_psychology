@@ -12,51 +12,400 @@ This week, we will be discussing moral emotions
 
 .highlight-gray[In week 8:]
 
-- What makes an emotion moral? 
+- **What makes an emotion moral?**
+
+- **What are the elictors and action tendencies of moral emotions?**
 
 ---
-
-# Moral emotions
-
+# Dog abandoned by Tesla owner
+<br>
 <center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jk2xDpcuxOY?start=38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcpxW8DGagE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=Jk2xDpcuxOY
 
-https://www.youtube.com/watch?v=AcpxW8DGagE
+???
+
+This video was shot in Vancouver in August 2020
+How does this action make you feel? 
+What are you motivated to do?
+
+---
+# Dog abandoned by Tesla owner
+
+
+.pull-left[![](images/abandoned_dog.JPG)]
+
+.pull-right[![](images/dog_abandoned2.JPG)]
 
 ---
 
+# Social intuitionist model
+.footnote[Haidt (2001)]
+
+![](images/social_intuitionist_model.JPG)
+
+
+---
 # Moral emotions
 
-Moral emotions
-• Moral emotions: social emotions that affect moral behavior
-• They are responses to moral violations: “this is wrong with no exception”
-• Or they can motivate moral behavior: to “do the right thing”
+.footnote[Haidt (2003)]
+
+**Moral emotions** are emotions felt in response to a moral event
+
+  - Feeling angry at injustice
+  - Feeling guilty for hurting your friend
+  - Feeling grateful for an act of kindness 
+
+The most prototypical moral emotions have two prominent features: **disinterested elicitors** and **pro-social action tendencies**
 
 ---
 
-• Self-conscious emotions – felt when we violate a moral/ social norm
-• embarrassment – felt when one violates a social convention, motivates to hide
-• shame – felt after violating a moral norm, “I am a bad person,” motivates to hide (darker)
-• guilt – when one feels they caused harm, loss, distress to another, motivates apology/
-confession
+# Disinterested elicitors
+
+.footnote[Haidt (2003)]
+
+.pull-left[
+####Emotions
+Typically, an emotion is elicited in a situation when something good or bad happens to the self
+
+  - I am **happy** that I did well on the test
+  
+  - I am **afraid** that I will fall and hurt myself]
+
+.pull-right[
+####Moral emotions
+Moral emotions are often triggered by events that are not happening to the self
+
+  - I am **angry** that the Tesla driving woman left her dog
+  
+  - I am feeling **guilty** for hurting my friend]
+---
+
+# Pro-social action tendencies
+
+.footnote[Haidt (2003)]
+
+
+.pull-left[####Emotions
+Emotions motivate us to act 
+
+  - E.g., I am **afraid**, so I am going to run away
+  
+  - E.g., I am **disgusted**, so I am going to throw the moldy food away]
+  
+.pull-right[####Moral emotions
+Moral emotions motivate us to act *pro-socially*
+
+  - I am feeling **compassion**, so I will donate
+  
+  - I am feeling **guilty**, so I will apologize for my actions]
 
 ---
 
-Other-condemning emotions – felt when others violate a moral/social norm
-• anger – response to unjustified insult and injustice, motivates to attack/ get revenge
-• disgust – feeling that something is revolting, motivates to avoid then purify self
-• contempt – looking down on someone, feeling morally superior, motivates distance
+
+# Families of moral emotions
+.footnote[Haidt (2003)]
+.smaller-picture[![](images/moral_emotions3.png)]
+
 
 ---
 
-Other-praising – felt when others do something moral/ positive
-• gratitude – feeling of being grateful for the good deed of another, motivates prosocial
-behavior
-• awe – amazement or sometimes fright to something unexpected, motivates admiration
-• elevation – warmth and expansive feeling from seeing a good deed, motivates bettering
-oneself
+# Other-condemning family
+.footnote[Haidt (2003)]
+Other-condemning emotions are felt when others violate a moral or social norm. Other-condemning emotions motivate people to punish those who break moral rules
+
+- Anger
+
+- Contempt
+
+- Disgust 
 
 ---
-• Other-suffering – felt when someone else is suffering
-• compassion - being moved by another’s suffering, motivates help, comfort, to alleviate pain
+
+# Other-condemning family: anger
+.footnote[Haidt (2003)]
+.pull-left[
+####Elicitors
+
+- Anger is triggered when one is betrayed, insulted, or otherwise treated unfairly
+
+- It is also triggered for third party acts (e.g., racism, oppression, exploitation)
+]
+
+--
+
+.pull-right[
+####Action tendencies
+
+- Anger motivates one to attack the person or group that is responsible
+
+- It can motivate one to seek *revenge*, to *punish* 
+
+]
+
+---
+
+# Other-condemning family: disgust
+.footnote[Haidt (2003)]
+.pull-left[
+####Elicitors
+- Disgust is triggered by both physical objects (e.g., a moldy piece of bread) and by social/moral violations
+
+- Disgust is particularly triggered when someone violates rules about what you can and cannot do to/with a human body (e.g., cannibalism, incest, necrophilia)
+]
+
+--
+
+.pull-right[
+####Action tendencies
+- Disgust motivates one to avoid the transgression and to break off contact with the transgressor 
+
+- It can also motivate one to physically or mentally cleanse themself  
+
+]
+
+???
+
+E.g., hitler's sweater
+---
+
+# Other-condemning family: contempt
+.footnote[Haidt (2003)]
+.pull-left[
+####Elicitors
+- Contempt is elicited by acts that make one feel morally superior to the actor
+
+- Some people may feel contempt for those who are lower than them in the social hierarchy; others may feel contempt for immoral/ corrupt elites 
+]
+
+--
+
+.pull-right[
+####Action tendencies
+- It motivates one to treat the person they have contempt for with little respect and warmth 
+
+- It weakens the ability to feel other moral emotions, such as compassion, for the person
+
+]
+
+
+
+---
+
+# Other-condemning family: CAD
+
+.footnote[Rozin et al. (1999)]
+####The CAD-triad hypothesis
+
+.right-column-med[![](images/cad hypothesis faces.JPG)]
+
+
+---
+
+
+# Other-condemning family: CAD
+
+.footnote[Rozin et al. (1999)]
+####The CAD-triad hypothesis
+
+.right-column-med[![](images/cad hypothesis.JPG)]
+
+---
+
+# Self-conscious family
+.footnote[Haidt (2003)]
+Self-conscious emotions are felt when we ourselves violate a moral or social norm. Self-conscious emotions allow us to to cooperate in groups without triggering the anger, disgust, and contempt of others
+
+- Shame
+
+- Embarrassment
+
+- Guilt 
+
+???
+
+Shame and embarrassment are not seen as different emotions in some cultures (e.g., cultures with interdependent construal of the self)
+
+---
+
+# Self-conscious family: shame
+.footnote[Haidt (2003)]
+.pull-left[
+####Elicitors
+
+- In western cultures, shame is most often triggered when one violates a norm and at least one person knows about the violation
+
+- When someone feels shame, they appraise that their action(s) reveal that they have a flawed and defective *self*
+]
+--
+
+.pull-right[
+####Action tendencies
+- Shame motivates people to hide and withdraw from society 
+
+- The urge to withdraw is dark and painful 
+]
+
+
+???
+
+- In a cultures with strong social hierarchies, one can feel shame just by being in the presence of people who are ranked higher
+
+The opposite of shame is pride
+
+---
+
+# Self-conscious family: embarrassment
+.footnote[Haidt (2003)]
+.pull-left[
+####Elicitors
+- In western cultures, embarrassment is also most often triggered when someone violates a norm 
+
+- However, when someone feels embarrassed rather than ashamed, they appraise that their action(s) reveal something negative about their person in this particular situation
+ 
+]
+
+--
+
+.pull-right[
+####Action tendencies
+
+- Embarrassment also motivates one to hide, but the urge to withdraw is less dark and painful
+
+- One might want to cover their face or leave the interaction, but not to withdraw completely from society 
+]
+
+???
+
+Question: Which emotion would be more common in internalizing mental health disorders, like depression?
+
+---
+
+# Self-conscious family: guilt
+.footnote[Haidt (2003)]
+.pull-left[
+####Elicitors
+- Guilt is elicited in situations where one believes  they have harmed a relationship partner or otherwise caused them distress
+
+- It is most intensely triggered when the harm was so severe that it has threatened the relationship
+]
+
+--
+
+.pull-right[
+####Action tendencies
+- Guilt motivates one to help the victim, apologize, confess, or to do something that will make up for the action 
+]
+
+???
+Guilt can be triggered by strangers but is most commonly triggered by those we are close to 
+
+One is appraising their actions as bad (not their self, like with shame)
+
+---
+
+# Other-suffering family
+.footnote[Haidt (2003)]
+Other-suffering emotions are felt when we witness the suffering of others. Other-suffering emotions motivate us to help those who are suffering
+
+- Compassion
+
+
+---
+
+# Other-suffering family: compassion
+.footnote[Haidt (2003)]
+.pull-left[
+####Elicitors
+- Compassion is elicited when one believes that another is suffering 
+]
+
+--
+
+.pull-right[
+####Action tendencies
+- Compassion motives one to alleviate the suffering of the person in distress, usually through helping or comforting 
+]
+
+
+---
+# Other-praising family
+.footnote[Haidt (2003)]
+Other-praising emotions are felt when we observe someone doing a good deed. Other-praising emotions motivate us to act more moral ourselves
+
+- Gratitude
+
+- Elevation 
+
+---
+
+# Other-praising family
+
+####Broaden-and-build hypothesis
+
+
+Fredrickson (1998)
+
+---
+
+# Other-praising family: gratitude
+.footnote[Haidt (2003)]
+.pull-left[
+####Elicitors
+- Gratitude is elicited when someone believes that another person has intentionally and voluntarily done a good deed for them 
+]
+
+--
+
+.pull-right[
+####Action tendencies
+- Gratitude motivates one to thank the other person and to try to return the favor to them
+]
+
+---
+
+# Other-praising family: elevation
+.footnote[Haidt (2003)]
+.pull-left[
+####Elicitors
+- Elevation is elicited when someone sees or hears a story about a tremendous act of kindness
+
+- It feels warm and expansive, similar to the experience of "awe"
+]
+
+--
+
+.pull-right[
+####Action tendencies
+
+- Elevation motivates one act more pro-socially, and not just toward the person who does the act; it causes one to want to *be a better person* in all situations 
+
+]
+
+---
+
+# Other moral emotions?
+
+#### Could these be considered moral emotions?
+
+- Fear
+
+- Schadenfreude
+
+- Empathy 
+
+- Warm glow
+
+???
+
+Fear may cause more law-abiding behavior in certain situations but it is a self interested emotion 
+
+Schadenfreude (joy at another's misfortune) does not appear to motivate pro-social action
+
+Empathy is not considered an emotion - broadly, it's to feel what another person is feeling  
+
+Warm glow is the feeling of joy when you help others
+--- 
+
+

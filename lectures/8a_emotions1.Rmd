@@ -1,5 +1,5 @@
 ---
-title: "Moral emotions pt 1"
+title: "Condemning and praising emotions"
 subtitle: "Week 8 - Moral Psychology"
 output:
   xaringan::moon_reader:
@@ -8,14 +8,15 @@ output:
 
 # Week 8
 
-This week, we will be discussing moral emotions 
+This week, we will be discussing four families of moral emotions: condemning-other, praising-other, suffering-other, and self-conscious emotions.
 
 .highlight-gray[In week 8:]
 
 - **What makes an emotion moral?**
 
-- **What are the elictors and action tendencies of moral emotions?**
+- **What emotions are characteristic of witnessing a moral violation? A heroic moral action?**
 
+- What emotions are characteristic of witnessing suffering? Of committing a moral violation?
 ---
 # Dog abandoned by Tesla owner
 <br>
@@ -34,16 +35,21 @@ What are you motivated to do?
 # Dog abandoned by Tesla owner
 
 
-.pull-left[![](images/abandoned_dog.JPG)]
+.smaller-picture[![](images/abandoned_dog.JPG)]
 
-.pull-right[![](images/dog_abandoned2.JPG)]
+
+---
+# Dog abandoned by Tesla owner
+<br>
+
+.smaller-picture[![](images/dog_abandoned2.JPG)]
 
 ---
 
 # Social intuitionist model
 .footnote[Haidt (2001)]
-
-![](images/social_intuitionist_model.JPG)
+<br>
+.smaller-picture[![](images/social_intuitionist_model.JPG)]
 
 
 ---
@@ -51,13 +57,13 @@ What are you motivated to do?
 
 .footnote[Haidt (2003)]
 
-**Moral emotions** are emotions felt in response to a moral event
+**Moral emotions** are emotions that are commonly elicited when a person witnesses a moral act or a moral violation
 
   - Feeling angry at injustice
   - Feeling guilty for hurting your friend
   - Feeling grateful for an act of kindness 
 
-The most prototypical moral emotions have two prominent features: **disinterested elicitors** and **pro-social action tendencies**
+Generally, emotions can be categorized by **the situations that typically elicit them** and **the actions that they inspire**. The most prototypical moral emotions have two prominent features: **disinterested elicitors** and **pro-social action tendencies**
 
 ---
 
@@ -66,12 +72,14 @@ The most prototypical moral emotions have two prominent features: **disintereste
 .footnote[Haidt (2003)]
 
 .pull-left[
-####Emotions
+####General emotions
 Typically, an emotion is elicited in a situation when something good or bad happens to the self
 
   - I am **happy** that I did well on the test
   
   - I am **afraid** that I will fall and hurt myself]
+
+--
 
 .pull-right[
 ####Moral emotions
@@ -87,12 +95,14 @@ Moral emotions are often triggered by events that are not happening to the self
 .footnote[Haidt (2003)]
 
 
-.pull-left[####Emotions
+.pull-left[#### General emotions
 Emotions motivate us to act 
 
   - E.g., I am **afraid**, so I am going to run away
   
   - E.g., I am **disgusted**, so I am going to throw the moldy food away]
+  
+--
   
 .pull-right[####Moral emotions
 Moral emotions motivate us to act *pro-socially*
@@ -144,6 +154,9 @@ Other-condemning emotions are felt when others violate a moral or social norm. O
 
 ]
 
+???
+
+Anger is an interesting emotion because often it causes to act exactly the opposite of pro-socially. Can you think of an example of when it would be considered a moral emotion and an example of when it wouldn't be considered a moral emotion?
 ---
 
 # Other-condemning family: disgust
@@ -183,153 +196,194 @@ E.g., hitler's sweater
 
 .pull-right[
 ####Action tendencies
-- It motivates one to treat the person they have contempt for with little respect and warmth 
+- Contempt motivates one to treat the person they have contempt for with little respect and warmth 
 
-- It weakens the ability to feel other moral emotions, such as compassion, for the person
+- Contempt weakens the ability to feel positive moral emotions, such as compassion, for the person
+
+]
+
+---
+
+# Other-condemning family
+
+.footnote[Schweder et al. (1997)]
+#### The "big three" of morality 
+
+The anthropologist Richard Schweder and his colleagues (1997) proposed a way to classify moral beliefs within a given culture. They proposed that every culture has three types of moral ethics (although these ethics can express themselves differently from culture to culture)
+
+> **1. The ethics of autonomy**: some actions are wrong because they infringe upon the rights of others
+
+???
+
+Drew these principles from his cross cultural work in India 
+
+Ask class for examples 
+
+
+---
+
+# Other-condemning family
+
+.footnote[Schweder et al. (1997)]
+#### The "big three" of morality 
+
+The anthropologist Richard Schweder and his colleagues (1997) proposed a way to classify moral beliefs within a given culture. They proposed that every culture has three types of moral ethics (although these ethics can express themselves differently from culture to culture)
+
+> **2. The ethics of community**: some actions are wrong because they infringe upon ones duties to their community  
+
+---
+
+# Other-condemning family
+
+.footnote[Schweder et al. (1997)]
+#### The "big three" of morality 
+
+The anthropologist Richard Schweder and his colleagues (1997) proposed a way to classify moral beliefs within a given culture. They proposed that every culture has three types of moral ethics (although these ethics can express themselves differently from culture to culture)
+
+> **3. The ethics of divinity**: some actions are wrong because they disrespect God, or otherwise degrade the body/soul 
+
+---
+# Other-condemning family
+
+#### Schweder's ethics and MFT
+
+.smaller-picture[![](images/mft_three_ethics.png)]
+
+---
+
+
+# Other-condemning family
+.footnote[Rozin et al. (1999)]
+
+####Activity 
+
+> Carefully read each situation and decide what FACE is most likely to be shown by the PERSON in the situation. If you feel that one of these faces clearly applies to the situation, enter its letter next to the situation. If you feel that none of these faces is at all appropriate, place an N next to the situation. If you feel that more than one of these faces is appropriate, list all of the appropriate faces, placing FIRST, the face that you consider most appropriate (e.g., Dl ,D5 or S2,S3). 
+
+---
+
+
+# Other-condemning family
+.footnote[Rozin et al. (1999)]
+
+.right-column-med[
+![](images/cad hypothesis faces.JPG)]
+
+.left-column-med[
+Autonomy
+> A PERSON is hearing about a man who comes home drunk
+and beats his wife.
+
+Community
+> A PERSON is hearing about someone who doesn't go to 
+his/her own mother's funeral.
+
+Divinity
+>  A PERSON is hearing about a 70-year-old male who has
+sex with a 17-year-old female.
 
 ]
 
 
 
----
+???
 
-# Other-condemning family: CAD
-
-.footnote[Rozin et al. (1999)]
-####The CAD-triad hypothesis
-
-.right-column-med[![](images/cad hypothesis faces.JPG)]
+Choose which face the person who hears about the moral violation would make.
 
 
 ---
 
-
-# Other-condemning family: CAD
-
+# Other-condemning family
 .footnote[Rozin et al. (1999)]
-####The CAD-triad hypothesis
+
+#### The CAD-triad hypothesis
+
 
 .right-column-med[![](images/cad hypothesis.JPG)]
 
+- People were most likely to pick an angry face when the act violated the ethic of autonomy, contempt when the act violated the ethic of community, and disgust when the act violated the ethic of divinity
+
+- They were also able to identity the correct emotion explicitly
+
 ---
 
-# Self-conscious family
-.footnote[Haidt (2003)]
-Self-conscious emotions are felt when we ourselves violate a moral or social norm. Self-conscious emotions allow us to to cooperate in groups without triggering the anger, disgust, and contempt of others
+# Other-condemning family
 
-- Shame
+.footnote[Rozin et al. (1999)]
+####The CAD-triad hypothesis
 
-- Embarrassment
+- **Anger** is linked to observing violations of the **autonomy ethic**, or the *harm* and *fairness* moral foundations
 
-- Guilt 
+- **Contempt** is linked to observing violations of the **community ethic**, or violations of *loyalty* and *authority* moral foundations
+
+- **Disgust** is linked to observing violations of the **divinity ethic**, or the *purity moral foundation*
 
 ???
 
-Shame and embarrassment are not seen as different emotions in some cultures (e.g., cultures with interdependent construal of the self)
-
+Within a culture, actions that a culture considers violates the autonomy ethics will elicit anger, actions that a culture considers violates the community ethic elicits contempt, and actions that a culture considers violates the divinity ethic elicits disgust  
 ---
 
-# Self-conscious family: shame
-.footnote[Haidt (2003)]
-.pull-left[
-####Elicitors
 
-- In western cultures, shame is most often triggered when one violates a norm and at least one person knows about the violation
+#Other-condemning family
+.footnote[Chapman (2018)]
+####The CPM (component process model) of moral judgment and emotion
 
-- When someone feels shame, they appraise that their action(s) reveal that they have a flawed and defective *self*
-]
---
+- Unlike the CAD hypothesis, the CPM theorizes that disgust does not arise only from acts that violate purity/ the ethic of divinity 
+- Instead, the CPM predicts that we are disgusted by acts that provide information about one's *moral character*
 
-.pull-right[
-####Action tendencies
-- Shame motivates people to hide and withdraw from society 
-
-- The urge to withdraw is dark and painful 
-]
-
-
-???
-
-- In a cultures with strong social hierarchies, one can feel shame just by being in the presence of people who are ranked higher
-
-The opposite of shame is pride
-
----
-
-# Self-conscious family: embarrassment
-.footnote[Haidt (2003)]
-.pull-left[
-####Elicitors
-- In western cultures, embarrassment is also most often triggered when someone violates a norm 
-
-- However, when someone feels embarrassed rather than ashamed, they appraise that their action(s) reveal something negative about their person in this particular situation
- 
-]
-
---
-
-.pull-right[
-####Action tendencies
-
-- Embarrassment also motivates one to hide, but the urge to withdraw is less dark and painful
-
-- One might want to cover their face or leave the interaction, but not to withdraw completely from society 
-]
-
-???
-
-Question: Which emotion would be more common in internalizing mental health disorders, like depression?
-
----
-
-# Self-conscious family: guilt
-.footnote[Haidt (2003)]
-.pull-left[
-####Elicitors
-- Guilt is elicited in situations where one believes  they have harmed a relationship partner or otherwise caused them distress
-
-- It is most intensely triggered when the harm was so severe that it has threatened the relationship
-]
-
---
-
-.pull-right[
-####Action tendencies
-- Guilt motivates one to help the victim, apologize, confess, or to do something that will make up for the action 
-]
-
-???
-Guilt can be triggered by strangers but is most commonly triggered by those we are close to 
-
-One is appraising their actions as bad (not their self, like with shame)
-
----
-
-# Other-suffering family
-.footnote[Haidt (2003)]
-Other-suffering emotions are felt when we witness the suffering of others. Other-suffering emotions motivate us to help those who are suffering
-
-- Compassion
+- Thus, an act that does *not* violate a divinity/ purity ethic *can* elicit disgust when it is informative of the individual's bad moral character
 
 
 ---
+#Other-condemning family
+.footnote[Chapman (2018)]
 
-# Other-suffering family: compassion
-.footnote[Haidt (2003)]
-.pull-left[
-####Elicitors
-- Compassion is elicited when one believes that another is suffering 
-]
+####The CPM (component process model) of moral judgment and emotion
 
---
-
-.pull-right[
-####Action tendencies
-- Compassion motives one to alleviate the suffering of the person in distress, usually through helping or comforting 
-]
-
+.smaller-picture[![](images/cpm of moral judgment and emotion.JPG)]
 
 ---
+#Other-condemning family
+.footnote[Tannenbaum et al. (2011)]
+
+#### Act-person dissociation
+
+Giving participants two variations of the following scenario reveals an **act-person dissociation**, such that people think that beating up one's girlfriend is a worse moral transgression, but beating up one's girlfriend's cat is a stronger indicator of *poor moral character*
+
+> John learns that his girlfriend of 8 years has been sleeping around
+with another man. Upon hearing this, John becomes overwhelmed
+with rage and beats up his girlfriend/ his girlfriend's cat.
+
+---
+
+#Other-condemning family
+
+.footnote[Giner-Sorolla & Chapman (2017)]
+#### Evidence for the CPM (component process model) of moral judgment and emotion
+
+Method
+
+Participants read each scenario and were asked to:
+
+- Rate the character of the man in each scenario
+- Rate the right/wrongness of the action in each scenario
+- Look at facial expressions of anger and disgust and choose which emotion they were feeling witnessing the act 
+
+---
+
+
+#Other-condemning family
+.footnote[Giner-Sorolla & Chapman (2017)]
+#### Evidence for the CPM (component process model) of moral judgment and emotion
+
+Results
+
+.pull-right[![](images/disgust cpm.JPG)]
+
+- The cat-beater scenario more commonly elicited disgust and the girlfriend-beater scenario more commonly elicited anger 
+
+- Higher disgust (but not anger) was associated with low character ratings
+---
+
 # Other-praising family
 .footnote[Haidt (2003)]
 Other-praising emotions are felt when we observe someone doing a good deed. Other-praising emotions motivate us to act more moral ourselves
@@ -337,15 +391,6 @@ Other-praising emotions are felt when we observe someone doing a good deed. Othe
 - Gratitude
 
 - Elevation 
-
----
-
-# Other-praising family
-
-####Broaden-and-build hypothesis
-
-
-Fredrickson (1998)
 
 ---
 
@@ -383,29 +428,115 @@ Fredrickson (1998)
 
 ]
 
+
 ---
 
-# Other moral emotions?
+#  Other-praising family: elevation
 
-#### Could these be considered moral emotions?
+#### Homosexuality 
+.footnote[Lai, Haidt, & Nosek (2014)]
+- Some oppose homosexuality on the basis that it a violation of the divinity ethnic, or the purity moral foundation
+  - I.e., it's wrong because they personally believe it violates rules about what a man should do with their body/ they find gay sex disgusting 
 
-- Fear
+- Since elevation is the theoretical opposite of disgust, researchers wanted to see if experiencing elevation would reduce prejudice against gay men 
 
-- Schadenfreude
+---
+#  Other-praising family: elevation
+.footnote[Lai, Haidt, & Nosek (2014)]
 
-- Empathy 
+Method
 
-- Warm glow
+- Participants watched a video meant to elicit either elevation, amusement, or neutral affect (control condition)
+
+- Then, participants reported explicit and implicit (through the IAT) racial and sexuality attitudes 
+
+---
+
+#  Other-praising family: elevation
+.footnote[Lai, Haidt, & Nosek (2014)]
+
+<br>
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j7O9DlCgIPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=j7O9DlCgIPA
+
+---
+#  Other-praising family: elevation
+.footnote[Lai, Haidt, & Nosek (2014)]
+
+.pull-left[
+Results
+- The researchers found a small effect of the elevation videos on reducing prejudice, but only for sexuality (not racial attitudes)
+
+]
+
+.pull-right[Explicit prejudice
+![](images/elevation explicit.JPG)
+<br><br>
+Implicit prejudice
+![](images/elevation implicit.JPG)
+]
+
 
 ???
 
-Fear may cause more law-abiding behavior in certain situations but it is a self interested emotion 
+Cohen's d is from t-test between control condition and elevation condition 
+---
 
-Schadenfreude (joy at another's misfortune) does not appear to motivate pro-social action
+#  Other-praising family: elevation
+.footnote[Lai, Haidt, & Nosek (2014)]
 
-Empathy is not considered an emotion - broadly, it's to feel what another person is feeling  
+.pull-left[
+Results
+- The researchers found a small effect of the elevation videos on reducing prejudice, but only for sexuality (not racial attitudes)
 
-Warm glow is the feeling of joy when you help others
---- 
+Discussion questions
+
+- Would an integral affect induction produce stronger effects (as opposed to incidental affect)? 
+
+- Why might elevation reduce sexuality prejudice but not racial prejudice? 
+]
+
+.pull-right[Explicit prejudice
+![](images/elevation explicit.JPG)
+<br><br>
+Implicit prejudice
+![](images/elevation implicit.JPG)
+]
 
 
+---
+
+# Other-praising family
+
+####Broaden-and-build hypothesis
+.footnote[Fredrickson (1998); Fredrickson (2013)]
+
+- Negative emotions, like fear, have a narrowing effect, narrowing one's attention to the eliciting situation and limiting possibilities  
+
+- In contrast, positive emotions, like gratitude or elevation, broaden thoughts and allow one to continue to build resources (such as new friends or new skills)
+
+
+
+---
+
+# Other-praising family
+
+####Broaden-and-build hypothesis
+
+.footnote[Fredrickson (2013)]
+.smallest-picture[![](images/broaden and build.JPG)]
+
+
+---
+# Summary
+
+- When people witness a moral violation, they tend to feel anger, contempt, and/or disgust
+
+  - The CAD-triad hypothesis states that we feel contempt in response to community ethic violations, anger in response to autonomy ethic violations, and disgust in response to divinity ethic violations
+  
+  - Alternatively, the CPM model proposes that disgust arises whenever there is a judgment of moral character
+
+- Whereas moral emotions in the condemning-other family lead us to avoid and condemn others and their actions, emotions in the praising-other family lead us directly towards cooperation and pro-social actions

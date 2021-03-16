@@ -1,5 +1,5 @@
 ---
-title: "Moral emotions pt 2"
+title: "Suffering and self-conscious emotions"
 subtitle: "Week 8 - Moral Psychology"
 output:
   xaringan::moon_reader:
@@ -8,11 +8,158 @@ output:
 
 # Week 8
 
-This week, we will be discussing moral emotions 
+This week, we will be discussing four families of moral emotions: condemning-other, praising-other, suffering-other, and self-conscious emotions.
 
 .highlight-gray[In week 8:]
 
-- 
+- What makes an emotion moral?
+
+- What emotions are characteristic of witnessing a moral violation? A heroic moral action?
+
+- **What emotions are characteristic of witnessing suffering? Of committing a moral violation?**
+---
+
+# Self-conscious family
+.footnote[Haidt (2003)]
+Self-conscious emotions are felt when we ourselves violate a moral or social norm. Self-conscious emotions allow us to to cooperate in groups without triggering the anger, disgust, and contempt of others
+
+- Shame
+
+- Embarrassment
+
+- Guilt 
+
+???
+
+Shame and embarrassment are not seen as different emotions in some cultures (e.g., cultures with interdependent construal of the self)
 
 ---
+
+# Self-conscious family: shame
+.footnote[Haidt (2003)]
+.pull-left[
+####Elicitors
+
+- In western cultures, shame is most often triggered when one violates a norm and at least one person knows about the violation
+
+- When someone feels shame, they appraise that their action(s) reveal that they have a flawed and defective *self*
+]
+--
+
+.pull-right[
+####Action tendencies
+- Shame motivates people to hide and withdraw from society 
+
+- The urge to withdraw is dark and painful 
+]
+
+
+???
+
+- In a cultures with strong social hierarchies, one can feel shame just by being in the presence of people who are ranked higher
+
+The opposite of shame is pride
+
+---
+
+# Self-conscious family: embarrassment
+.footnote[Haidt (2003)]
+.pull-left[
+####Elicitors
+- In western cultures, embarrassment is also most often triggered when someone violates a norm 
+
+- However, when someone feels embarrassed rather than ashamed, they appraise that their action(s) reveal something negative about their person in this particular situation
+ 
+]
+
+--
+
+.pull-right[
+####Action tendencies
+
+- Embarrassment also motivates one to hide, but the urge to withdraw is less dark and painful
+
+- One might want to cover their face or leave the interaction, but not to withdraw completely from society 
+]
+
+???
+
+Question: Which emotion would be more common in internalizing mental health disorders, like depression?
+
+---
+
+# Self-conscious family: guilt
+.footnote[Haidt (2003)]
+.pull-left[
+####Elicitors
+- Guilt is elicited in situations where one believes  they have harmed a relationship partner or otherwise caused them distress
+
+- It is most intensely triggered when the harm was so severe that it has threatened the relationship
+]
+
+--
+
+.pull-right[
+####Action tendencies
+- Guilt motivates one to help the victim, apologize, confess, or to do something that will make up for the action 
+]
+
+???
+Guilt can be triggered by strangers but is most commonly triggered by those we are close to 
+
+One is appraising their actions as bad (not their self, like with shame)
+
+---
+
+
+
+# Other-suffering family
+.footnote[Haidt (2003)]
+Other-suffering emotions are felt when we witness the suffering of others. Other-suffering emotions motivate us to help those who are suffering
+
+- Compassion
+
+
+---
+
+# Other-suffering family: compassion
+.footnote[Haidt (2003)]
+.pull-left[
+####Elicitors
+- Compassion is elicited when one believes that another is suffering 
+]
+
+--
+
+.pull-right[
+####Action tendencies
+- Compassion motives one to alleviate the suffering of the person in distress, usually through helping or comforting 
+]
+
+
+---
+
+
+# Other moral emotions?
+
+#### Could these be considered moral emotions?
+
+- Fear
+
+- Schadenfreude
+
+- Empathy 
+
+- Warm glow
+
+???
+
+Fear may cause more law-abiding behavior in certain situations but it is a self interested emotion 
+
+Schadenfreude (joy at another's misfortune) does not appear to motivate pro-social action
+
+Empathy is not considered an emotion - broadly, it's to feel what another person is feeling  
+
+Warm glow is the feeling of joy when you help others
+--- 
 

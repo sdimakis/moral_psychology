@@ -329,24 +329,23 @@ Insert description here.
 
 ## Day 1
 
-<div class = highlight-gray>**Topic:** Moral emotions pt. 1 <br>
+<div class = highlight-gray>**Topic:** Condemning and praising emotions <br>
 **Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
+<p>- Haidt (2003). *The Moral Emotions.* **[[Print copy](readings/week_8/Haidt_2003.pdf)]** <br>
+- Lai, Haidt, & Nosek (2014). *Moral elevation reduces prejudice against gay men.* **[[Print copy](readings/week_8/Lai_2014.pdf)]** <br></p>
 
 **Optional**: <br>
-<p>-  Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
+<p>-  Shweder, Much, Mahapatra, & Park (1997). *The "Big Three" of Morality (Autonomy, Community, Divinity) and the "Big Three" Explanations of Suffering.* **[[Print copy](readings/week_8/optional/Schweder_1997.pdf)]** 
+- Giner-Sorolla & Chapman (2017). *Beyond Purity: Moral Disgust Toward Bad Character.* **[[Print copy](readings/week_8/optional/Giner-Sorolla_2017.pdf)]**
+- Rozin, Lowery, Imada, & Haidt (1999). *The CAD Triad Hypothesis: A Mapping Between Three Moral Emotions (Contempt, Anger, Disgust) and Three Moral Codes (Community, Autonomy, Divinity).* **[[Print copy](readings/week_8/optional/Rozin_1999.pdf)]**
+- Chapman (2018). *A Component Process Model of Disgust, Anger, and Moral Judgment.* **[[Print copy](readings/week_8/optional/Chapman_2018.pdf)]**
 <br>
 </div>
 <br>
 
 ## Day 2
 
-<div class = highlight-gray>**Topic:** Moral emotions pt. 2 <br>
+<div class = highlight-gray>**Topic:** Suffering and self-conscious emotions <br>
 **Required readings**:<br>
 <p>- Reading 1 <br>
 - Reading 2 <br></p>

@@ -224,8 +224,8 @@ Insert description here.
 - Batson & Shaw (1991). *Evidence for Altruism: Toward a Pluralism of Prosocial Motives.* **[[Print copy](readings/week_5/Optional/Batson_1991.pdf)]**
 - Cheng et al. (2010). *Love hurts: An fMRI study.* **[[Print copy](readings/week_5/Optional/Cheng_2010.pdf)]**
 - Monin & Miller (2001). *Moral Credentials and the Expression of Prejudice.* **[[Print copy](readings/week_5/Optional/Monin_2001.pdf)]**
-- Small, Loewenstein, & Slovic (2007). *Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims.* **[[Print copy](readings/week_5/Optional/Small_2007.pdf)]**
-- Bloom (2013). *The baby in the well: the case against empathy.* **[[Web](https://www.newyorker.com/magazine/2013/05/20/the-baby-in-the-well)][[Print copy](readings/week_5/Optional/Bloom_2013.pdf)]**
+
+
 <br>
 </div>
 <br>
@@ -345,17 +345,17 @@ Insert description here.
 
 ## Day 2
 
-<div class = highlight-gray>**Topic:** Suffering and self-conscious emotions <br>
+<div class = highlight-gray>**Topic:** Self-conscious and suffering emotions <br>
 **Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
+<p>- Inbar, Pizarro, Gilovich, & Ariely (2013). *Moral Masochism: On the Connection Between Guilt and Self-Punishment.* **[[Print copy](readings/week_8/Inbar_2013.pdf)]** <br>
+- Bloom (2013). *The Baby in the Well: The Case Against Empathy.* **[[Print copy](readings/week_8/Bloom_2013.pdf)]** **[[Web](https://www.newyorker.com/magazine/2013/05/20/the-baby-in-the-well)]**
+<br></p>
 
 **Optional**: <br>
-<p>-  Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
+<p>-  Tracy & Robins (2004). *Putting the Self Into Self-Conscious Emotions: A Theoretical Model.* **[[Print copy](readings/week_8/optional/Tracy_2004.pdf)]**
+- Giner-Sorolla & Espinosa (2011). *Social Cuing of Guilt by Anger and of Shame by Disgust.* **[[Print copy](readings/week_8/optional/Giner-Sorolla_2011.pdf)]**
+- Small, Loewenstein, & Slovic (2007). *Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims.* **[[Print copy](readings/week_8/Optional/Small_2007.pdf)]**
+
 <br>
 </div>
 <br>

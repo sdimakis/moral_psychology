@@ -85,7 +85,7 @@ This week, we will be discussing moral behavior, particularly suppressing self-i
 - "Dictators" give on average 20% to 30% of the money to the other person
 
 ---
-# Altrusim
+# Altruism
 
 From these studies, we have learned that people will sometimes act against their self-interest in order to help a stranger
 
@@ -94,7 +94,7 @@ From these studies, we have learned that people will sometimes act against their
 - They will share their rewards with strangers in economic games, even when there is no obvious opportunity for reciprocation 
 
 ---
-# Altrusim
+# Altruism
 
 **Altruistic** behaviors are selfless actions that benefit other(s) without regard to how it will affect oneself
 
@@ -512,62 +512,9 @@ rather than the other?
 
 ---
 
-# President Obama on empathy 
-
-<center><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Uc3Xdry4SM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-
-https://www.youtube.com/watch?v=-Uc3Xdry4SM
-
-???
-
-Until 4:12 will be good
----
-# Empathy is unreliable and flawed
-
-<center><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S1zZ_eKSAAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-
-https://www.youtube.com/watch?v=S1zZ_eKSAAI
-
----
-# Empathy is unreliable and flawed
-.footnote[Bloom (2013)]
-> "Newtown, in the wake of the Sandy Hook massacre, was inundated with so much charity that it
-became a burden. More than eight hundred volunteers were recruited to deal with the gifts that were
-sent to the city—all of which kept arriving despite earnest pleas from Newtown officials that charity be
-directed elsewhere. A vast warehouse was crammed with plush toys the townspeople had no use for; millions
-of dollars rolled in to this relatively affluent community. We felt their pain; we wanted to help. Meanwhile—
-just to begin a very long list—almost twenty million American children go to bed hungry each night, and the
-federal food-stamp program is facing budget cuts of almost twenty per cent."
-
----
-# The identifiable victim effect
-
-**The identifiable victim effect** is the tendency to be moved by the plight of a single individual than by a large number of individuals
-
-
-.smallest-picture[![](images/slovic.JPG)]
-
-- Small, Loewenstein, and Slovic (2007) gave participants $5 and then recorded how much of it they donated to the *Save the Children* organization
-
-- Half of the participants were given statistics about starvation in Africa and half of the participants saw a picture of a girl and read a description about her
-
---
-- **Conclusion:** people donated over twice as much for an identifiable victim than for statistics about the issue
-
-???
-
-The intervention condition means that they learned about the identifiable victim effect before donating
----
-
 # An "altruistic" motivation for helping
 
-Batson and Shaw (1991) argue that empathic concern is the only way to reach purely unselfish altruism, but according to Paul Bloom, empathy is often a poor compass for moral action
-
->.highlight-gray[Discussion question:] Are you convinced by Bloom's argument? Do you think the world would be more moral if people were more empathetic, or if people were more rational? 
+Batson and Shaw (1991) argue that empathic concern is the *only way* to reach purely unselfish altruism
 
 >.highlight-gray[Discussion question:] Does it matter if something is *truly* altruistic? Or is a good act still good, even when the motivations are selfish? 
 
@@ -588,4 +535,4 @@ Batson and Shaw (1991) argue that empathic concern is the only way to reach pure
   
   - Some people care so much about their moral reputation that they censor their attitudes for audiences who are unaware of their "moral credentials"
   
-- Empathy may be the key to "pure" altruism, but empathy may not always lead to moral decision making
+- Some argue that *true* altruism arises through empathy 

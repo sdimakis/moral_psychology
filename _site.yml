@@ -43,6 +43,10 @@ navbar:
         href: "lectures/8a_emotions1.html"
       - text: "8b: Self-conscious and suffering emotions"
         href: "lectures/8b_emotions2.html"
+      - text: "9a: Moral convinctions and sacred values"
+        href: "lectures/9a_convictions.html"
+      - text: "9b: Religion and morality"
+        href: "lectures/9b_religion.html"
     - text: "Homework"
       menu:
       - text: "HW1  (Week 1)"

@@ -367,7 +367,52 @@ Insert description here.
 </div>
 ###
 
-# **Week 9**: Morality and politics {.tabset .tabset-pills}
+
+# **Week 9**: Religious and otherwise moral convictions {.tabset .tabset-pills}
+
+## Day 1
+
+<div class = highlight-gray>**Topic:** Moral convictions and sacred values  <br>
+**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
+## Day 2
+
+<div class = highlight-gray>**Topic:** Morality and religion <br>
+**Required readings**:<br>
+<p>- Reading 1 <br>
+- Reading 2 <br></p>
+
+**Optional**: <br>
+<p>-  Reading 1
+- Reading 2
+- Reading 3
+- Reading 4
+- Reading 5
+<br>
+</div>
+<br>
+
+## Sunday
+<div class = highlight-gray>**Assignment:** Homework 9 <br>
+**Description**:<br>
+Insert description here.
+</div>
+
+###
+
+# **Week 10**: Morality and politics {.tabset .tabset-pills}
 
 ## Day 1
 
@@ -404,55 +449,12 @@ Insert description here.
 <br>
 
 ## Sunday
-<div class = highlight-gray>**Assignment:** Homework 9 <br>
-**Description**:<br>
-Insert description here.
-</div>
-###
-
-# **Week 10**: Morality, religion, and culture {.tabset .tabset-pills}
-
-## Day 1
-
-<div class = highlight-gray>**Topic:** Morality and religion  <br>
-**Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
-
-**Optional**: <br>
-<p>-  Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
-<br>
-</div>
-<br>
-
-## Day 2
-
-<div class = highlight-gray>**Topic:** Morality and culture <br>
-**Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
-
-**Optional**: <br>
-<p>-  Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
-<br>
-</div>
-<br>
-
-## Sunday
 <div class = highlight-gray>**Assignment:** Homework 10 <br>
 **Description**:<br>
 Insert description here.
 </div>
-
 ###
+
 
 # **Week 11**: Finals week {.tabset .tabset-pills}
 

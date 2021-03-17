@@ -1,0 +1,13 @@
+---
+title: "Religion and morality"
+subtitle: "Week 9 - Moral Psychology"
+output:
+  xaringan::moon_reader:
+    css: [default, custom_fonts.css, custom_theme.css, custom.css]
+---
+
+# Week 9
+
+This week, we will be discussing religious and otherwise moral convictions and values that are stubborn and unchanging
+
+.highlight-gray[In week 9:]

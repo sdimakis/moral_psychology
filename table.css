@@ -209,4 +209,7 @@ a:hover {
 
 }
 
+.navbar-brand {
+display: none;
+}
 

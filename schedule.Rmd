@@ -374,15 +374,16 @@ Insert description here.
 
 <div class = highlight-gray>**Topic:** Moral convictions and sacred values  <br>
 **Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
+<p>- Cazzell & Skitka (2020). *The Subborness of Convictions with Linda Skitka.* **[[Web](https://www.ambercazzell.com/post/msp-ep33-lindaskitka)][[`r fontawesome::fa("apple", fill = "red")` ](https://podcasts.apple.com/us/podcast/the-stubbornness-of-convictions-with-linda-skitka/id1468695145?i=1000472897776)][[`r fontawesome::fa("spotify", fill = "green")`](https://open.spotify.com/episode/4ZJNc9mMvIhGFD7T4aShX1)]**
+- Tetlock (2003). *Thinking the unthinkable: sacred values and taboo cognitions.* **[[Print copy](readings/week_9/Tetlok_2003.pdf)]** <br></p>
 
 **Optional**: <br>
-<p>-  Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
+<p>-  Skitka (2021). *The Psychology of Moral Conviction.* **[[Print copy](readings/week_9/Optional/Skitka_2021.pdf)]** 
+- Aramovich, Lytle, & Skitka (2012). *Opposing torture: Moral conviction and resistance to majority influence.* **[[Print copy](readings/week_9/Optional/Aramovich_2011.pdf)]**
+- Skitka & Houston (2001). *When Due Process Is of No Consequence: Moral Mandates and Presumed Defendant Guilt or Innocence.* **[[Print copy](readings/week_9/Optional/Skitka_2001.pdf)]**
+- Feinberg et al. (2019). *Understanding the Process of Moralization: How Eating Meat Becomes a Moral Issue.* **[[Print copy](readings/week_9/Optional/Feinberg_2019.pdf)]**
+- Tetlok et al. (2000). *The Psychology of the Unthinkable: Taboo Trade-Offs, Forbidden Base Rates, and Heretical Counterfactuals.* **[[Print copy](readings/week_9/Optional/Tetlok_2000.pdf)]**
+- Hanselmann & Tanner (2008). *Taboos and conflicts in decision making: Sacred values, decision difficulty, and emotions.* **[[Print copy](readings/week_9/Optional/Hanselmann_2008.pdf)]**
 <br>
 </div>
 <br>

@@ -47,6 +47,10 @@ navbar:
         href: "lectures/9a_convictions.html"
       - text: "9b: Religion and morality"
         href: "lectures/9b_religion.html"
+      - text: "10a: Morality of liberals and conservatives"
+        href: "lectures/10a_politics1.html"
+      - text: "9b: Political polarization and persuasion"
+        href: "lectures/10b_politics2.html"
     - text: "Homework"
       menu:
       - text: "HW1  (Week 1)"

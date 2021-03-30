@@ -199,4 +199,16 @@
 }
 
 
+.small-picture-two-column{
+  float: left;
+  width: 70%;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+}
 
+.small-picture{
+  float: left;
+  width: 65%;
+  padding-left: 150px;
+}

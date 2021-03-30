@@ -62,6 +62,14 @@
   float: left;
 }
 
+.right-column-black-text {
+  color: black;
+  width: 70%;
+  height: 92%;
+  float: right;
+}
+
+
 
 .smaller-picture{
   color: black;
@@ -212,3 +220,19 @@
   width: 65%;
   padding-left: 150px;
 }
+
+.small-centered-picture{
+  float: left;
+  width: 45%;
+  padding-left: 200px;
+}
+
+
+.smallish-centered-picture{
+  float: left;
+  width: 55%;
+  padding-left: 200px;
+}
+
+
+

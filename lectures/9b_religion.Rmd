@@ -12,25 +12,27 @@ This week, we will be discussing religious and otherwise moral convictions and v
 
 .highlight-gray[In week 9:]
 
-- **What qualifies as a moral conviction or a sacred value?
+- What qualifies as a moral conviction or a sacred value?
 
 - How does an attitude become a moral imperative, rather than just a convention or preference?
 
 - **Do people perceive atheists as less moral than theists?**
 
-- **Does religion make us more moral?**
+- **Does religion make us behave more morally?**
 
 
 ---
+# Religion and morality
+.footnote[Dostoevsky (1880)]
+.left-column-big[<br><br>
+> "Without God and the future life? It means everything is
+permitted now, one can do anything?"
+.right[-Dostoevsky, The *Brothers Karamazov*]
 
-Perceptions of atheists
-
-Ways to define religion
-
-Findings about religious beliefs 
-
-Findings about religions and altruism 
-
+]
+.right-column-small[
+<br>
+![](images/Dostoevsky.jpg)]
 
 ---
 # Religion and morality
@@ -50,7 +52,24 @@ Findings about religions and altruism
 
 ![](images/pres candidate religion.JPG)
 ---
+# Religion
+.footnote[Bloom (2012)]
 
+Bloom (2012) argues that there are three ways to define religion
+
+* Religious requires transcendent or mystical experience (e.g., the feeling of "awe", the experience of a religious vision)
+
+* Religion requires supernatural beliefs (e.g.,  the belief in God or angels)
+
+* Religion requires one to participate in religious social activities (e.g., going to religious service with others)
+
+???
+
+One can experience one of these without the other, e.g., being spiritual without affiliating with a specific religion, or going to services but not believing in God in the literal sense
+
+We will mostly be talking about a belief in God, and a little bit about the social aspect of religion
+
+---
 # Perceptions of atheists and theists
 .footnote[Brown-Iannuzzi, McKee, & Gervais (2018)]
 
@@ -113,8 +132,9 @@ Where do you expect to see differences in ratings of the atheist face vs. the th
 All differences are significant (95% CI not overlapping)
 
 ---
+# Perceptions of atheists and theists
 
-# The representativeness heuristic
+#### The representativeness heuristic
 .footnote[Kahneman (2011); Gervais (2014)]
 .pull-left[
 - The **representativeness heuristic** is a biased mental shortcut that occurs when one categorizes something by judging how similar 
@@ -137,7 +157,9 @@ Linda is a politically active, single, liberal woman who cares deeply about soci
 
 
 ---
-# The representativeness heuristic
+# Perceptions of atheists and theists
+
+#### The representativeness heuristic
 .footnote[Kahneman (2011); Gervais (2014)]
 
 .pull-left[
@@ -160,9 +182,9 @@ Linda is a politically active, single, liberal woman who cares deeply about soci
 
 ---
 
+# Perceptions of atheists and theists
 
-
-# The representativeness heuristic
+#### The representativeness heuristic
 .footnote[Kahneman (2011); Gervais (2014)]
 
 .pull-left[
@@ -181,8 +203,9 @@ Linda is a politically active, single, liberal woman who cares deeply about soci
 ]
 
 ---
+# Perceptions of atheists and theists
 
-# The representativeness heuristic
+#### The representativeness heuristic
 .footnote[Kahneman (2011); Gervais (2014)]
 
 .pull-left[
@@ -264,17 +287,302 @@ nice glass of Chardonnay.
 2. Do you think atheists are more likely to commit crimes than theists? Do you think that theists are more charitable than atheists? 
 
 ---
-# Perceptions of atheists and theists
 
-"If there is no God, everything is permitted." - Fyodor Dostoevsky  
+# Theism and prosociality 
+
+#### Why are theists perceived as more moral than atheists?
+
+**One possibility:** people think that theists are more moral because theists believe in a deity that is/deities that are monitoring their behavior and in some cases are threatening eternal punishment for immoral behavior
 
 
-Without God and the future life? It means everything is
-permitted now, one can do anything?
--Dostoevsky, The Brothers Karamazov
+---
+# Theism and prosociality 
+
+.footnote[Shariff & Norenzayan (2007)]
+
+**Research question:** Do people act more pro-socially when they have been reminded that God is watching them?
+
+
+--
+
+**Method**
+- Participants were randomly assigned to a condition that either primed concepts related to God or did not prime concepts related to God
+
+- Participants participated in the dictator game
+
+
+
+---
+# Theism and prosociality 
+
+.footnote[Shariff & Norenzayan (2007)]
+
+#### Priming task
+
+
+*Instructions*: Unscramble each five-word sentence by dropping an extraneous word from each to create a grammatical four word sentence.
+
+<center>
+.red[`dessert divine was fork the`]
+
+.blue[`felt she eradicate spirit the`]
+
 
 ---
 
-# 
+# Theism and prosociality 
 
-What does it mean to be a `theist`? 
+.footnote[Shariff & Norenzayan (2007)]
+
+#### Priming task
+
+
+*Instructions*: Unscramble each five-word sentence by dropping an extraneous word from each to create a grammatical four word sentence.
+
+<center>
+.red[`the dessert was devine`]
+
+.blue[`she felt the spirit`]
+
+--
+</center>
+* In the prime condition, participants unscrambled sentences containing the words *spirit, divine, God, sacred,* and *prophet*
+
+
+---
+
+# Theism and prosociality 
+
+.footnote[Shariff & Norenzayan (2007)]
+
+#### Dictator game
+
+> You have been chosen as the giver in this economic decision making task. You will find 10 one-dollar coins. Your role is to take and keep as many of these coins as you would like, knowing that however many you leave, if any, will be given to the receiver subject to keep.
+
+<center>
+![](images/dg1.png)
+
+
+
+---
+
+# Theism and prosociality 
+
+.footnote[Shariff & Norenzayan (2007)]
+
+**Results**
+
+.small-centered-picture[![](images/results god priming.png)]
+---
+# Theism and prosociality 
+
+.footnote[Mazar, Amir, & Ariely (2008)]
+
+.pull-right[![](images/matrix task.JPG)]
+
+.pull-left[
+**Method**
+- Priming task: Ten commandments or books from high school
+
+- Matrix task
+
+- Recycle or not recycle (control) 
+]
+
+---
+# Theism and prosociality 
+
+.footnote[Mazar, Amir, & Ariely (2008)]
+
+#### Results
+.smallish-centered-picture[![](images/results religious priming matrix.png)]
+
+---
+
+# Theism and prosociality 
+.footnote[Shariff & Norenzayan (2007); Mazar, Amir, & Ariely (2008)]
+
+**However... secular primes work just as well as civic ones**
+
+.pull-left[.smallish-picture[![](images/results god priming secular.png)]
+]
+
+.pull-right[![](images/secular priming dishonesty.png)
+]
+
+???
+
+Left: prime words for secular condition civic, jury, court, police, and contract
+Right: prime was to sign school honor code before matrix task  (even though the school didn't have an honor code)
+
+Additionally, work we've seen with people caring about their reputation, so they generally care what others think about their behavior (irrelevant of what God thinks)
+
+---
+
+# Theism and prosociality
+.footnote[Shariff & Norenzayan (2011)]
+
+#### Method
+
+- Participants participated in a math task for money that measured cheating behavior
+
+- Before the task, the participants read a message that said that if they didn't press the space bar when they first see the question, the answer will show up on the screen
+
+  - They were told that this is a glitch and to not take advantage of it
+  
+- The researchers measured how many times participants did not press the space bar (cheating) 
+
+---
+
+# Theism and prosociality
+.footnote[Shariff & Norenzayan (2011)]
+
+#### Method
+
+
+After the task, participants filled out a *Views of God scale*
+
+> How much does each trait apply to your conception of God or Gods? If you are non-believer, how much do you feel that each trait applies to your culture's conception of God or Gods?
+- **Positive traits**: forgiving, loving, compassionate, gentle, kind, comforting, and peaceful
+- **Negative traits**: vengeful, harsh, fearsome, angry, punishing, jealous, and terrifying
+
+???
+
+7-point Likert scale
+---
+
+# Theism and prosociality
+.footnote[Shariff & Norenzayan (2011)]
+.smallest-picture[![](images/mean god.JPG)]
+#### Results
+
+- People who think of God as *forgiving* and *loving* were more likely to cheat
+
+- People who think of God as *vengeful* and *punishing* were less likely to cheat
+---
+# Theism and prosociality
+
+#### Discussion questions
+
+1. Why do you think secular primes are just as effective as religious primes in increasing pro-social behavior? 
+
+2. If thinking of God as a forgiving and loving deity does not increase moral behavior, why have people evolved to think of God in this way?
+
+---
+# Theism and prosociality 
+
+#### Why are theists perceived as more moral than atheists?
+
+**One possibility:** people think that theists are more moral because theists believe in a deity that is/deities that are monitoring their behavior and in some cases are threatening eternal punishment for immoral behavior
+
+.highlight-gray[**An alternate explanation:** in a community where the majority attend religious services, those who do not are considered morally abnormal outcasts]
+
+
+---
+
+# Theism and prosociality
+.footnote[Graham & Haidt (2010); Bloom (2012); Putnam & Campbell (2010);  Brooks (2006)]
+
+- **Research question:** Are people who attend religious services more prosocial than those who do not?
+
+--
+
+  - Religious people give more money to charities than atheists do, even charities that are not religiously affiliated 
+
+  - However, what is associated with giving money to charities is not the strength of one's beliefs but **how often one attends religious service** 
+
+
+---
+
+# Theism and prosociality
+.footnote[Graham & Haidt (2010)]
+
+> "In fact, the statistics suggest that even an atheist
+who happened to become involved in the social life of the congregation (perhaps through
+a spouse) is much more likely to volunteer in
+a soup kitchen than the most fervent believer
+who prays alone. It is religious belongingness
+that matters for neighborliness, not religious
+believing. " 
+.right[-Putnam & Campbell (2010)]
+
+---
+
+# Theism and prosociality
+.footnote[Graham & Haidt (2010); Bloom (2012)]
+
+- Being apart of a community that values charity and selflessness increases one's own pro-social behavior (regardless of whether or not they actually hold supernatural beliefs)
+
+- People who have strong social ties with their community  want to volunteer and give to their community 
+
+???
+
+Participating in a bowling league also happened to increase charitable donations (Putnam, 2000)
+
+" To belong to
+a religion is to belong to a social group whose
+members are close to one another, who share
+rituals and meet regularly, and hence are more
+likely to be generous toward each other and
+less likely to cheat one another—and, under
+some circumstances, are more likely to be nasty
+toward others." Bloom (2012)
+
+---
+
+# Theism and prejudice
+.footnote[Graham & Haidt (2010); Bloom (2012)]
+
+.pull-left[
+- Being religious increases moral behavior towards your ingroups (e.g., other church members), but not necessarily towards outgroups (e.g., other religions, races, or LBGT+)]
+
+.pull-right[![](images/homosexuality religion.JPG)]
+
+---
+
+# Theism and prejudice
+.footnote[Ginges, Hansen, & Norenzayan (2009)]
+
+####Method
+
+- **Parochial altruism** is the act of sacrificing oneself for one's ingroup (e.g., suicide bombing)
+
+- Participants were given the following two statements to assess parochial attitudes 
+
+>1. I would be willing to die for my
+God/beliefs
+2. I blame people of other religions for much of the trouble in this world
+
+- Participants also answered whether or not they prayed frequently and whether or not they regularly attend organized religious service 
+
+???
+
+Those who replied "yes" to both of the following items were considered to have parochial attitudes 
+
+They looked at Indonesian Muslims, Mexican Catholics, British Protestants, Russian Orthodox in Russia, Israeli Jews, and Indian Hindus (these are the dominant religions in their respective countries)
+
+---
+
+# Theism and prejudice
+.footnote[Ginges, Hansen, & Norenzayan (2009)]
+
+.left-column-black-text[
+####Results
+
+- Overall, attending organized religious services predicted parochial views, but praying did not
+
+]
+.right-column-black-text[![](images/results suicide bombings.JPG)]
+
+---
+# Summary
+
+- People view atheists as worse than theists on a number of dimensions
+
+  - The prototypical theist is rated as more moral, trustworthy,  competent, warm, gentle, likable, happy, and hardworking than the prototypical atheist 
+
+- Beliefs in God can increase prosociality, especially for someone who thinks that God is vengeful and punishing
+
+- However, secular honor codes and primes about the legal system increase moral behavior just as well
+
+- Theism tends to be associated with increased prosociality only *within* one's own community 

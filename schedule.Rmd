@@ -392,15 +392,15 @@ Insert description here.
 
 <div class = highlight-gray>**Topic:** Morality and religion <br>
 **Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
+<p>- Brown-Iannuzzi, McKee, & Gervais (2018). *Atheist Horns and Religious Halos: Mental Representations of Atheists and Theists.* **[[Print copy](readings/week_9/Brown-Iannuzzi_2018.pdf)]** 
+- Shariff & Norenzayan (2007). *God Is Watching You: Priming God Concepts Increases Prosocial Behavior in an Anonymous Economic Game.* **[[Print copy](readings/week_9/Shariff_2007.pdf)]** <br></p>
 
 **Optional**: <br>
-<p>-  Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
+<p>-  Gervais (2014). *Everything Is Permitted? People Intuitively Judge Immorality as Representative of Atheists.* **[[Print copy](readings/week_9/Optional/Gervais_2014.pdf)]**
+- Shariff & Norenzayan (2011). *Mean Gods Make Good People: Different Views of God Predict Cheating Behavior.* **[[Print copy](readings/week_9/Optional/Shariff_2011.pdf)]**
+- Bloom (2012). *Religion, Morality, Evolution.* **[[Print copy](readings/week_9/Optional/Bloom_2012.pdf)]**
+- Graham & Haidt (2010). *Beyond Beliefs: Religions Bind Individuals Into Moral Communities.* **[[Print copy](readings/week_9/Optional/Graham_2010.pdf)]**
+- Ginges, Hansen, & Norenzayan (2009). *Religion and Support for Suicide Attacks.* **[[Print copy](readings/week_9/Optional/Ginges_2009.pdf)]**
 <br>
 </div>
 <br>

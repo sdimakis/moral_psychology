@@ -419,15 +419,15 @@ Insert description here.
 
 <div class = highlight-gray>**Topic:** Morality of liberals and conservatives <br>
 **Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
+<p>- Graham, Haidt, & Nosek (2009). *Liberals and Conservatives Rely on Different Sets of Moral Foundations.* **[[Print copy](readings/week_10/Graham_2009.pdf)]**
+- Waytz et al. (2019). *Ideological differences in the expanse of the moral circle.* **[[Print copy](readings/week_10/Waytz_2019.pdf)]** <br></p>
 
 **Optional**: <br>
-<p>-  Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
+<p>-  Haidt (2008). *The moral roots of liberals and conservatives.* **[[Video](https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives)]**
+- Pizarro (2012). *The strange politics of disgust.* **[[Video](https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust)]**
+- Inbar & Pizarro (2009). *Conservatives are more easily disgusted than liberals.* **[[Print copy](readings/week_10/Optional/Inbar_2009.pdf)]**
+- Janoff-Bulman (2009). *To Provide or Protect: Motivational Bases of Political Liberalism and Conservatism.* **[[Print copy](readings/week_10/Optional/Janoff-Bulman_2009.pdf)]**
+- Lakoff (1995). *Metaphor, Morality, and Politics, Or, Why Conservatives Have Left Liberals In the Dust.* **[[Print copy](readings/week_10/Optional/Lakoff_1995.pdf)]**
 <br>
 </div>
 <br>

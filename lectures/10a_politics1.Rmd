@@ -7,11 +7,16 @@ output:
 ---
 
 # Week 10
-This week, we will be discussing how understanding morality can inform politics
+This week, we will be discussing how understanding studying morality can inform political disagreement and bridge divides
 
 .highlight-gray[In week 10:]
 
-- **Why do conservatives and liberals disagree on so many moral issues? **
+- **Why do conservatives and liberals disagree on so many moral issues?**
+
+- What is similar about the moral minds of liberals and conservatives?
+
+- Is it possible to compromise on political issues?
+
 
 ---
 

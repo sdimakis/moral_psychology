@@ -436,15 +436,15 @@ Insert description here.
 
 <div class = highlight-gray>**Topic:** Political polarization and persuasion<br>
 **Required readings**:<br>
-<p>- Reading 1 <br>
-- Reading 2 <br></p>
+<p>- Feinberg &  Willer (2019). *Moral reframing: A technique for effective and persuasive communication across political divides.* **[[Print copy](readings/week_10/Feinberg_2019.pdf)]** 
+- Schein & Gray (2015). *The Unifying Moral Dyad: Liberals and Conservatives Share the Same Harm-Based Moral Template.* **[[Print copy](readings/week_10/Schein_2015.pdf)]** <br></p>
 
 **Optional**: <br>
-<p>-  Reading 1
-- Reading 2
-- Reading 3
-- Reading 4
-- Reading 5
+<p>-  Schkade, Sunstein, & Hastie (2007). *What Happened on Deliberation Day?* **[[Print copy](readings/week_10/Optional/Schkade_2007.pdf)]** 
+- Frimer, Skitka, & Motyl (2017). *Liberals and conservatives are similarly motivated to avoid exposure to one another's opinions.* **[[Print copy](readings/week_10/Optional/Frimer_2017.pdf)]**
+- Feinberg & Willer (2013). *The Moral Roots of Environmental Attitudes.* **[[Print copy](readings/week_10/Optional/Feinberg_2013.pdf)]**
+- Feinberg & Willer (2015). *From Gulf to Bridge: When Do Moral Arguments Facilitate Political Influence?* **[[Print copy](readings/week_10/Optional/Feinberg_2015.pdf)]**
+- Kubin, Puryear, Schein, & Gray (2021). *Personal experiences bridge moral and political divides better than facts.* **[[Print copy](readings/week_10/Optional/Kubin_2021.pdf)]**
 <br>
 </div>
 <br>

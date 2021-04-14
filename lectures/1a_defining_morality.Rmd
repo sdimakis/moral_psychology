@@ -32,6 +32,14 @@ Fill later with ice breaker
 - Let's navigate now to the website to go over the syllabus
 
 ---
+
+# Course website
+
+```{r echo = FALSE}
+knitr::include_url("https://sdimakis.github.io/moral_psychology/")
+```
+
+---
 #The Good Place: How Your Life is Scored
 
 .center[

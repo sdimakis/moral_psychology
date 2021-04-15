@@ -244,16 +244,6 @@
 }
 
 
-.discussion-question{
-  float: right;
-  padding: 1em;
-  max-width: 300px;
-  min-height: 50px;
-  background-color: #e6f0ff;
-  border-radius: 10px;
-  border: 3px dashed black;
-}
-
 
 .dq{
   float: right;
@@ -264,25 +254,15 @@
   padding-left: 15%;
   background-repeat: no-repeat;
   border-radius: 10px; 
-  border: 2px solid #333;
-  background: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/lectures/images/dq.png), linear-gradient(100deg, #333 20%, white 10%);
+  border: 2px solid #454545;
+  background: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/lectures/images/dq.png), linear-gradient(100deg, #454545 20%, white 10%);
 	background-repeat: no-repeat;
   background-position: left;
-  background-size: 15%, contain;
+  background-size: 17%, contain;
 
 }
 
-
-  
-  float: right;
-  padding: 1em;
-  max-width: 300px;
-  min-height: 50px;
-  background-color: #e6f0ff;
-  border-radius: 10px;
-  width: 80%;
-  height: 100%;
-  background: linear-gradient(90deg, #e6f0ff 80%, #ededed 20%);
-  background-repeat: no-repeat;
-  background-position: left;
-  background-size: 10%, contain;
+.small-br {
+   display: block;
+   margin: 5px 0;
+}

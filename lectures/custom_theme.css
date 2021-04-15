@@ -8,7 +8,7 @@
 .remark-slide-content > h1 {
   margin-top: 20px;
   margin-bottom: 0px;
-  background-color: #ededed;
+  background-color: #e6f0ff;
   padding-top: 15px;
   padding-bottom: 0px;
   border: 2px solid black;
@@ -16,14 +16,6 @@
   text-align: center;
 
 }
-.remark-slide-content > h4 {
-  background-color: #e6f0ff;
-  padding-top: 6px;
-  padding-bottom: 6px;
-  margin-top:0px;
-  margin-bottom:0px;
-}
-
 .remark-slide body {
   font-size: 7px;
 }

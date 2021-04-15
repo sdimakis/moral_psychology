@@ -244,4 +244,42 @@
 }
 
 
+.discussion-question{
+  float: right;
+  padding: 1em;
+  max-width: 300px;
+  min-height: 50px;
+  background-color: #e6f0ff;
+  border-radius: 10px;
+  border: 3px dashed black;
+}
 
+
+.dq{
+  padding: 2em;
+  padding-top: .5em;
+  margin: 1em;
+  padding-left: 10%;
+  background-repeat: no-repeat;
+  border: 3px solid black;
+  border-radius: 10px; 
+  background: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/lectures/images/hand.jfif);
+	background-repeat: no-repeat;
+  background-position: left;
+  background-size: 12%, contain;
+}
+
+
+  
+  float: right;
+  padding: 1em;
+  max-width: 300px;
+  min-height: 50px;
+  background-color: #e6f0ff;
+  border-radius: 10px;
+  width: 80%;
+  height: 100%;
+  background: linear-gradient(90deg, #e6f0ff 80%, #ededed 20%);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 10%, contain;

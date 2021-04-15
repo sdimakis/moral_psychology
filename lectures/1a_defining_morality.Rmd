@@ -4,8 +4,14 @@ subtitle: "Week 1 - Moral Psychology"
 output:
   xaringan::moon_reader:
     css: [default, custom_fonts.css, custom_theme.css, custom.css]
+editor_options: 
+  chunk_output_type: console
 ---
 
+```{r, echo = FALSE}
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
+
+```
 
 # Week 1
 
@@ -43,8 +49,7 @@ knitr::include_url("https://sdimakis.github.io/moral_psychology/syllabus.html")
 ```
 
 ---
-#The Good Place: How Your Life is Scored
-
+#How Your Life is Scored
 .center[
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ut0ai4s4mjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ]
@@ -52,13 +57,16 @@ The Good Place is a TV series set in the afterlife. When you die, if you've been
 .right[https://www.youtube.com/watch?v=ut0ai4s4mjU]
 
 ---
-# the good place's moral claims
+# The Good Place's claims
 
 1. All behavior is "good" or "bad"
 
 2. Some actions are more "bad" than others
 
 3. Behavior can be assigned an objective moral score
+
+.dq[**Question** Do you agree with all of these claims?]
+
 
 
 ???

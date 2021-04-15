@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
-body {font-family: 'Yanone Kaffeesatz', sans-serif;}
-h1{font-family: 'Crimson Text', serif;}
-h2{font-family: 'Yanone Kaffeesatz', sans-serif;}
+body {font-family: 'Crimson Text', serif;}
+h1{font-family: 'Special Elite', cursive;}
+h2{font-family: 'Special Elite', cursive;}
+h4{font-family: 'Special Elite', cursive;}
 

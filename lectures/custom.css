@@ -261,11 +261,11 @@
   min-height: 30px;
   padding: 1.5em;
   padding-right: 1em;
-  padding-left: 10%;
+  padding-left: 15%;
   background-repeat: no-repeat;
   border-radius: 10px; 
-  border: 2px solid #616161;
-  background: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/lectures/images/dq.png), linear-gradient(100deg, #616161 20%, white 10%);
+  border: 2px solid #333;
+  background: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/lectures/images/dq.png), linear-gradient(100deg, #333 20%, white 10%);
 	background-repeat: no-repeat;
   background-position: left;
   background-size: 15%, contain;

@@ -256,17 +256,20 @@
 
 
 .dq{
-  padding: 2em;
-  padding-top: .5em;
-  margin: 1em;
+  float: right;
+  max-width: 250px;
+  min-height: 30px;
+  padding: 1.5em;
+  padding-right: 1em;
   padding-left: 10%;
   background-repeat: no-repeat;
-  border: 3px solid black;
   border-radius: 10px; 
-  background: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/lectures/images/hand.jfif);
+  border: 2px solid #616161;
+  background: url(https://raw.githubusercontent.com/sdimakis/moral_psychology/master/lectures/images/dq.png), linear-gradient(100deg, #616161 20%, white 10%);
 	background-repeat: no-repeat;
   background-position: left;
-  background-size: 12%, contain;
+  background-size: 15%, contain;
+
 }
 
 

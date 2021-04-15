@@ -65,7 +65,8 @@ The Good Place is a TV series set in the afterlife. When you die, if you've been
 
 3. Behavior can be assigned an objective moral score
 
-.dq[**Question** Do you agree with all of these claims?]
+<br>
+.dq[Do you agree with all of these claims?]
 
 
 

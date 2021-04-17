@@ -247,9 +247,9 @@
 
 .dq{
   float: right;
-  max-width: 250px;
+  max-width: 225px;
   min-height: 30px;
-  padding: 1.5em;
+  padding: .5em;
   padding-right: 1em;
   padding-left: 15%;
   background-repeat: no-repeat;

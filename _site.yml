@@ -12,9 +12,9 @@ navbar:
     - text: "Lectures"
       menu:
       - text: "1a: Introduction to moral psychology"
-        href: "lectures/1a_defining_morality.html"
+        href: "lectures/1a_introduction.html"
       - text: "1b: Defining and measuring morality"
-        href: "lectures/1b_measuring-morality.html"
+        href: "lectures/1b_defining_morality.html"
       - text: "2a: Evolution of morality"
         href: "lectures/2a_evolution.html"
       - text: "2b: Moral development"

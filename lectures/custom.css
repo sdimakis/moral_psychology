@@ -44,6 +44,10 @@
   font-size: 80%;
 }
 
+.smaller{
+  font-size: 90%;
+}
+
 .remark-slide-content {
     font-size: 25px;
     padding: 1em 4em 1em 4em;
@@ -168,14 +172,14 @@
 
 .right-column-med{
   color: black;
-  width: 42%;
+  width: 43%;
   height: 50%;
   float: right;
 }
 
 .left-column-med{
   color: black;
-  width: 58%;
+  width: 55%;
   float: left;
 }
 
@@ -243,6 +247,11 @@
   padding-left: 200px;
 }
 
+.smaller-centered-picture{
+  float: left;
+  width: 65%;
+  padding-left: 200px;
+}
 
 
 .dq{

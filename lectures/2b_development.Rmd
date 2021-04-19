@@ -25,7 +25,7 @@ This week we will be discussing moral insights from research on animals and huma
 ---
 # Infant research
 .footnote[Warneken & Tomasello (2006)]
-<center><br>
+<center>.sm-br[]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z-eU5xZW7cU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 https://www.youtube.com/watch?v=Z-eU5xZW7cU
@@ -40,11 +40,24 @@ https://www.youtube.com/watch?v=Z-eU5xZW7cU
 Do infants spontaneously help strangers?
 
 ---
+
 #Infant research
 .footnote[Warneken & Tomasello (2006)]
 #### Method
 
-Researchers presented 18-month-old infants with different situations where the experimenter was having trouble reaching a goal 
+Researchers put 18-month-old infants in different situations where the experimenter was having trouble reaching a goal 
+
+
+
+- **The experimental condition**: the experimenter would alternate his gaze between the child and the object and then verbalize his problem (e.g., "my marker!")
+
+- **The control condition**: the experimenter would look at the object with a neutral face for 20 seconds
+
+---
+#Infant research
+.footnote[Warneken & Tomasello (2006)]
+#### Method
+
 
 - **Out of reach:** the experimenter needs help with something out of their reach
 
@@ -58,8 +71,6 @@ Researchers presented 18-month-old infants with different situations where the e
 .footnote[Warneken & Tomasello (2006)]
 #### Method
 
-Researchers presented 18-month-old infants with different situations where the experimenter was having trouble reaching a goal 
-
 - **Physical obstacle**: the experimenter needs help because there is a physical obstacle blocking their way
 
 --
@@ -71,7 +82,6 @@ Researchers presented 18-month-old infants with different situations where the e
 .footnote[Warneken & Tomasello (2006)]
 #### Method
 
-Researchers presented 18-month-old infants with different situations where the experimenter was having trouble reaching a goal 
 
 - **Wrong means**: the experimenter needs help because they tried to do a task but got an undesirable result
 
@@ -84,25 +94,14 @@ Researchers presented 18-month-old infants with different situations where the e
 .footnote[Warneken & Tomasello (2006)]
 #### Method
 
-Researchers presented 18-month-old infants with different situations where the experimenter was having trouble reaching a goal 
 
-- **Wrong result**: the experimenter needs help because they are trying to complete a task but are using the wrong means to do it
+- **Wrong result**: the experimenter needs help because he is trying to complete a task but is using the wrong means to do it
 
 --
 
   - .highlight-blue[The flap task:] A spoon drops through a hole and the experimenter unsuccessfully tries to grasp it through the small hole, ignorant of a flap on the side of the box (experimental). Alternatively, he throws the spoon in the box on purpose (control)
 
 
----
-
-
-#Infant research
-.footnote[Warneken & Tomasello (2006)]
-#### Method
-
-- **The experimental condition**: the experimenter would alternate his gaze between the child and the object and then verbalize his problem (e.g., "my marker!")
-
-- **The control condition**: the experimenter would look at the object with a neutral face for 20 seconds
 
 ---
 

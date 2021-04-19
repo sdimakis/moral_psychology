@@ -253,6 +253,11 @@
   padding-left: 200px;
 }
 
+.smallish-centered-picture2{
+  float: left;
+  width: 80%;
+  padding-left: 10%;
+}
 
 .dq{
   float: right;

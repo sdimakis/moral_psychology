@@ -1,5 +1,5 @@
 ---
-title: "Character perception"
+title: "Character judgments"
 subtitle: "Week 4 - Moral Psychology"
 output:
   xaringan::moon_reader:
@@ -7,7 +7,7 @@ output:
 ---
 
 # Week 4
-This week we will be discussing how we judge the moral character of others and ascribe blame and praise to others in moral situations
+This week we will be discussing how we judge the moral character of others and ascribe blame and praise to their actions
 
 .highlight-blue[In week 4:]
 - **Which traits do we automatically evaluate in strangers?**

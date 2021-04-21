@@ -12,24 +12,24 @@ This week, we will be discussing moral behavior, particularly suppressing self-i
 .highlight-gray[In week 5:]
 
 - What can economic games tell us about how we cooperate with each other?
-
 - How trusting and generous are we towards strangers?
-
+- **How concerned are we about being perceived as *moral* ?**
 - **Does *true* altruism exist or are all pro-social acts inherently selfish?**
 
-- **How concerned are we about being perceived as *moral* **?
 
 ---
 
 # The missing wallet study
 .footnote[Cohn et al. (2019)]
-- Cohn et al. (2019) performed a missing wallet experiment in 40 countries with more than 17,000 wallets
 
-- For each wallet, a research assistant walked into a building (banks, theaters, museums, post offices, hotels, police stations, courts of law,or other public offices) and said:
+#### Method
+
+- Researchers performed a missing wallet experiment in 40 countries with more than 17,000 wallets
+
+- For each wallet, a research assistant walked into a building (banks, theaters, museums, post offices, hotels, police stations, courts of law, or other public offices) and said:
 
 >"Hi, I found this [pointing to the wallet] on the street around the corner. Somebody must have lost it. I’m in a hurry and have to go. Can you please take care of it?”
 
-- They measured if the person did or did not contact the owner of the wallet
 
 ---
 # The missing wallet study
@@ -42,11 +42,25 @@ This week, we will be discussing moral behavior, particularly suppressing self-i
 # The missing wallet study
 .footnote[Cohn et al. (2019)]
 
-.right-column-med[<br>![](images/cohn_wallet_1.JPG)]
+.pull-left[#### Method
+- Some wallets had money in them while others had no money
 
-.left-column-med[- Some wallets had money in them while others had no money
+- The researchers measured if the person did or did not contact the owner of the wallet]
+
+.pull-right[
+![](images/cohn_4.JPG)]
+---
+# The missing wallet study
+.footnote[Cohn et al. (2019)]
+
+.right-column-med[
+![](images/cohn_wallet_1.JPG)]
+
+.left-column-med[#### Results
 - People were *more* likely to return wallets with money in them
+
 - Across countries, about 40% of no money wallets were returned and about 51% of money wallets were returned]
+
 ---
 
 # The missing wallet study
@@ -55,8 +69,8 @@ This week, we will be discussing moral behavior, particularly suppressing self-i
 .right-column-med[
 ![](images/cohn_2.JPG)]
 
-.left-column-med[
-- Further, when a "big money" condition ($94.15) was added, people were even more likely to return the wallet (see Figure)
+.left-column-med[#### Results
+- Further, when a "big money" condition ($94.15) was added, people were even more likely to return the wallet
 
 - And in another variation, people were about 9% more likely to return wallets with keys
 ]
@@ -66,14 +80,27 @@ This week, we will be discussing moral behavior, particularly suppressing self-i
 # The missing wallet study
 .footnote[Cohn et al. (2019)]
 
-.smallest-picture[![](images/cohn_5.JPG)]
-- These findings were contrary to the expectations of expert economists, and contrary to the expectations of non-experts (see Figure)
+.pull-right[![](images/cohn_5.JPG)]
 
+.pull-left[#### Results
+- These findings were contrary to the expectations of expert economists, and contrary to the expectations of non-experts
+
+]
+---
+
+# The missing wallet study
+.footnote[Cohn et al. (2019)]
+
+#### Discussion
 - Extra monetary incentives *should* decrease wallet returns, but the opposite occurred
 
 - A key, which is valuable to the wallet-owner but not the wallet-finder, should not increase wallet returns, but it does
----
 
+--
+
+.dq[Why do you think people return wallets that are *more* valuable?]
+
+---
 
 # The dictator game
 <br>
@@ -106,19 +133,18 @@ From these studies, we have learned that people will sometimes act against their
   
 - However, it is less obvious why people help strangers, especially ones they will never see again
 
---
+---
 
->.highlight-gray[Discussion question:] Think about a recent behavior that you did that was *altruistic*. Would you consider the act **purely** altruistic, or did you also benefit from it?
+# Activity
 
-???
+**Instructions**: Think about a recent behavior that you did that was *altruistic* (selfless and benefited others). Would you consider the act **purely** altruistic, or did you also benefit from it?
 
-We also saw that monkeys were not helping strangers like we do
 ---
 
 # Altruism 
 
 .footnote[Batson and Shaw (1991)]
-Batson and Shaw (1991) describe three pathways to helping, two of which are egoistic (i.e., selfish) and one of which they claim is altruistic
+Batson and Shaw (1991) described three pathways to helping, two of which are selfish (i.e., egoist) and one of which they claim is altruistic
 
 
 1. Arousal reducing (egoistic)
@@ -128,7 +154,7 @@ Batson and Shaw (1991) describe three pathways to helping, two of which are egoi
 3. Empathic concern (altruistic)
 
 ---
-# Egoistic motivations for helping
+# Egoistic motivations
 .footnote[Batson and Shaw (1991)]
 
 One reason for helping is **to reduce your own negative arousal** 
@@ -138,56 +164,74 @@ One reason for helping is **to reduce your own negative arousal**
 - Helping them will reduce our own suffering and make us feel *good*
 
 ---
-# Egoistic motivations for helping
-.footnote[Cheng et al. (2010)]
-.smallest-picture[![](images/pain-brain.png)]
+# Egoistic motivations
 
-- Participants were shown animated hands or feet in painful (e.g., a finger getting stuck in a door) and non-painful situations
+.footnote[Cheng et al. (2010)]
+
+#### Method
+
+- Participants were shown animated hands or feet in painful (e.g., a finger getting stuck in a door) and non-painful situations in an fMRI scanner
 
 - They were told to imagine it was their hand/foot, their love one's, or a stranger's
 
-- **Conclusion**: similar pain regions of the brain are activated for the self and for others (especially close others)
-
---
-
-Helping others *reduces our own suffering*, especially when someone we love is suffering
 
 ---
 
-# Egoistic motivations for helping
+# Egoistic motivations
+
+.footnote[Cheng et al. (2010)]
+
+
+.pull-left[#### Results
+- Similar pain regions of the brain are activated for the self and for others (especially close others)
+
+- Helping others *reduces our own suffering*, especially when someone we love is suffering]
+
+.pull-right[
+![](images/pain-brain.png)]
+
+---
+
+# Egoistic motivations 
 .footnote[Batson and Shaw (1991)]
 
 A second reason for helping is **to seek rewards and to avoid punishments**
 
 - Helping can be rewarding for an individual because having a cooperative and helpful *reputation* is important 
 
+--
 
->.highlight-gray[Discussion question:] What is the benefit of appearing altrustic to others? How do people signal to others that they are virtuous? 
+.dq[What is the benefit of appearing altrustic to others?]
+
+---
+# Egoistic motivations 
+.footnote[Batson and Shaw (1991)]
+
+A second reason for helping is **to seek rewards and to avoid punishments**
+
+- Helping can be rewarding for an individual because having a cooperative and helpful *reputation* is important 
+
+.dq[How do people signal to others that they are virtuous? ]
 
 
 
 ---
 
-# Protecting your moral reputation
+# Moral reputation
 .footnote[Vonasch et al. (2018)]
 <center><b>Would you rather?</b></center>
-
-Study 2
 
 .pull-left[A doctor would amputate your dominant hand.
 
  OR]
 
-.pull-right[<br>You would get a swastika tattooed prominently on your face. Everyone you met would assume you were a Neo-Nazi when they saw you. You would not be allowed to explain to anyone, including family, friends, and strangers, why you have the tattoo on your face.]
+.pull-right[You would get a swastika tattooed prominently on your face. Everyone you met would assume you were a Neo-Nazi when they saw you. You would not be allowed to explain to anyone, including family, friends, and strangers, why you have the tattoo on your face.]
 
 ---
 
-# Protecting your moral reputation
+# Moral reputation
 .footnote[Vonasch et al. (2018)]
 <center><b>Would you rather?</b></center>
-
-Study 2
-
 
 .pull-left[A doctor would amputate your dominant hand.
 
@@ -201,27 +245,21 @@ Study 2
 <center>.red[**30%**]</center>
 ]
 ---
-# Protecting your moral reputation
+# Moral reputation
 .footnote[Vonasch et al. (2018)]
 <center><b>Would you rather?</b></center>
-
-Study 2
-
 
 .pull-left[You will die right now.
 
 
 OR]
 
-.pull-right[<br>You will live into your 90s, but everyone in your community will think you are a pedophile who sexually abuses children (you will not actually be a pedophile, but will have no way of proving you are not.)]
+.pull-right[You will live into your 90s, but everyone in your community will think you are a pedophile who sexually abuses children (you will not actually be a pedophile, but will have no way of proving you are not.)]
 
 ---
-# Protecting your moral reputation
+# Moral reputation
 .footnote[Vonasch et al. (2018)]
 <center><b>Would you rather?</b></center>
-
-Study 2
-
 
 .pull-left[You will die right now.
 
@@ -238,11 +276,9 @@ OR
 
 ---
 
-# Protecting your moral reputation
+# Moral reputation
 .footnote[Vonasch et al. (2018)]
 <center><b>Would you rather?</b></center>
-
-Study 2
 
 .pull-left[You will die right now and will be remembered fondly by your
 community.
@@ -250,20 +286,18 @@ community.
 
 OR]
 
-.pull-right[You will live into your 90s, and everyone will hold you in high
+.pull-right[.smaller[You will live into your 90s, and everyone will hold you in high
 esteem until your death. After you die, however, (false)
 rumors will spread throughout your community that you
 were a pedophile and had abused children. There will even
 be articles about it in the newspaper. The rumors will never
 be disproven and everyone in your community will think
-you were a pedophile who abused children.]
+you were a pedophile who abused children.]]
 
 ---
-# Protecting your moral reputation
+# Moral reputation
 .footnote[Vonasch et al. (2018)]
 <center><b>Would you rather?</b></center>
-
-Study 2
 
 .pull-left[You will die right now and will be remembered fondly by your
 community.
@@ -274,7 +308,7 @@ OR
 <center>.red[**30%**]</center><br>
 ]
 
-.pull-right[You will live into your 90s, and everyone will hold you in high
+.pull-right[.smaller[You will live into your 90s, and everyone will hold you in high
 esteem until your death. After you die, however, (false)
 rumors will spread throughout your community that you
 were a pedophile and had abused children. There will even
@@ -282,45 +316,61 @@ be articles about it in the newspaper. The rumors will never
 be disproven and everyone in your community will think
 you were a pedophile who abused children.
 
-<center>.red[**70%**]
+<center>.red[**70%**]]
 ]
 
 ---
 
-# Protecting your moral reputation
+# Moral reputation
 .footnote[Vonasch et al. (2018)]
 
-Study 3-4
+#### Method
 
-.right-column-small[![](images/stress.jpg)]
+.right-column-small[
+![](images/stress.jpg)]
 
-
+.left-column-big[
 - Participants took an IAT test
 
-- They were randomly assigned to a low or high implicit racism score 
-- Then, they were told that their score would be ranked against others scores and broadcast to the entire school 
+- They were randomly assigned to a low (31/100) or high (97/100) implicit racism score 
+
+- Then, they were told that their score would be ranked against others scores and broadcast to the entire school ]
 
   
 ---
-# Protecting your moral reputation
+# Moral reputation
 
 .footnote[Vonasch et al. (2018)]
 
+.right-column-small[
+![](images/stress.jpg)]
 
-Study 3-4
+.left-column-big[#### Method
 
-.right-column-small[![](images/stress.jpg)]
+- Participants were then told that if they participated in another experiment, their score would not be included in the broadcast
 
-- They were then told that if they participated in another experiment, their score would not be included in the broadcast
-  - The new task was disgusting or painful (worms or ice)
+  - The new task was disgusting or painful (worms or ice)]
 
-- 62.8% of participants with the (randomly assigned) high racism score were willing to endure a painful ice activity (30.4% put their hand in a bucket of worms) 
+---
+
+# Moral reputation
+
+.footnote[Vonasch et al. (2018)]
+
+.right-column-small[
+![](images/stress.jpg)]
+
+.left-column-big[#### Results
+
+- 62.8% of participants with the (randomly assigned) high racism score were willing to endure a painful ice activity (30.4% put their hand in a bucket of worms)
+
+- Only 8.9% of participants were willing to do the ice task in the low racism condition (3.9% in bucket of worms)]
 
 ---
 # Dictator exit study
 .footnote[Dana et al. (2005)]
 
-Study 1
+#### Method (study 1)
 
 - Two participants sat across from each other and worked on an unrelated study
 
@@ -328,14 +378,14 @@ Study 1
 
 > You will be given $10, and you can give some to the other participant. The other participant will learn that you had $10 and decided to allocate X number of dollars to them. How much would you like to give?
   
-- Participants indicated how much money they would like to give the other participant
   
 ---
 
 # Dictator exit study
 .footnote[Dana et al. (2005)]
 
-Study 1
+#### Method (study 1)
+- Participants indicated how much money they would like to give the other participant
 
 - Then, dictators were given a second choice: to take $9 (instead of the $10) to *exit the game*
 
@@ -346,13 +396,13 @@ Study 1
 # Dictator exit study
 .footnote[Dana et al. (2005)]
 
-Study 1
+#### Results (study 1)
 
 .pull-right[![](images/dg_exit_2.JPG)]
 
 .pull-left[- 28% of "dictators" took the exit option
 
-- **Conclusion**: people give because they want to *appear* selfless and fair, but they would actually rather keep the money]
+- People give because they want to *appear* selfless and fair, but they would actually rather keep the money]
 
 
 ---
@@ -360,42 +410,53 @@ Study 1
 # Dictator exit study
 .footnote[Dana et al. (2005)]
 
-Study 2
+#### Method (study 2)
 
 - Participants were either in the *public* condition (same as study 1) or the *private* condition
 
-- In the private condition, the receiver will not know where the money came from. The money will be given to them with the following note:
-  
-> "Thank you for your time today. An additional payment of $___ is attached to this note."
+---
 
-- In the private condition, after making an allocation decision, participants were also given the choice to exit and take $9
+# Dictator exit study
+.footnote[Dana et al. (2005)]
+
+#### Method (study 2)
+
+.pull-left[
+<center> **The public condition**</center>
+- The other participant will learn about the study (that you were given $10 and decided to give them $_____ of it).
+
+- OR you can exit and take $9
+]
+.pull-right[
+<center> **The private condition**</center>
+- The money will be given to the other participant with "*Thank you for your time today. An additional payment of $___ is attached to this note.*"
+
+- OR you can exit and take $9]
 
 ---
 
 # Dictator exit study
 .footnote[Dana et al. (2005)]
-Study 2
+
+#### Results (study 2)
 
 .pull-left[- In the private condition, only one person chose to exit
 
-- There was not a significant difference in gift size between the private and public condition
+- There was not a significant difference in gift size between the private and public condition]
 
-- **Conclusion**: people exit in the public condition because they are concerned about what the person will think about their gift (e.g., is it big enough?) but even when the gift is private, people feel compelled to give]
+.pull-right[![](images/dictator_exit.JPG)]
 
-
-.highlight-blue[Discussion question]: does private make the gift *altruistic*?
 ---
 # Dictator exit study
 .footnote[Dana et al. (2005)]
-Study 2
 
-.pull-left[
+#### Discussion (study 2)
+People exit in the public condition because they are concerned about what the person will think about their gift (e.g., is it big enough?) but even when the gift is private, people feel compelled to give
 
-- **Conclusion**: people exit in the public condition because they are concerned about what the person will think about their gift (e.g., is it big enough?) but even when the gift is private, people feel compelled to give
+--
 
-- .highlight-blue[**Discussion question**]: is the private gift *altruistic*?]
+.dq[Is the gift in the private condition *altruistic*?]
 
-.pull-right[![](images/dictator_exit.JPG)]
 
 
 ???
@@ -408,6 +469,7 @@ People want to be as altrustic as others expect them to be
 
 .footnote[Monin & Miller (2001)]
 
+#### Method
 
 - Participants were randomly assigned to the credentials condition, the no credentials condition, or the base-rate condition
 
@@ -421,15 +483,11 @@ People want to be as altrustic as others expect them to be
 .footnote[Monin & Miller (2001)]
 #### The credentials condition
 
-- Most women are better off at home taking care of the children.
-
-- Men are more emotionally suited for politics than are most women.
-
-- The best job for most women is something like cook, nurse, or teacher.
-
-- Most women need a man to protect them.
-
-- Most women are not really smart.
+1. Most women are better off at home taking care of the children.
+2. Men are more emotionally suited for politics than are most women.
+3. The best job for most women is something like cook, nurse, or teacher.
+4. Most women need a man to protect them.
+5.  Most women are not really smart.
 
 
 ???
@@ -441,15 +499,11 @@ In this condition, participants have the opportunity to build up credibility tha
 .footnote[Monin & Miller (2001)]
 
 #### The no credentials condition
-- Some women are better off at home taking care of the children.
-
-- Men are more emotionally suited for politics than are some women.
-
-- The best job for some women is something like cook, nurse, or teacher.
-
-- Some women need a man to protect them.
-
-- Some women are not really smart.
+1. Some women are better off at home taking care of the children.
+2. Men are more emotionally suited for politics than are some women.
+3. The best job for some women is something like cook, nurse, or teacher.
+4. Some women need a man to protect them.
+5. Some women are not really smart.
 
 ???
 
@@ -463,7 +517,7 @@ In this condition, participants do not have the opportunity to build up credibil
 
 Participants then read the following:
 
-> Imagine that you are the manager of a small (45-person) cement
+> .small[Imagine that you are the manager of a small (45-person) cement
 manufacturing company based in New Jersey. Last year was a particularly good one, and after you invested in increasing the outputcapacity of your plant, you decide that it would be very fruitful if you
 could find clients in other states to increase your business. Because
 you cannot spend too much time away from the plant, you decide to
@@ -475,7 +529,7 @@ confidence in their technical skills would not be taken seriously by
 potential clients. Realizing how useful such a help would be for you,
 you decide to give the person chosen one of the top-five salaries in
 your company. Do you feel that this job is better suited for one gender
-rather than the other?
+rather than the other?]
 
 ---
 
@@ -484,50 +538,74 @@ rather than the other?
 
 .footnote[Monin & Miller (2001)]
 
-.smallest-picture[![](images/monin cred.JPG)]
 
-- Overall, women preferred a man for the job at the same rate, regardless of the condition they were in
+.pull-left[#### Results
+- Women preferred a man for the job at the same rate, regardless of the condition they were in
 
-- However, men with "moral credentials" (who had just stated that they were not sexist) preferred a man for the job at a higher rate than men who did not have "moral credentials"
+- Men with "moral credentials" preferred a man for the job at a higher rate than men who did not have "moral credentials"]
 
---
+.pull-right[
+![](images/monin cred.JPG)]
 
-- **Conclusion:** people are more likely to express an attitude that could be considered prejudiced when they have a reputation of not being prejudiced 
 
 ---
 
-# An "altruistic" motivation for helping
+# Moral credentials
+
+.footnote[Monin & Miller (2001)]
+
+
+#### Discussion
+
+People are more likely to express an attitude that could be considered prejudiced when they have a reputation of not being prejudiced 
+
+--
+
+.dq[What are the consequences of this effect in the "real world"?]
+---
+
+# An altruistic motivation
 .footnote[Batson and Shaw (1991)]
 
 - Batson and Shaw (1991) argue that **empathic concern** is a purely altruistic motivation for helping someone else
 
-- Empathy is both cognitive and affective
-
-  - Cognitive empathy is being able to think about a situation from another person's perspective
-  
-  - Emotional empathy is being able to feel what another person feels 
-
 - Even when people know that there is no reward for helping (or are even facing a big consequence), people help strangers
   - e.g., people who hid Jews in Nazi Germany
+  
+  
+---
+
+
+# An altruistic motivation
+.footnote[Batson and Shaw (1991)]
+
+- Empathy is both cognitive and affective
+
+  - **Cognitive empathy** is being able to think about a situation from another person's perspective
+  
+  - **Emotional empathy** is being able to feel what another person feels 
+
+- Many people colloquially use empathy interchangeably with *compassion* 
+
+  - We will talk more about empathy week 8 (moral emotions)
+
 
 ---
 
-# An "altruistic" motivation for helping
+# An altruistic motivation
 
 Batson and Shaw (1991) argue that empathic concern is the *only way* to reach purely unselfish altruism
 
->.highlight-gray[Discussion question:] Does it matter if something is *truly* altruistic? Or is a good act still good, even when the motivations are selfish? 
+.dq[Does it matter if something is *truly* altruistic? Or is a good act still good, even when the motivations are selfish? ]
 
 ---
 
 
 # Summary
 
-- People often go out of their way to help others, but even strangers 
+- People often go out of their way to help others,  even strangers 
 
-- There are selfish reasons to be altruistic, such as to feel good or to build a moral reputation
-
-- People care *a lot* about whether others think they are moral
+- There are selfish reasons to help others, such as to feel good or to build a moral reputation
 
   - Many are willing to experience pain (or even die) to maintain their moral reputation
   
@@ -535,4 +613,4 @@ Batson and Shaw (1991) argue that empathic concern is the *only way* to reach pu
   
   - Some people care so much about their moral reputation that they censor their attitudes for audiences who are unaware of their "moral credentials"
   
-- Some argue that *true* altruism arises through empathy 
+- Some argue that *true* altruism can only arise through empathy

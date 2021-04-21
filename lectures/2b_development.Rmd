@@ -626,3 +626,5 @@ E.g., some people think that kneeling for a flag is a violation of a social conv
   
 - Turiel theorized that children construct the moral domain through social interactions
   - Crucial to constructing the moral domain is learning to distinguish moral rules (which are invariable/ exist because of intrinsic properties of the act itself) and social conventions (which are arbitrary and fluid)
+
+.highlight-blue[Due Sunday:] HW2

@@ -9,9 +9,9 @@ output:
 
 # Week 7
 
-This week, we will be discussing the moral self
+This week, we will be discussing the moral self.
 
-.highlight-gray[In week 7:]
+.highlight-blue[In week 7:]
 
 - **How central is morality to one's self-concept?**
 
@@ -21,23 +21,19 @@ This week, we will be discussing the moral self
 
 ---
 
-# Activity
+# Activity 1
 
-- We are going to watch a short clip from the movie Freaky Friday (2003)
-
-- In this movie, the mother and daughter wake up in each other's bodies
-
-- In the clip we are going to watch, the daughter has taken over the mother's body and is acting as a therapist
+**Instructions**: We are going to watch a short clip from the movie Freaky Friday (2003). In this movie, the mother and daughter wake up in each other's bodies. In the clip we are going to watch, the daughter has taken over the mother's body and is acting as a therapist.
 
 - While you watch the clip, think about the following:
 
-  - What acting choices is the actress who plays the mother making to show that she is not herself but instead her teenage daughter?
+  1. What acting choices is the actress who plays the mother making to show that she is not herself but instead her teenage daughter?
   
-  - Pinpoint the behavior/ something that the mother says that makes it the most clear that this is not really the mother
+  2. Pinpoint the behavior/ something that the mother says that makes it the most clear that this is not really the mother
   
 ---
 
-# Body swapping
+# Activity 1
 
 <center><br>
 
@@ -47,7 +43,7 @@ https://www.youtube.com/watch?v=XE2yXb2byA4
 
 ---
 
-# Essential components of identity
+# Activity 2
 
 Who are *you*? 
 
@@ -58,35 +54,32 @@ Who are *you*?
 Your list may contain your desires, what you love to do or who you love.  It might contain your memories. Personality traits. 
 ---
 
-# Essential components of identity
+# Activity 3
 
-.highlight-gray[Now think about the following questions:]
 
-> 1. If you suddenly lose your eyesight, are you still *you*?
+ 1. If you suddenly lose your eyesight, are you still *you*?
 
-> 2. If you suddenly start liking avocados when you used to despise them, are you still *you*?
+ 2. If you suddenly start liking avocados when you used to despise them, are you still *you*?
 
-> 3. If you suddenly lose all of your memories, are you still *you*? 
+ 3. If you suddenly lose all of your memories, are you still *you*? 
 
-> 4. If you suddenly become very interested in socializing when you used to be a stanch introvert, are you still *you*?
+ 4. If you suddenly become very interested in socializing when you used to be a stanch introvert, are you still *you*?
 
-> 5. If you suddenly start murdering babies, are you still *you*?
+ 5. If you suddenly start wanting to murder babies, are you still *you*?
 
 ---
 
-# Essential components of identity
+# Activity 3
 
-.highlight-gray[Now think about the following questions:]
+1. If you suddenly lose your eyesight, are you still *you*? **(Perceptual)**
 
-> 1. If you suddenly lose your eyesight, are you still *you*? **(Perceptual)**
+2. If you suddenly start liking avocados when you used to despise them, are you still *you*? **(Desires)**
 
-> 2. If you suddenly start liking avocados when you used to despise them, are you still *you*? **(Desires)**
+3. If you suddenly lose all of your memories, are you still *you*? **(Memories)**
 
-> 3. If you suddenly lose all of your memories, are you still *you*? **(Memories)**
+4. If you suddenly become very interested in socializing when you used to be a stanch introvert, are you still *you*? **(Personality)**
 
-> 4. If you suddenly become very interested in socializing when you used to be a stanch introvert, are you still *you*? **(Personality)**
-
-> 5. If you suddenly start murdering babies, are you still *you*? **(Morality)**
+5. If you suddenly start wanting to murder babies, are you still *you*? **(Morality)**
 
 
 
@@ -96,26 +89,9 @@ Your list may contain your desires, what you love to do or who you love.  It mig
 
 .footnote[Strohminger & Nichols (2014)]
 
-Study 1 (method)
+#### Method (study 1)
 
-- Participants were randomly assigned to read a story about Jim, who sustained a severe head injury from a car accident
-
-- They learned the Jim lost nothing (control), his ability to recognize objects, his desire to do anything, his ab memories, or his moral conscious
-
-- Finally, they rated on a scale of 1 = "completely agree" and 7 = "completely disagree" with the statement:
-
-> "The transplant recipient is still Jim."
-
-
----
-
-# The essential moral self
-
-.footnote[Strohminger & Nichols (2014)]
-
-Study 1 (method)
-
-> Jim is an accountant living in Chicago. One day, he sustains a severe head injury from a car accident. His only
+> .smallish[Jim is an accountant living in Chicago. One day, he sustains a severe head injury from a car accident. His only
 chance for survival is participation in an advanced medical experiment called a Type 2 transplant procedure. It
 is the year 2049 and scientists are able to grow different
 parts of the brain if they become damaged. A stock of
@@ -127,10 +103,8 @@ with the stock brain tissue. The damaged brain tissue
 is destroyed after it has been removed. After the operation, all the right neural connections between the old
 brain and the replacement brain tissue have been made.
 The doctors test all physiological responses and determine that the patient is alive and functioning. The doctors scan the brain of the transplant recipient and run
-some standard psychological tests. [VARIABLE]
-Indicate the extent to which you agree with the following statement: After the surgery, the transplant recipient
-is still Jim.
-
+some standard psychological tests. 
+]
 ---
 
 
@@ -138,18 +112,18 @@ is still Jim.
 
 .footnote[Strohminger & Nichols (2014)]
 
-Study 1 (method)
+#### Method (study 1)
 
-CONTROL: ‘‘They discover that the transplant recipient
+**Control**: ‘‘They discover that the transplant recipient
 thinks and acts the same way as before the accident.’’
 
-AGNOSIA: ‘‘They discover that the transplant recipient has
+**Agnosia**: ‘‘They discover that the transplant recipient has
 lost his ability to recognize objects—he can see perfectly
 fine, but his ability to identify objects has disappeared.
 Aside from this, he thinks and acts the same way as
 before the accident.’’
 
-APATHY: ‘‘They discover that the transplant recipient has
+**Apathy**: ‘‘They discover that the transplant recipient has
 lost all his desires—he no longer wants or desires anything. Aside from this, he thinks and acts the same
 way as before the accident.’’
 
@@ -160,12 +134,12 @@ way as before the accident.’’
 
 .footnote[Strohminger & Nichols (2014)]
 
-Study 1 (method)
+#### Method (study 1)
 
-AMNESIA: ‘‘They discover that the transplant recipient has
+**Amnesia**: ‘‘They discover that the transplant recipient has
 lost his memories—he can no longer remember anything that happened before the accident. Aside from this, he thinks and acts the same way as before the accident.’’
 
-MORALITY: ‘‘They discover that the transplant recipient
+**Morality**: ‘‘They discover that the transplant recipient
 has lost his moral conscience—he is no longer capable
 of judging right from wrong, or being moved by the suffering of others. Aside from this, he thinks and acts the
 same way as before the accident.’’
@@ -175,14 +149,11 @@ same way as before the accident.’’
 
 .footnote[Strohminger & Nichols (2014)]
 
-Study 1 (results) 
-
-.pull-left[
-- People said that Jim was still himself when he could no longer recognize objects (no difference compared to the control group)
-
-- People moderately disagreed with the statement "The transplant recipient is still Jim" for the apathy and amnesia conditions
-
-- People most strongly disagreed with the statement "The transplant recipient is still Jim" when his *moral conscious* changed
+.pull-left[#### Results (study 1)
+  - Agreed he was still Jim when he could no longer recognize objects 
+  
+  - Moderately disagreed for the apathy and amnesia 
+  - People most strongly disagreed for morality
 ]
 .pull-right[
 ![](images/moral self 1.JPG)]
@@ -193,13 +164,12 @@ Study 1 (results)
 
 .footnote[Strohminger & Nichols (2014)]
 
-Study 2 (method)
+#### Method (study 2)
 
-- Participants first read a scenario and then rated items from different parts of the mind (perceptual, desires, memories, personality, and morality)
 
-> **Prompt:** Imagine that pills have been developed that, once swallowed, would permanently alter only one part of a person’s mind, without affecting anything else
+> **Prompt:** Imagine that pills have been developed that, once swallowed, would permanently alter only one part of a person’s mind, without affecting anything else.
 
-- Participants rated how much the person would change after take the pill from 0% = "They're the same person as before" to 100% = "They're completely different now"
+- Participants rated how much the person would change after taking the pill from 0% = "They're the same person as before" to 100% = "They're completely different now"
 
 
 
@@ -212,14 +182,18 @@ Study 2 (method)
 # The essential moral self
 .footnote[Strohminger & Nichols (2014)]
 
-Study 2 (results)
+.pull-left[#### Results (study 2)
 
-.pull-left[
-- Participants considered the person most changed when their morality changed, followed by personality, then memories and desires (which didn't differ from each other), followed by perceptual
+.smaller[- Participants considered the person most changed when their morality changed, followed by personality, then memories and desires (which didn't differ from each other), followed by perceptual
+
+
+]]
+.pull-right[
+![](images/moral self 3.JPG)]
+
+???
 
 - These findings were also replicated in a soul switch scenario (study 3), a reincarnation scenario (study 4), and meeting an old friend after 25 years scenario (study 5)
-]
-.pull-right[![](images/moral self 3.JPG)]
 
 ---
 
@@ -228,20 +202,21 @@ Study 2 (results)
 
 In a follow up study, Strohminger & Nichols (2015) wanted to apply the theory to real cases of brain damage (FTD, AD, and ALS)
 
-- **Fronto-temporal dementia (FTD)**: leads to moral impairments, like dishonesty reduced empathy, diminished concern for social norms, and inappropriate behavior 
+.smaller[- **Fronto-temporal dementia (FTD)**: leads to moral impairments, like dishonesty reduced empathy, diminished concern for social norms, and inappropriate behavior 
 
 - **Alzheimer's disease (AD)** : episodic/ autobiographical memory loss, confusion, memory loss for generic information, semantic memory loss
 
-- **Amyotrophic lateral sclerosis/ Lou Gehrig's disease (ALS)**: a motor neuron disease that results in the loss of  voluntary muscle control (leads to a loss in ability to speak and eventually, the ability to breathe)
+- **Amyotrophic lateral sclerosis/ Lou Gehrig's disease (ALS)**: a motor neuron disease that results in the loss of  voluntary muscle control (leads to a loss in ability to speak and eventually, the ability to breathe)]
 
 ---
 
 # Neurodegeneration
 .footnote[Strohminger & Nichols (2015)]
 
+#### Method
+
 Friends and family of patients with FTD, AD, and ALS  were asked questions about whether their loved one has fundamentally changed 
 
-<br>
 
 .smaller-picture[![](images/moral identity 4.JPG)]
 
@@ -250,34 +225,38 @@ Friends and family of patients with FTD, AD, and ALS  were asked questions about
 # Neurodegeneration
 .footnote[Strohminger & Nichols (2015)]
 
-.pull-left[
-- There was no difference between impact on daily functioning between patients of FTD, AD, and ALS
+.pull-left[#### Results
+.smaller[- There was no difference between impact on daily functioning between patients of FTD, AD, and ALS
 
-- However, loved ones rated variables related to identity as most fundamentally changed for FTD patients, and AD patients as moderately changed, and ALS patients as the least changed
+- Loved ones rated variables related to identity as most fundamentally changed for FTD patients, and AD patients as moderately changed, and ALS patients as the least changed]
 
 ]
-.pull-right[![](images/moral identity 5.JPG)]
+.pull-right[
+![](images/moral identity 5.JPG)]
 
 ---
+# Neurodegeneration
 
-# Discussion
+#### Discussion
+.footnote[Strohminger (2018)]
 
 Other research in social psychology emphasizes the usefulness of our identities to **distinguish** us from our group
 
 
-However, across these studies, morality has been found to be an extremely important part of one's identity, more important that qualities that distinguish us from each other, like non-moral personality traits and memories. Indeed, when someone loses their moral conscious, we believe them to have fundamentally changed. 
+However, across these studies, morality has been found to be an extremely important part of one's identity, more important that qualities that distinguish us from each other, like non-moral personality traits and memories. Indeed, when someone loses their moral conscious, we believe them to have fundamentally changed
 
+--
 
-.highlight-gray[Discussion question:] Why do you think that morality is so central to identity? 
+.dq[ Why do you think that morality is so central to identity? ]
 
 
 
 ---
 
-# Discussion
+# Neurodegeneration
 .footnote[Strohminger (2018)]
+#### Discussion
 
-One explanation:
 
 
 - Even though others are constantly changing (e.g., physical attributes, desires, personal qualities), we have evolved to see people as containing a "soul," or some entity that does not change over time 
@@ -292,14 +271,15 @@ One explanation:
 
 .footnote[Strohminger, Knobe, & Newman (2017)]
 
-- Strohminger et al. (2017) argue that people think of themselves and others as having a "true" self that is distinct from their actual self
+Strohminger et al. (2017) argue that people think of themselves and others as having a "true" self that is distinct from their actual self
 
 
-> "A close examination of certain cases illustrates how
+> *A close examination of certain cases illustrates how
 the self concept, as a whole, differs from the true self.
 Consider the musical Grease, where Sandy sheds her goody-goody persona to become a leather-clad, pelvisthrusting bad girl. Surely all this smokiness and gyration
 is Sandy. But just as surely, this is a performance designed
-to gain the approval of her peers, not the “real” Sandy." - Strohminger et al. (2017)
+to gain the approval of her peers, not the “real” Sandy.*
+.right[-Strohminger et al. (2017)]
 
 
 ---
@@ -314,7 +294,14 @@ Your "true" self differs from your actual self in a few important ways:
 
   - Moral traits are extremely important when describing our *true self*; when we no longer have the same moral traits and make the same moral judgments and decisions, we become a "different person" 
   
---
+---
+
+# Your "true" self
+
+.footnote[Strohminger, Knobe, & Newman (2017)]
+
+Your "true" self differs from your actual self in a few important ways:
+
 
 2) The true self is positive by default
 
@@ -335,7 +322,14 @@ Your "true" self differs from your actual self in a few important ways:
   
   - It doesn't matter if you're thinking about the true self of yourself or the true self of another, you consider the true self *moral* and *good*
   
---
+---
+
+# Your "true" self
+
+.footnote[Strohminger, Knobe, & Newman (2017)]
+
+Your "true" self differs from your actual self in a few important ways:
+
 
 4) The true self is cross-culturally stable
 
@@ -346,8 +340,19 @@ Your "true" self differs from your actual self in a few important ways:
 .footnote[Blasi (1984); Aquino & Reed (2002)]
 
 
+**Moral identity:** how committed a person is to thinking and acting *morally*; the unique combination of moral traits (e.g., kind, honest, generous, trustworthy) that a person considers closely tied to their self-concept
 
-**Moral identity:** how committed a person is to thinking and acting *morally*; the unique combination of moral traits that a person considers closely tied to their self-concept
+
+--
+
+.dq[.smaller[What moral traits do you consider most important to your identity?]]
+
+
+
+---
+
+# Moral identity 
+.footnote[Blasi (1984); Aquino & Reed (2002)]
 
 - Two people can have varying moral identities; e.g., one person can consider being compassionate as most important to their moral identity, while other person can consider being honest as most important to their moral identity 
 
@@ -355,23 +360,22 @@ Your "true" self differs from your actual self in a few important ways:
 
 - People with very strong moral identities may be able to resist acting unethically, even when the situation makes it very easy to
   - We are motivated to maintain self-consistency 
+  
 ---
 
-
-# Creating the moral identity scale 
+# The moral identity scale 
 .footnote[Aquino & Reed (2002)]
 
-Pilot studies
 
-.pull-left[
+.pull-left[#### Pilot study
+
 - In order to measure moral identity, Aquino & Reed (2002) first needed to create a list of moral traits
-
 - First, they asked people about qualities that a moral person possess
-
-- They reduce responses down to 9 traits
+- They reduced responses down to 9 traits
 
 ]
-.pull-right[![](images/moral identity traits.JPG)]
+.pull-right[
+![](images/moral identity traits.JPG)]
 
 ???
 In a second pilot study, they asked people about how necessary is it that a moral person possess each trait (from 1 to 5). They used a neutral item (distant) and two negative items (selfish and ruthless) in that study
@@ -379,32 +383,32 @@ In a second pilot study, they asked people about how necessary is it that a mora
 ---
 
 
-# Creating the moral identity scale
+# The moral identity scale
 .footnote[Aquino & Reed (2002)]
-Study 1 
+#### Method (study 1)
 
-To develop the moral identity scale, Aquino and Reed (2002) presented the nine moral traits (e.g., caring, compassionate) and the following prompt
+To develop the moral identity scale, Aquino and Reed (2002) presented the nine moral traits (e.g., caring, compassionate) and the following prompt:
 
-> Listed below are some characteristics that may describe a person [list
+> .smaller[Listed below are some characteristics that may describe a person [list
 of nine traits]. The person with these characteristics could be you or
 it could be someone else. For a moment, visualize in your mind the
 kind of person who has these characteristics. Imagine how that person
 would think, feel, and act. When you have a clear image of what this
-person would be like, answer the following questions.
+person would be like, answer the following questions.]
 
 
 ---
 
-# Creating the moral identity scale
+# The moral identity scale
 .footnote[Aquino & Reed (2002)]
-Study 1 
+#### Method (study 1)
 
 ![](images/moral identity scale.JPG)
 
 ---
-# Creating the moral identity scale
+# The moral identity scale
 .footnote[Aquino & Reed (2002)]
-Study 1 
+#### Method (study 1)
 
 - The researchers analyzed the responses with **principle components analysis** (PCA)
 
@@ -414,29 +418,36 @@ Study 1
 
 ---
 
-# Creating the moral identity scale
+# The moral identity scale
 .footnote[Aquino & Reed (2002)]
-Study 1 
-
+#### Results (study 1)
 
 - In this case, PCA determined a two factor structure 
 
-![](images/cfa moral identity.JPG)
+.smallish-centered-picture2[![](images/cfa moral identity.JPG)]
 
 
 ---
-# Creating the moral identity scale
+# The moral identity scale
 .footnote[Aquino & Reed (2002)]
-Study 1 
-
+#### Results (study 1)
 
 - Factor 1 (**Symbolization**)
   - The extent to which the traits given are reflective of the respondent's actions 
-  - E.g., "I often buy products that communicate the fact that I have these characteristics"
   
+  - E.g., "I often buy products that communicate the fact that I have these characteristics"
+
+---
+# The moral identity scale
+.footnote[Aquino & Reed (2002)]
+#### Results (study 1)
+
 - Factor 2 (**Internalization**)
+
   - The extent to which the traits are central to the respondent's self-concept 
+  
   - E.g., "Being someone with these characteristics is an important part of who I am"
+  
   
 ???
 
@@ -444,32 +455,31 @@ The public vs. the private self
 
 ---
 
-# Predicting self-reported volunteerism
+# The moral identity scale
 .footnote[Aquino & Reed (2002)]
 
-Study 5
-
+#### Method (study 5)
 - Participants were asked if they had volunteered at a local homeless shelter, helped feed the hungry, organized a food drive, mentored troubled youth, and visited patients at a nursing home in the past two years
 
 - They also filled out the moral identity scale
 ---
 
-# Predicting self-reported volunteerism
+# The moral identity scale
 .footnote[Aquino & Reed (2002)]
 
-![](images/volunteerism.JPG)
+#### Results (study 5)
+.smallish-centered-picture2[![](images/volunteerism.JPG)]
 
-.highlight-blue[**Discussion question**]: What did the researchers find? What can we conclude?
+.dq[.smaller[What did the researchers find? What can we conclude?]]
 
 ---
-# Predicting donation behavior
+# The moral identity scale
 .footnote[Aquino & Reed (2002)]
 
-Study 6
-
+#### Method (study 6)
 A high school teacher gave the following instructors to her students:
 
-> For the next 2 days, I will place a box near the front of the class in
+> .smallish[For the next 2 days, I will place a box near the front of the class in
 which you may deposit different food items that I will then donate to
 [the teacher stated the name of a local charity that donates food to the
 needy]. It is entirely up to you whether or not to donate any food
@@ -478,17 +488,21 @@ in the class. You can give as many food items as you want, as long as
 the items are not perishable. This means that you should not donate
 fresh fruits, meats, vegetables, or any food that needs to be frozen.
 Canned foods, prepared foods that can be stored in the cupboard, or
-powdered drink or soup mixes are all fine.
+powdered drink or soup mixes are all fine.]
 
 ---
 
-# Predicting donation behavior
+# The moral identity scale
 .footnote[Aquino & Reed (2002)]
 
-.smaller-picture[![](images/moral identity study 6.JPG)]
+.smallish-centered-picture2[![](images/moral identity study 6.JPG)]
 
-<br><br><br><br><br><br><br><br><br><br><br><Bb>
-.highlight-blue[**Discussion question**]: What did the researchers find? What is different compared to the last finding, and how might we explain it?
+.dq-l[.smaller[What did the researchers find?]]
+
+--
+
+.dq[.smallish[What is different compared to the last finding, and how might we explain the discrepancy?]]
+
 
 ???
 
@@ -501,11 +515,9 @@ Symbolization (public behavior) is associated only with self-report behaviors bu
 
 .footnote[Aquino et al. (2009); Aquino & Kay (2018)]
 
-- The social-cognitive model of moral identity acknowledges that people have many identities
+- The .highlight-blue[social-cognitive model of moral identity] acknowledges that people have many identities
 
-- Which identity/ identities are salient in any given moment is determined by the situation
-
-  - E.g., a "private" self, a "public" self, a "family" self...
+- Which identity/ identities are salient in any given moment is determined by the situation (e.g., a "private" self, a "public" self, a "family" self...)
   
 - Your different identities have different goals and values, so being in different situations yields different selves, and therefore yields different behaviors 
 
@@ -513,36 +525,34 @@ Symbolization (public behavior) is associated only with self-report behaviors bu
 
 ---
 
-# Testing the social-cognitive model
+# The social-cognitive model
 
 .footnote[Aquino et al. (2009)]
 
-Study 1 (method)
+#### Method
 
 - Half of the participants were asked to list as many of the 10 commandments as they could (experimental group) and half of the participants were asked to list the 5 largest cities in the US (control condition)
 
+
+
 ---
 
-# Testing the social-cognitive model
+# The social-cognitive model
 
 .footnote[Aquino et al. (2009)]
 
-Study 1 (method)
+#### Method
+- Participants  read the following scenario:
 
-- Participants then read the following scenario:
-
->Please imagine that you are the brand manager for a breakfast cereal
+>.smallish[Please imagine that you are the brand manager for a breakfast cereal
 company. Recently, you were approached by the American Cancer
 Society (ACS) to initiate a cause-related marketing program. Specifically, ACS would like you to donate 25 cents to a special fund for cancer prevention each time one of your products is purchased.
 According to your research department, adoption of the program is
 likely to cost more than it earns through an incremental sales
 increase. Consequently, IF YOU CHOOSE TO INITIATE THE
 PROGRAM, YOU WOULD BE LESS LIKELY TO EARN A
-YEAR-END BONUS.
+YEAR-END BONUS. *How likely are you to initiate the cause-related marketing program?*]
 
-- Last, they answered:
-
-> "How likely are you to initiate the cause-related marketing program?"
 
 ???
 
@@ -550,17 +560,16 @@ Participants were business students
 
 ---
 
-# Testing the social-cognitive model
+# The social-cognitive model
 
 .footnote[Aquino et al. (2009)]
 
-Study 1 (results)
+#### Results 
+- People who were primed to think about morality by reporting the 10 commandments behaved more pro-socially
 
-- The researchers found that people who were primed to think about morality by reporting the 10 commandments behaved more pro-socially
+- Additionally, being reminded of the 10 commandments had a larger effect on pro-social behavior when *one had a low moral identity internalization score* (i.e., morality is not central to their identity)
 
-- Additionally, being reminded of the 10 commandments had a larger effect on pro-social behavior when one had a low moral identity internalization score (i.e., morality is not central to their identity)
-
-- Similarly, in a follow up study, they found that a tempting situation (to lie in a business negotiation for a bonus) had a larger effect on  pro-social behavior when one had high moral identity internalization scores (i.e., morality is central to their identity)
+- Similarly, in a follow up study, they found that a tempting situation (to lie in a business negotiation for a bonus) had a larger effect on  pro-social behavior when *one had high moral identity internalization scores* (i.e., morality is central to their identity)
 
 ---
 
@@ -568,12 +577,10 @@ Study 1 (results)
 
 - Morality is essential to how we perceive the identity of others
 
-  - We expect moral traits in others to be consistent across time, even as others change in other ways (physical traits, desires, personality)
-  
   - When someone changes in their moral traits (e.g., becomes less honest), we consider them fundamentally different; they aren't acting like their "true self," or they are just not the same person anymore
   
-- The moral identity scale measures how important moral traits are for one's self-concept
-
 - The cognitive-social theory of moral identity posits that we have multiple identities that are salient in different contexts
 
   - Thus, by priming one to think about their *moral self*, we can increase pro-social behavior
+
+.highlight-blue[Next class:] self-concept maintenance  

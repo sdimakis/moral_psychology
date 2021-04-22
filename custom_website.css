@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
 
 
@@ -7,8 +8,7 @@ body {
   font-family: 'Crimson Text', serif;
   font-size: 18px;
 }
-h1{font-family: 'Crimson Text', serif;
-}
+h1{font-family: 'Crimson Text', serif;}
 h2{font-family: 'Crimson Text', serif;}
 
 

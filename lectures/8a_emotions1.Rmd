@@ -1,5 +1,5 @@
 ---
-title: "Condemning and praising emotions"
+title: ".smallish[Condemning and praising emotions]"
 subtitle: "Week 8 - Moral Psychology"
 output:
   xaringan::moon_reader:
@@ -8,15 +8,14 @@ output:
 
 # Week 8
 
-This week, we will be discussing four families of moral emotions: condemning-other, praising-other, suffering-other, and self-conscious emotions.
+This week, we will be discussing the four families of moral emotions: condemning-other, praising-other, suffering-other, and self-conscious emotions.
 
-.highlight-gray[In week 8:]
+.highlight-blue[In week 8:]
 
 - **What makes an emotion moral?**
-
 - **What emotions are characteristic of witnessing a moral violation? A heroic moral action?**
-
 - What emotions are characteristic of committing a moral violation? Of witnessing suffering?
+
 ---
 # Dog abandoned by Tesla owner
 <br>
@@ -133,7 +132,7 @@ Other-condemning emotions are felt when others violate a moral or social norm. O
 
 ---
 
-# Other-condemning family: anger
+# Anger
 .footnote[Haidt (2003)]
 .pull-left[
 ####Elicitors
@@ -159,14 +158,14 @@ Other-condemning emotions are felt when others violate a moral or social norm. O
 Anger is an interesting emotion because often it causes to act exactly the opposite of pro-socially. Can you think of an example of when it would be considered a moral emotion and an example of when it wouldn't be considered a moral emotion?
 ---
 
-# Other-condemning family: disgust
+# Disgust
 .footnote[Haidt (2003)]
 .pull-left[
 ####Elicitors
-- Disgust is triggered by both physical objects (e.g., a moldy piece of bread) and by social/moral violations
+ .smaller[- Disgust is triggered by both physical objects (e.g., a moldy piece of bread) and by social/moral violations
 
-- Disgust is particularly triggered when someone violates rules about what you can and cannot do to/with a human body (e.g., cannibalism, incest, necrophilia)
-]
+- Disgust is  triggered when someone violates rules about what you can and cannot do to/with a human body (e.g., cannibalism, incest, necrophilia)
+]]
 
 --
 
@@ -183,7 +182,7 @@ Anger is an interesting emotion because often it causes to act exactly the oppos
 E.g., hitler's sweater
 ---
 
-# Other-condemning family: contempt
+# Contempt
 .footnote[Haidt (2003)]
 .pull-left[
 ####Elicitors
@@ -268,19 +267,17 @@ The anthropologist Richard Schweder and his colleagues (1997) proposed a way to 
 .right-column-med[
 ![](images/cad hypothesis faces.JPG)]
 
-.left-column-med[
-Autonomy
-> A PERSON is hearing about a man who comes home drunk
+.left-column-med[#### Activity
+
+.smaller[- A PERSON is hearing about a man who comes home drunk
 and beats his wife.
 
-Community
-> A PERSON is hearing about someone who doesn't go to 
+- A PERSON is hearing about someone who doesn't go to 
 his/her own mother's funeral.
 
-Divinity
->  A PERSON is hearing about a 70-year-old male who has
+-  A PERSON is hearing about a 70-year-old male who has
 sex with a 17-year-old female.
-
+]
 ]
 
 
@@ -288,6 +285,21 @@ sex with a 17-year-old female.
 ???
 
 Choose which face the person who hears about the moral violation would make.
+
+---
+# Other-condemning family
+.footnote[Rozin et al. (1999)]
+
+#### 
+- A PERSON is hearing about a man who comes home drunk
+and beats his wife. .red[**Ethic of autonomy/ anger**]
+
+- A PERSON is hearing about someone who doesn't go to 
+his/her own mother's funeral. .red[**Ethic of community/ contempt**]
+
+-  A PERSON is hearing about a 70-year-old male who has
+sex with a 17-year-old female. .red[**Ethic of divinity/ disgust**]
+
 
 
 ---
@@ -345,7 +357,7 @@ Within a culture, actions that a culture considers violates the autonomy ethics 
 #Other-condemning family
 .footnote[Tannenbaum et al. (2011)]
 
-#### Act-person dissociation
+#### Method
 
 Giving participants two variations of the following scenario reveals an **act-person dissociation**, such that people think that beating up one's girlfriend is a worse moral transgression, but beating up one's girlfriend's cat is a stronger indicator of *poor moral character*
 
@@ -358,9 +370,8 @@ with rage and beats up his girlfriend/ his girlfriend's cat.
 #Other-condemning family
 
 .footnote[Giner-Sorolla & Chapman (2017)]
-#### Evidence for the CPM (component process model) of moral judgment and emotion
 
-Method
+#### Method
 
 Participants read each scenario and were asked to:
 
@@ -373,9 +384,8 @@ Participants read each scenario and were asked to:
 
 #Other-condemning family
 .footnote[Giner-Sorolla & Chapman (2017)]
-#### Evidence for the CPM (component process model) of moral judgment and emotion
 
-Results
+#### Results
 
 .pull-right[![](images/disgust cpm.JPG)]
 
@@ -394,7 +404,7 @@ Other-praising emotions are felt when we observe someone doing a good deed. Othe
 
 ---
 
-# Other-praising family: gratitude
+# Gratitude
 .footnote[Haidt (2003)]
 .pull-left[
 ####Elicitors
@@ -410,7 +420,7 @@ Other-praising emotions are felt when we observe someone doing a good deed. Othe
 
 ---
 
-# Other-praising family: elevation
+# Elevation
 .footnote[Haidt (2003)]
 .pull-left[
 ####Elicitors
@@ -431,20 +441,20 @@ Other-praising emotions are felt when we observe someone doing a good deed. Othe
 
 ---
 
-#  Other-praising family: elevation
+#  Elevation
 
 #### Homosexuality 
 .footnote[Lai, Haidt, & Nosek (2014)]
 - Some oppose homosexuality on the basis that it a violation of the divinity ethnic, or the purity moral foundation
-  - I.e., it's wrong because they personally believe it violates rules about what a man should do with their body/ they find gay sex disgusting 
+  - I.e., it's wrong because they personally believe it violates rules about what a man should do with his body/ they find gay sex disgusting 
 
 - Since elevation is the theoretical opposite of disgust, researchers wanted to see if experiencing elevation would reduce prejudice against gay men 
 
 ---
-#  Other-praising family: elevation
+#  Elevation
 .footnote[Lai, Haidt, & Nosek (2014)]
 
-Method
+#### Method
 
 - Participants watched a video meant to elicit either elevation, amusement, or neutral affect (control condition)
 
@@ -452,10 +462,9 @@ Method
 
 ---
 
-#  Other-praising family: elevation
+#  Elevation
 .footnote[Lai, Haidt, & Nosek (2014)]
 
-<br>
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j7O9DlCgIPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -463,20 +472,19 @@ Method
 https://www.youtube.com/watch?v=j7O9DlCgIPA
 
 ---
-#  Other-praising family: elevation
+#  Elevation
 .footnote[Lai, Haidt, & Nosek (2014)]
 
 .pull-left[
-Results
+#### Results
 - The researchers found a small effect of the elevation videos on reducing prejudice, but only for sexuality (not racial attitudes)
 
 ]
 
 .pull-right[Explicit prejudice
-![](images/elevation explicit.JPG)
-<br><br>
-Implicit prejudice
-![](images/elevation implicit.JPG)
+.smallish-centered-picture2[![](images/elevation explicit.JPG)]
+<br>Implicit prejudice
+.smallish-centered-picture2[![](images/elevation implicit.JPG)]
 ]
 
 
@@ -485,28 +493,21 @@ Implicit prejudice
 Cohen's d is from t-test between control condition and elevation condition 
 ---
 
-#  Other-praising family: elevation
+#  Elevation
 .footnote[Lai, Haidt, & Nosek (2014)]
 
 .pull-left[
-Results
+#### Discussion
 - The researchers found a small effect of the elevation videos on reducing prejudice, but only for sexuality (not racial attitudes)
 
-Discussion questions
-
-- Would an integral affect induction produce stronger effects (as opposed to incidental affect)? 
-
-- Why might elevation reduce sexuality prejudice but not racial prejudice? 
 ]
 
-.pull-right[Explicit prejudice
-![](images/elevation explicit.JPG)
-<br><br>
-Implicit prejudice
-![](images/elevation implicit.JPG)
+.pull-right[
+
+.dq-c[Would an integral affect induction produce stronger effects (as opposed to incidental affect)? ]
+
+.dq-c[Why might elevation reduce sexuality prejudice but not racial prejudice?]
 ]
-
-
 ---
 
 # Other-praising family
@@ -533,10 +534,14 @@ Implicit prejudice
 ---
 # Summary
 
+.smaller[
 - When people witness a moral violation, they tend to feel anger, contempt, and/or disgust
 
-  - The CAD-triad hypothesis states that we feel contempt in response to community ethic violations, anger in response to autonomy ethic violations, and disgust in response to divinity ethic violations
-  
-  - Alternatively, the CPM model proposes that disgust arises whenever there is a judgment of moral character
+  - The CAD-triad hypothesis states that we feel contempt when witnessing community violations, anger for autonomy, and disgust for divinity
+  - The CPM model proposes that disgust arises whenever there is a negative judgment of moral character
 
 - Whereas moral emotions in the condemning-other family lead us to avoid and condemn others and their actions, emotions in the praising-other family lead us directly towards cooperation and pro-social actions
+
+.highlight-blue[Next class:] suffering-other and self-conscious emotions
+
+]

@@ -1,5 +1,5 @@
 ---
-title: "Moral convinctions and sacred values"
+title: "Moral convictions"
 subtitle: "Week 9 - Moral Psychology"
 output:
   xaringan::moon_reader:
@@ -8,22 +8,19 @@ output:
 
 # Week 9
 
-This week, we will be discussing religious and otherwise moral convictions and values
+This week, we will be discussing religious and otherwise moral convictions and sacred values.
 
-.highlight-gray[In week 9:]
+.highlight-blue[In week 9:]
 
 - **What qualifies as a moral conviction or a sacred value?**
-
 - **How does an attitude become a moral imperative, rather than just a convention or preference? **
-
 - Do people perceive atheists as less moral than theists?
-
 - Does religion make us behave more morally?
 
 ---
 
 
-# The Domain Theory of Attitudes
+# .smaller[The Domain Theory of Attitudes]
 .footnote[Skitka (2021); Nucci (2001)]
 
 - An **attitude** is a positive or negative evaluation of an object/ subject that has affective, cognitive, and behavioral components
@@ -38,18 +35,18 @@ This week, we will be discussing religious and otherwise moral convictions and v
 
 
 ---
-# The Domain Theory of Attitudes
+# .smaller[The Domain Theory of Attitudes]
 .footnote[Skitka (2021)]
 
 .pull-right[![](images/domain theory of attitudes.JPG)]
 
 
-.pull-left[
+.pull-left[.smaller[
 - **Preference domain**: attitudes that are perceived as personal preferences (e.g., pickles are bad) 
 
 - **Convention domain**: attitudes dictated by cultural norms/ what others believe (e.g., driving on the left side of the road is bad) 
 
-- **Moral imperative domain**: attitudes that are experienced as universal (e.g., killing is bad)]
+- **Moral imperative domain**: attitudes that are experienced as universal (e.g., killing is bad)]]
 
 ???
 
@@ -60,7 +57,7 @@ Note that the domains overlap, suggesting that different people may not moralize
 # Moral convinctions
 .footnote[Skitka (2021)]
 
-Attitudes that fall under the **moral imperative domain** are called *moral convictions* and they have unique properties
+Attitudes that fall under the **moral imperative domain** are called *moral convictions* and they have unique properties, including:
 
 - Perceived Objectivity and Universality
 
@@ -74,10 +71,8 @@ Attitudes that fall under the **moral imperative domain** are called *moral conv
 
 ---
 
-# Moral convictions 
+# Perceived Objectivity
 .footnote[Skitka (2021)]
-
-#### Perceived Objectivity and Universality
 
 - Moral convictions are perceived as **true facts** that **transcend time and space**
 
@@ -89,11 +84,8 @@ Attitudes that fall under the **moral imperative domain** are called *moral conv
   
 ---
 
-# Moral convictions
+#Authority/Peer Independence
 .footnote[Skitka (2021)]
-
-####Authority and Peer Independence
-
 
 - Moral convictions are independent of the attitudes of the establishment, convention, rules, or authorities
 
@@ -103,7 +95,7 @@ Attitudes that fall under the **moral imperative domain** are called *moral conv
 
 ---
 
-# Moral convictions
+#Authority/Peer Independence
 .footnote[Asch (1956)]
 
 ####Asch's Conformity Study
@@ -112,72 +104,66 @@ Attitudes that fall under the **moral imperative domain** are called *moral conv
 
 
 ---
-# Moral convictions
+#Authority/Peer Independence
 .footnote[Aramovich et al. (2012)]
 
-####Authority and Peer Independence
+#### Method
 
-Method 
+- Participants arrived at the lab with a group of strangers and were told that they would be sharing opinions in their group about the use of torture 
 
-.pull-left[
-- Participants showed up to the lab in small groups and were told that they would be sharing opinions in their group about the use of torture online and then in person
-
-- "To what extent does your attitude about whether stress interrogation techniques should be allowed reflect your core moral values and convictions?"]
-
---
-
-.pull-right[
-
-`r fontawesome::fa("desktop", fill = "gray")` Participants talked in chat rooms with people that they thought were their group members
-
-- No social support condition vs. social support condition
+- They were asked to what extent their attitude towards stress interrogation techniques reflect their core moral values ]
 
 
-`r fontawesome::fa("users", fill = "gray")` Participants talked in person with actual group members
-]
+---
+
+#Authority/Peer Independence
+.footnote[Aramovich et al. (2012)]
+
+#### Method
+- Participants first talked in chat rooms with people that they thought were their group members (`r fontawesome::fa("desktop", fill = "gray")`)
+
+  - **No social support condition:** Their group mates strongly supported, moderately supported, slightly supported, and strongly supported the use of torture, and they reported last
+  - **Social support condition:** Same as social support condition except slight opposition instead of slight support
+
+
+- Participants then talked in person with actual group members (`r fontawesome::fa("users", fill = "gray")`)
+
 
 ???
 
-No social support condition: Their group mates strongly supported, moderately supported, slightly supported, and strongly supported the use of torture, and they reported last
-
-Social support condition: slight opposition instead of slight support
 
 - Participants always gave their opinion last in the computer condition 
 
 ---
 
-# Moral convictions
+#Authority/Peer Independence
 .footnote[Aramovich et al. (2012)]
-
-####Authority and Peer Independence
-
-Results
-.pull-left[
-
+.pull-left[#### Results
+.smaller[
 - Consistent with other conformity studies, participants tended to conform to the beliefs of the group after learning about their opinions (see right)
 
 - However, people with **strong moral convictions** were less likely to conform, suggesting that moral convictions are peer independent 
-]
+]]
 .pull-right[![](images/torture convictions study.png)]
 
----
-# Moral convictions
 
-#### Ends Justify the Means Thinking
+---
+# Ends Justify the Means
+
 .footnote[Skitka (2021)]
 
 .pull-left[- Moral convictions lead people to tolerate any means (including violence) if they think it will lead to a morally preferred ends
 
   - A system (e.g., the legal system, judicial system, election) is only fair when it leads to one's own moral conclusions] 
 
-.pull-right[![](images/insurrection.jfif)]
+.pull-right[
+![](images/insurrection.jfif)]
 ---
 
-# Moral convictions
+# Ends Justify the Means
 
-#### Ends Justify the Means Thinking
 .footnote[Skitka & Houston (2001)]
-Method
+#### Method
 
 - Participants read about a burglary that lead to the death of a young married couple
 
@@ -197,13 +183,12 @@ Procedural propriety - in proper condition, the informant who gave the tip was n
 ---
 
 
-# Moral convictions
+# Ends Justify the Means
 
-#### Ends Justify the Means Thinking
 .footnote[Skitka & Houston (2001)]
-Results
 
-.pull-left[
+
+.pull-left[#### Results
 - When the defendant was guilty or innocent, it did not matter whether or not there was a proper trial
 
 - A fair trial only mattered when whether the defendant was guilty or innocent was *ambiguous*
@@ -214,11 +199,10 @@ Results
 
 ---
 
-# Moral convictions
+# Ends Justify the Means
 
-#### Ends Justify the Means Thinking
 
-Discussion questions
+####Discussion 
 
 1. What would we have observed if people cared about procedural justice? 
 
@@ -232,9 +216,8 @@ suicide bombers
 
 ---
 
-# Moral convictions
+# .smaller[Unwillingness to compromise]
 
-#### Intolerence and unwillingness to compromise
 .footnote[Skitka (2021)]
 
 - When someone has a moral conviction, they believe anyone who doesn't hold the conviction is wrong, or even immoral
@@ -244,9 +227,8 @@ suicide bombers
 - People are very unwilling to compromise on their moral conviction 
 ---
 
-# Moral convictions
+# Emotional
 
-#### Emotional
 .footnote[Skitka (2021); Skitka & Wisneski (2011)]
 
 - Moral convictions can cause really strong emotions
@@ -256,7 +238,7 @@ suicide bombers
 ---
 # Moral convictions
 
-Discussion questions
+#### Discussion 
 
 1. Is it good that we have moral convictions? What are the upsides and downsides of moral convictions?
 
@@ -279,7 +261,7 @@ Consider the following positions on abortion
 
 --
 
-.highlight-gray[How does an attitude become a "moral conviction"?] 
+.dq[How does an attitude become a "moral conviction"?] 
 
 ---
 
@@ -344,10 +326,10 @@ Note that this model suggests that an issue is NOT either moralized or not moral
 
 .footnote[Feinberg et al. (2019)]
 
-Method
+#### Method
 - Most Americans do not think of eating meat as a moral issue but rather a personal preference; others do consider it a moral issue, that animals are raised in inhumane conditions just to be slaughtered 
 
-- Feinberg et al. (2019) exposed students to how animals suffer from human meat consumption across a semester 
+- Researchers exposed students to how animals suffer from human meat consumption across a semester 
 
 - At three time points in the semester, the researchers collected attitudes towards meat consumption
 
@@ -357,7 +339,7 @@ Method
 
 .footnote[Feinberg et al. (2019)]
 
-Measures
+#### Measures
 
 **Moralization** “To what extent is your position on eating meat are a reflection of your core moral beliefs and convictions?
 
@@ -372,7 +354,7 @@ Measures
 
 .footnote[Feinberg et al. (2019)]
 
-Measures
+#### Measures
 
 **Suffering** “How much do you believe eating meat causes suffering to animals? By “meat” we mean any animal parts whether from a cow, pig, chicken, fish, or any other animal.”
 
@@ -385,15 +367,15 @@ Measures
 
 .footnote[Feinberg et al. (2019)]
 
-.pull-left[Results
-
+.left-column-med[####Results
+.smaller[
 - Meat emotions, animal emotions, moral piggybacking, and suffering  all positively predicted moralization
 
 - Hedonic motivations negatively predicted moralization
-
-- A cluster analysis showed that there were three types of people: existing moralizers (n = 40), moralizers (n = 48), and unchanged (n = 47)
+- A cluster analysis showed that there were three types of people: existing moralizers (n = 40), moralizers (n = 48), and unchanged (n = 47)]
 ]
-.pull-right[![](images/moralization feinberg 2019 2.JPG)]
+.right-column-med[
+![](images/moralization feinberg 2019 2.JPG)]
 
 ???
 
@@ -401,33 +383,32 @@ No demographic variables (gender, age, and ethicity) predicted moralizers
 
 ---
 
-# Exercise  
+# Activity  
 .footnote[Tetlok (2003)]
 
-.pull-left[Consider the following:
-
+**Instructions**: Answer the following questions.
 - How much money is one of your kidneys worth?
 
 - How much money is your life worth?
 
 - Would you pay $1000 if it would save your best friend's life?
 
-- Should you discriminate on the basis of race, gender identity, or sexual orientation if you find that it would be more profitable for your company?]
+- Should you discriminate on the basis of race, gender identity, or sexual orientation if you find that it would be more profitable for your company?
 
---
+---
 
-.pull-right[
-**Sacred values**
+# Sacred values
+
 > "Sacred values (are)... values that
 a moral community treats as possessing transcendental
 significance that precludes comparisons, trade-offs, or
-indeed any mingling with secular values." - Tetlok (2003)]
+indeed any mingling with secular values." .right[-Philip Tetlok (2003)]
 
 
 
 ---
 
-# The Sacred Value Protection Model
+# .smallish[The Sacred Value Protection Model]
 .footnote[Tetlok (2003); Tetlok et al. (2000)]
 
 The SVPM predicts three features of sacred values
@@ -441,9 +422,9 @@ The SVPM predicts three features of sacred values
 
 ---
 
-# The Sacred Value Protection Model
+# .smallish[The Sacred Value Protection Model]
 .footnote[Tetlok (2003); Tetlok et al. (2000)]
-**Moral outrage** 
+#### Moral outrage
 
 When an individual learns that someone has traded a secular value (e.g., money) for a sacred value (e.g., love), they experience *moral outrage*
 
@@ -452,10 +433,10 @@ When an individual learns that someone has traded a secular value (e.g., money) 
 
 ---
 
-# The Sacred Value Protection Model
+# .smallish[The Sacred Value Protection Model]
 .footnote[Tetlok (2003); Tetlok et al. (2000)]
 
-**Moral cleansing**
+#### Moral cleansing
 
 When an individual merely considers trading a sacred value for a secular value, they are motivated to symbolically cleanse and reaffirm their moral values 
 
@@ -464,11 +445,11 @@ When an individual merely considers trading a sacred value for a secular value, 
 ---
 
 
-# The Sacred Value Protection Model
+# .smallish[The Sacred Value Protection Model]
 .footnote[Tetlok (2003); Tetlok et al. (2000)]
 
 
-**Reality-constraint hypothesis**
+#### Reality-constraint hypothesis
 
 Upholding a sacred value is inevitably restricted by reality
 
@@ -497,7 +478,7 @@ Upholding a sacred value is inevitably restricted by reality
 # Sacred Values
 .footnote[Tetlok et al. (2000)]
 
-Method
+#### Method
 
 - Participants read about Robert, who either had to choose between the two boys (tragic trade-off condition) or between Johnny and the hospital (taboo trade-off condition)
 
@@ -511,14 +492,15 @@ Method
 .footnote[Tetlok et al. (2000)]
 
 
-.pull-left[
-Results
-
+.left-column-med[
+#### Results
+.smaller[
 - In the tragic trade-off condition (choosing to save one of the two boys), individuals were more outraged when the decision was *easy*
 
-- Outrage did not depend on whether the decision maker ultimately chose to save Johnny (the 5 year old boy) or the 6 year old boy
+- Outrage did not depend on whether the decision maker ultimately chose to save Johnny (the 5 year old boy) or the 6 year old boy]
 ]
-.pull-right[![](images/sacred values 1.png)]
+.right-column-med[
+![](images/sacred values 1.png)]
 
 ---
 
@@ -526,13 +508,14 @@ Results
 # Sacred Values
 .footnote[Tetlok et al. (2000)]
 
-.pull-left[
-Results
-- Individuals were more outraged when the decision maker chose the secular value (the hospital) over the sacred value (saving Johnny)
+.left-column-med[
+#### Results
+.smaller[- Individuals were more outraged when the decision maker chose the secular value (the hospital) over the sacred value (saving Johnny)
 
-- Individuals were more outraged when choosing Johnny over the hospital was a difficult decision than when it was an easy decision, suggesting that merely *considering* the taboo option provoked outrage
+- Individuals were more outraged when choosing Johnny over the hospital was a difficult decision than when it was an easy decision, suggesting that merely *considering* the taboo option provoked outrage]
 ]
-.pull-right[![](images/sacred values 2.png)]
+.right-column-med[
+![](images/sacred values 2.png)]
 
 ---
 # Sacred Values
@@ -541,10 +524,10 @@ Results
 **Research questions:** How difficult are taboo, tragic, and routine trade-offs? How much negative affect do they produce? 
 
 
-Method 
+#### Method 
 - Participants read a scenario with either a taboo, tragic, or routine trade-off
 
-- They, they rated how difficult the decision is and how strongly they are experiencing negative emotions
+- Then, they rated how difficult the decision is and how strongly they are experiencing negative emotions
 
 
 
@@ -580,7 +563,7 @@ you to select one of them. Company A offers you an annual salary of CHF 80,000 [
 
 
 .pull-left[
-Results
+#### Results
 
 - Tragic trade-offs were the most difficult decisions and produced the most negative affect
 
@@ -597,3 +580,5 @@ Results
 - Sacred values produce moral outrage when they are traded for secular values like money
 
 - It's difficult and emotional to decide between two sacred values, but easy to decide between a sacred value and a secular value
+
+.highlight-blue[Next class:] Religion and morality

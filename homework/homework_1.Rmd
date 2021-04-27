@@ -3,6 +3,7 @@ title: "<b>Homework 1</b>"
 output:
   html_document:
     theme: cosmo
+    css: table.css
 ---
 
 ***Instructions***: For this assignment, you will complete two questionnaires that assess ones moral values, the Moral Foundations Questionnaire and the Moral Motives Scale. Upload your answers to questions 3 and 4 to Canvas by Sunday at 11:59pm. 

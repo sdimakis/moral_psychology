@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+
+
+
+body {
+  font-family: 'Crimson Text', serif;
+  font-size: 18px;
+}
+h1{font-family: 'Crimson Text', serif;
+
+}
+h2{font-family: 'Crimson Text', serif;
+      background-color: #e6f0ff;
+
+}
+
+
+
+/* define avatar*/
+
+.avatar {
+  vertical-align: middle;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+ /* background of navbar is white*/
+
+.navbar-custom {
+  background-color: white;
+  padding-top: 15px;
+}
+
+ /* navbar buttons*/
+.navbar-custom .navbar-nav>li>a {
+  color: black;
+  font-size: 15px;
+  font-family: 'Crimson Text', serif;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 3px 1em 3px;
+  border-radius: 8px;
+  margin-right: 8px;
+}
+
+ /* navbar buttons blue when clicked on*/
+.navbar-custom .navbar-nav>.active>a {
+  background-color: #e6f0ff;
+  border-color: black;
+
+}
+
+
+ /* navbar buttons blue when hovered over*/
+.navbar-custom .navbar-nav>li>a:hover {
+  background-color: #ededed;
+  border: 1px solid black;
+
+}
+
+/* NAVBAR MENU*/
+
+ /* navbar menu rounded corners*/
+.navbar-custom .dropdown-menu {
+  border-radius: 10px;
+  min-width: 3px;
+  border: white;
+}
+
+ /* navbar menu text*/
+.navbar-custom .dropdown-menu>li>a {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Crimson Text', serif;
+}
+
+ /* navbar menu text when hovered over*/
+.navbar-custom .dropdown-menu>a:hover {
+  font-weight: bold;
+  font-size: 15px;
+  background-color: #e6f0ff;
+}
+
+.navbar-custom .dropdown-menu>a:hover .navbar-nav:a{ 
+  background-color: #3e8e41;
+}
+
+.navbar-custom>li.active>a, .navbar-nav>li.active>a:hover, .navbar-nav>li.active>a:focus {
+    color: #000000;
+    background-color: #e6f0ff;
+}
+
+
+
+ /* navbar menu gray when hovered over*/
+.navbar-custom .dropdown-menu>li>a:hover {
+  background-color: #ededed;
+  color: black;
+  font-weight: bold;
+  border-color: black;
+
+
+}
+
+
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+    border: 1px solid black;
+  
+}
+
+  
+ /* TOC black 12px font*/
+
+.list-group-item {
+  color: black;
+  font-size: 15px;
+
+}
+
+ /* TOC gray when clicked on*/
+
+.list-group-item.active {
+  background-color: #e6f0ff;
+  color: black;
+
+}
+
+ /* TOC blue highlight when hover*/
+
+.list-group-item:hover, 
+.list-group-item.active:hover {
+  color: black;
+  background-color: #ededed;
+
+}
+
+#TOC {
+  border: 1px solid black;
+
+}
+
+
+/* UNIQUE to tables!! */
+
+
+
+
+.table{
+width: 1px;
+white-space: nowrap;
+}
+
+/* LINKS */
+
+/* unvisited link */
+a:link {
+  color: black;
+
+}
+
+/* unvisited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  text-decoration: none;
+  background-color: #ffe5e8;
+
+}
+
+
+
+
+.apa-reference {
+  padding-left: 36px;
+  text-indent: -36px;
+}
+
+
+.nav-pills>li {
+    background: white;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.nav-pills>li>a {
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 3px 1em 3px;
+
+
+
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+    color: black;
+    background-color: #eee5ff;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 3px 1em 3px;
+
+}
+
+.navbar-brand {
+display: none;
+}
+

@@ -5,4 +5,18 @@ output:
     theme: cosmo
 ---
 
-Instructions TBD.
+***Instructions***: For this assignment, you will complete two questionnaires that assess ones moral values, the Moral Foundations Questionnaire and the Moral Motives Scale. Upload your answers to questions 3 and 4 to Canvas by Sunday at 11:59pm. 
+
+1. Download [this](extra/HW1.docx) file and follow the instructions to take the Moral Foundations Questionnaire and the Moral Motives Scale.
+
+2. Calculate your scores with either [this](extra/hw1_scoresheet.xlsx) excel spreadsheet or  [this](https://docs.google.com/spreadsheets/d/1_EIxlBHgUpG2xh-bq0VIvqOq-fxPdwEu10x-gPHO2z8/edit#gid=0) Google spreadsheet. If you use the Google spreadsheet, I recommend clicking file -> make a copy so that you are not using the main copy to calculate your scores.
+
+3. The Moral Foundations Questionnaire 
+    * Paste your scores for each of the five moral foundations. 
+    * What foundations do you most strongly endorse? Are there any that you don't endorse at all?
+    * Do you think that this is a good measurement of the moral foundations? Why or why not? You may want to look at your reading for the week to answer this question. 
+  
+4. The Moral Motives Scale
+    * Paste your scores for each of the four moral motives.
+    * Which motives do you most strongly endorse? Are there any that you don't endorse at all?
+    * Do you think that the Moral Foundations Questionnaire or the Moral Motives scale did a better job at representing your moral values? Make sure to justify your answer.

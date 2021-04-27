@@ -1,8 +1,26 @@
 ---
-title: "<b>Final paper</b>"
+title: "<b>Term paper</b>"
 output:
   html_document:
     theme: cosmo
 ---
 
-Instructions TBD.
+The purpose of the final paper is to learn about a moral psychology research topic that interests you but that we did not fully explore in class. 
+
+1.  Choose a research topic from the following choices. I've added a suggested initial reading to get you started. If you have your own idea for a research topic, send me an e-mail, and I can help you refine it and choose some initial readings. 
+
+
+    * Morality and psychopathy
+    
+    * Moral forecasting
+    
+    * Tainted altruism
+    
+    * Vegetarianism/ moralizing animals
+    
+    * The morality of political libertarians
+    
+    * Creativity and dishonesty
+  
+    * Moral licensing 
+    

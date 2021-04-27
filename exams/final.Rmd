@@ -1,26 +1,67 @@
 ---
 title: "<b>Term paper</b>"
 output:
-  html_document:
+  html_document: 
     theme: cosmo
+    toc: yes
+    toc_float: yes
+    css: table.css
 ---
 
-The purpose of the final paper is to learn about a moral psychology research topic that interests you but that we did not fully explore in class. 
+The purpose of the final paper is to learn about a moral psychology research topic that interests you but we were not able to fully explore in class. You will choose a topic, research it further, and write up a report.
 
-1.  Choose a research topic from the following choices. I've added a suggested initial reading to get you started. If you have your own idea for a research topic, send me an e-mail, and I can help you refine it and choose some initial readings. 
+# Choose a research question
+
+Choose a research question from the following choices. I've added suggested initial readings to get you started. If you have your own idea for a research question, send me an e-mail or come talk to me about it in office hours, and I can help you refine it and choose some initial readings. 
+
+    * **How do psychopaths make moral decisions? **
+[Cima et al. (2012)](final_readings/Cima_2010.pdf);
+[Bartels & Pizarro (2011)](final_readings/Bartels_2011.pdf);
+[Young et al. (2012)](final_readings/Young_2012.pdf)
+    
+    * **Are creative people more likely to be dishonest?**
+[Gino & Ariely (2011)](final_readings/Gino_2011.pdf);
+[Gino & Wiltermuth (2014)](final_readings/Gino_2014.pdf)
+    
+    * **How do we raise children to be moral?**
+[Lee et al. (2014)](final_readings/Lee_2014.pdf);
+[Chernyak & Kushnir (2013)](final_readings/Chernyak_2013.pdf)
+    
+    * **Moral forecasting: are we good at predicting our moral decisions?** 
+[Teper, Inzlicht, & Page-Gould (2011)](final_readings/Teper_2011.pdf);
+[Bostyn, Sevenhant, & Roets (2018)](final_readings/Bostyn_2018.pdf)
+
+    * **Tainted altruism: how do we percieve someone who does altruistic behavior with ulterior motives? **
+[Newman & Cain (2014)](final_readings/Newman_2014.pdf);
+[Barasch et al. (2014)](final_readings/Barasch_2014.pdf)
+
+    * **Does believing in God make us good or bad? **
+[Shariff & Norenzayan (2011)](final_readings/Shariff_2011.pdf);
+[Jackson & Gray (2019)](final_readings/Jackson_2019.pdf)
+
+    * **What factors increase or decrease moral hypocrisy? **
+[Lammers, Stapel, & Galinsky (2010)](final_readings/Lammers_2010.pdf);  
+[Valdesolo & DeSteno (2007)](final_readings/Valdesolo_2007.pdf)
+
+    * **Why do some people become vegetarians/ vegans?**
+[Rozin, Markwith, & Stoess (1997)](final_readings/Rozin_1997.pdf);
+[Feinberg et al. (2019)](final_readings/Feinberg_2019.pdf);
+[Bratanova, Loughan, & Gatersleben (2012)](final_readings/Bratanova_2012.pdf)
+
+    * **Prosocial lying: when is lying permissible, or even preferred?**
+[Levine & Schweitzer](final_readings/Levine_2014.pdf);
+[Levine & Gomez (2020)](final_readings/Levine_2020.pdf)
+
+    * **Moral contagion: are moral ideas and moral behavior "contagious"? **
+[Brady et al. (2020)](final_readings/Brady_2020.pdf);
+[Schnall, Roper, & Fessler (2011)](final_readings/Schnall_2011.pdf);
+[Eskine, Novreske, & Richards (2013)](final_readings/Eskine_2013.pdf)
+
+# Outline
 
 
-    * Morality and psychopathy
-    
-    * Moral forecasting
-    
-    * Tainted altruism
-    
-    * Vegetarianism/ moralizing animals
-    
-    * The morality of political libertarians
-    
-    * Creativity and dishonesty
-  
-    * Moral licensing 
-    
+# Final draft
+
+
+
+

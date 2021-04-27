@@ -8,18 +8,20 @@ output:
     css: table.css
 ---
 
-The purpose of the final paper is to learn about a moral psychology research topic that interests you but we were not able to fully explore in class. You will choose a topic, research it further, and write up a report.
+The purpose of the term paper is to learn about a moral psychology research topic that interests you but we were not able to fully explore in class. For this assignment, you will choose a research question, find and read research pertaining to the question, and write up a report about what you find. You will be working on this paper over the course of the term through your homework assignments.
 
-# Choose a research question
+# Outline (Homework 5)
 
-Choose a research question from the following choices. I've added suggested initial readings to get you started. If you have your own idea for a research question, send me an e-mail or come talk to me about it in office hours, and I can help you refine it and choose some initial readings. 
+The purpose of the outline is to help organize your paper and to get some feedback on your topic before you start writing. Your outline should not exceed one page double spaced. There is no minimum length, although the more detail you give in the outline, the more feedback you will receive at this stage. Your outline should contain three parts:
+
+1. Choose one of the following research questions. I've added suggested initial readings to get you started. If you have your own idea for a research question, send me an e-mail or come talk to me about it in office hours, and I can help you refine it and choose some initial readings. 
 
     * **How do psychopaths make moral decisions? **
 [Cima et al. (2012)](final_readings/Cima_2010.pdf);
 [Bartels & Pizarro (2011)](final_readings/Bartels_2011.pdf);
 [Young et al. (2012)](final_readings/Young_2012.pdf)
     
-    * **Are creative people more likely to be dishonest?**
+    * **Why are creative people more likely to be dishonest?**
 [Gino & Ariely (2011)](final_readings/Gino_2011.pdf);
 [Gino & Wiltermuth (2014)](final_readings/Gino_2014.pdf)
     
@@ -49,7 +51,7 @@ Choose a research question from the following choices. I've added suggested init
 [Bratanova, Loughan, & Gatersleben (2012)](final_readings/Bratanova_2012.pdf)
 
     * **Prosocial lying: when is lying permissible, or even preferred?**
-[Levine & Schweitzer](final_readings/Levine_2014.pdf);
+[Levine & Schweitzer (2014)](final_readings/Levine_2014.pdf);
 [Levine & Gomez (2020)](final_readings/Levine_2020.pdf)
 
     * **Moral contagion: are moral ideas and moral behavior "contagious"? **
@@ -57,11 +59,55 @@ Choose a research question from the following choices. I've added suggested init
 [Schnall, Roper, & Fessler (2011)](final_readings/Schnall_2011.pdf);
 [Eskine, Novreske, & Richards (2013)](final_readings/Eskine_2013.pdf)
 
-# Outline
+2. Read or skim the initial readings for your topic. Come up with a single sentence **thesis** for your paper, which will be an "answer" to the question. E.g., if your question is "does believing in God make us good or bad?", your answer may be something like "a belief in God primarily makes us good," "a belief in God only makes us good when X, Y, Z conditions are met," or "a belief in God makes us good unless X, Y, and Z occur."  
+
+3. What evidence did you find to support your answer? Briefly summarize the research findings (at least *3 empirical articles*) and cite your references.
+
+# Rough draft (Homework 8)
+
+At this stage, you want to transform your outline into a paper. I recommend taking a look at the final grading criteria to make sure you have all of the components you need. I recommend this structure:
+
+## Introduction (2-3 paragraphs)
+
+In this first section, you should introduce your research question. What is your question and why is it important? At the end of this section, you want to give a one sentence summary "answer" to your question, which will be the thesis of your paper. An excellent thesis is usually one that is nuanced, i.e., it gives not just a yes or no answer, but describes some limit or constraint. 
+
+## Body (2+ pages)
+
+In this section, you should provide evidence for your thesis. How did you determine the "answer" to your question? In this space, describe relevant studies and how they help answer your question.
+
+## Conclusion (1-3 paragraphs)
+
+In the final section, you should restate your findings and then describe what there is still left to know about the topic. Give recommendations for future research on this topic. What are the limitations to current research on this topic? How would *you* design a study to answer this question?
 
 
-# Final draft
+# Peer review (Homework 9)
+
+An important part of research is getting and giving feedback. For this assignment, you will read a classmate's paper and give them <u>constructive</u> feedback. Please keep your tone as helpful and kind as possible - we are all learning to be better writers! The peer review consists of two parts (make sure to submit both parts to Canvas for full credit):
+
+1. Leave comments on the text (preferably with word track changes)
+    - Correct any spelling, grammatical, or otherwise syntax errors you see. You shouldn't be rewriting any sentences, but you should fix any "small" errors that you see (e.g., writing desert when they mean dessert).
+    - Flag any sentences that are unclear, wordy, or otherwise confusing.
+    - Leave suggestions of what could be added or taken away, or if something could be organized differently.
+  
+2. Summarize your review
+    - 1-3 things that you liked about the paper
+    - 1-3 areas of improvement (including any components from the rubric that are missing)
 
 
+# Final draft (due during finals week)
 
+Your final paper should be 4-6 pages, not including the references list (double spaced, 12 point font). You should be referencing at least 3 *peer-reviewed journal articles*, including at least one article that we talked about it class (from the reading list or optional reading list). Your citations and references should be in APA style. For each category, the following scale will be used: 
 
+- 100% = "Wow," 90% = "Excellent," 80% = "Good," 70% = "Adequate," 60% = "Poor," 0% = "Missing."
+
+## Grading rubric
+
+- **Introduction (20 points)** A research question relevant to moral psychology is posed and a thought provoking and compelling argument is given for why this research is valuable. An "answer" (the thesis of the paper) to the research question is provided at the end of the introduction. 
+
+- **Body (30 points)** The evidence provided in the body paragraphs directly relates to the thesis. Descriptions of the empirical evidence are detailed and demonstrate knowledge of the methodology used. 
+
+- **Conclusion (20 points)** The conclusion wraps up the paper nicely. It provides thoughtful limitations to answering the question and detailed future directions.
+
+- **Scientific writing (20 points)** The paper flows well from paragraph to paragraph. Information is presented in a way that is easy to absorb (e.g., paraphrased instead of quoted, sentences are appropriately wordy). Tone is "scientific" - not too casual or loaded with jargon. Minimal typos and grammatical errors.
+
+- **APA style (10 points)** The citations and references are in APA style. The paper is 4-6 pages double spaced, 12 point font.

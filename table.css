@@ -162,14 +162,12 @@ a:link {
 
 /* unvisited link */
 a:visited {
-  color: black;
+  color: blue;
 }
 
 /* mouse over link */
 a:hover {
   text-decoration: none;
-  background-color: #ffe5e8;
-
 }
 
 

@@ -3,6 +3,45 @@ title: "<b>Homework 3</b>"
 output:
   html_document:
     theme: cosmo
+    css: table.css
 ---
 
-Instructions TBD.
+***Instructions***: For this homework assignment, you will choose a research topic for your term paper and begin to outline your ideas. I recommend starting this assignment by reading the full instructions for the term paper, which you can access <u>[here](extra/final.html).</u> Upload your outline to Canvas by Sunday at 11:59pm.
+
+The purpose of the outline is to help organize your paper and to get some feedback on your topic before you start writing. Your outline should not exceed one page double spaced. There is no minimum length, although the more detail you give in the outline, the more feedback you will receive at this stage. Your outline should contain three parts:
+
+1. Choose one of the following research questions. I've added suggested initial readings to get you started. If you have your own idea for a research question, send me an e-mail or come talk to me about it in office hours, and I can help you refine it and choose some initial readings. 
+
+    * **How do psychopaths make moral decisions? **
+      - [Cima et al. (2012)](final_readings/Cima_2010.pdf); [Bartels & Pizarro (2011)](final_readings/Bartels_2011.pdf); [Young et al. (2012)](final_readings/Young_2012.pdf)
+    
+    * **Why are creative people more likely to be dishonest?**
+      - [Gino & Ariely (2011)](final_readings/Gino_2011.pdf); [Gino & Wiltermuth (2014)](final_readings/Gino_2014.pdf)
+    
+    * **How do we raise children to be moral?**
+      - [Lee et al. (2014)](final_readings/Lee_2014.pdf); [Chernyak & Kushnir (2013)](final_readings/Chernyak_2013.pdf)
+    
+    * **Moral forecasting: are we good at predicting our moral decisions?** 
+      - [Teper, Inzlicht, & Page-Gould (2011)](final_readings/Teper_2011.pdf); [Bostyn, Sevenhant, & Roets (2018)](final_readings/Bostyn_2018.pdf)
+
+    * **Tainted altruism: how do we percieve someone who does altruistic behavior with ulterior motives? **
+      - [Newman & Cain (2014)](final_readings/Newman_2014.pdf); [Barasch et al. (2014)](final_readings/Barasch_2014.pdf)
+
+    * **Does believing in God make us good or bad? **
+      - [Shariff & Norenzayan (2011)](final_readings/Shariff_2011.pdf); [Jackson & Gray (2019)](final_readings/Jackson_2019.pdf)
+
+    * **What factors increase or decrease moral hypocrisy? **
+      - [Lammers, Stapel, & Galinsky (2010)](final_readings/Lammers_2010.pdf); [Valdesolo & DeSteno (2007)](final_readings/Valdesolo_2007.pdf)
+
+    * **Why do some people become vegetarians/ vegans?**
+      - [Rozin, Markwith, & Stoess (1997)](final_readings/Rozin_1997.pdf); [Feinberg et al. (2019)](final_readings/Feinberg_2019.pdf); [Bratanova, Loughan, & Gatersleben (2012)](final_readings/Bratanova_2012.pdf)
+
+    * **Prosocial lying: when is lying permissible, or even preferred?**
+      - [Levine & Schweitzer (2014)](final_readings/Levine_2014.pdf); [Levine & Gomez (2020)](final_readings/Levine_2020.pdf)
+
+    * **Moral contagion: are moral ideas and moral behavior "contagious"? **
+      - [Brady et al. (2020)](final_readings/Brady_2020.pdf); [Schnall, Roper, & Fessler (2011)](final_readings/Schnall_2011.pdf); [Eskine, Novreske, & Richards (2013)](final_readings/Eskine_2013.pdf)
+
+2. Read or skim the initial readings for your topic. Come up with a single sentence **thesis** for your paper, which will be an "answer" to the question. E.g., if your question is "does believing in God make us good or bad?", your answer may be something like "a belief in God primarily makes us good," "a belief in God only makes us good when X, Y, Z conditions are met," or "a belief in God makes us good unless X, Y, and Z occur."  
+
+3. What evidence did you find to support your answer? Briefly summarize the research findings (at least *3 empirical articles*) and cite your references.

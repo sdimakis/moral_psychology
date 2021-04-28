@@ -8,6 +8,9 @@ output:
     css: table.css
 ---
 
+![](exam_image.jpg)
+
+
 <center>
 PSYXXX Moral Psychology (CRN: XXXXXX) <br>
 Department of Psychology, University of Oregon <br>
@@ -17,15 +20,17 @@ Term, meeting days and times, location of course
 
 You can download a copy of the syllabus <u>[here](syllabus.docx).</u>
 
+
+
 # Course description
 
 Individuals develop variable and sometimes even opposing intuitions about what themselves and others should and should never do. Moral psychology is the scientific study of how individuals judge behaviors and character traits as right or wrong/ good or bad, and act (or fail to act) in a way that they would consider virtuous. In this course, we will explore questions like: 
 
 - How do we come to the conclusion that a behavior is wrong?
-- How do we judge if someone else is a good or bad person?
-- How do we lie, cheat, steal, and hurt others with a clear conscience? 
-- Why do different groups of people come to different conclusions about what is right? 
-- How do we persuade others to reconsider their stance on moral issues?
+- How do we judge if someone is a good or bad person?
+- Why do different groups of people come to different conclusions about what is right?
+- How important is it to have a moral reputation?
+- How do we lie, cheat, steal, and hurt others with a clear conscience?
 
 This course is an introduction into moral psychology and therefore assignments do not presume prior knowledge, although prior experience reading psychology research is highly recommended. This course draws heavily from social psychology research, as most topics covered pertain to morality within social contexts, e.g., thinking about, reacting to, and judging the behavior and character of others. However, the course is interdisciplinary in nature, drawing from research in philosophy, behavioral economics, cognitive psychology, developmental psychology, neuroscience, biology, and other social science fields. 
 

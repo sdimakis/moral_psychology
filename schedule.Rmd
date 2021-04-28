@@ -53,8 +53,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 ## Sunday
 
 <div class = highlight-gray>**Assignment:** Homework 1 <br>
-**Description**:<br>
-Insert description here.
+**Description**: For this assignment, you will complete two questionnaires that will assess your moral values, the Moral Foundations Questionnaire and the Moral Motives Scale, and answer some questions about your answers. You can access the assignment instructions <u>[here](homework/homework_1.html).</u>
 </div>
 
 

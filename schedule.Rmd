@@ -114,7 +114,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 ## Sunday
 
 <div class = highlight-gray>**Assignment:** Homework 1 <br>
-**Instructions**: [<i class="fas fa-globe"></i>](homework/homework_1.html) <br>
+**Instructions**: [<i class="fas fa-globe"></i>](homework/homework_1.html) [<i class="fas fa-download"></i>](homework/homework_1.pdf) <br>
 **Description**: For this assignment, you will complete two questionnaires that will assess your moral values, the Moral Foundations Questionnaire and the Moral Motives Scale, and answer some questions about your answers. 
 </div>
 
@@ -207,7 +207,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 
 ## Sunday
 <div class = highlight-gray>**Assignment:** Homework 2 <br>
-**Instructions**: [<i class="fas fa-globe"></i>](homework/homework_2.html) <br>
+**Instructions**: [<i class="fas fa-globe"></i>](homework/homework_2.html) [<i class="fas fa-download"></i>](homework/homework_2.pdf)<br>
 **Description**: For this homework assignment, you are going to read a recent paper that found that hypothetical decision making in a trolley dilemma did not match actual decision making in a trolley dilemma.
 </div>
 
@@ -255,7 +255,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 
 ## Sunday
 <div class = highlight-gray>**Assignment:** Homework 3 <br>
-**Instructions**: [<i class="fas fa-globe"></i>](homework/homework_3.html) <br>
+**Instructions**: [<i class="fas fa-globe"></i>](homework/homework_3.html) [<i class="fas fa-download"></i>](homework/homework_3.pdf)<br>
 **Description**: For this homework assignment, you will choose a research topic for your term paper and begin to outline your ideas.
 </div>
 
@@ -335,11 +335,9 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 ## Day 2
 
 <div class = highlight-gray>**Topic:** Midterm <br>
-**Description**: This in-class midterm will contain 5 matching, 5 fill-in-the-blank, 30 multiple choice, and 5 short answer questions. It will cover material from weeks one to six. You will have the entire class period to complete the midterm.
-
+**Description**: The in-class midterm will contain 5 matching, 5 fill-in-the-blank, 30 multiple choice, and 5 short answer questions. It will cover material from weeks one to six. You will have the entire class period to complete the midterm.<br>
 **Required readings**: <br>
-<p>- Midterm review study guide **[<i class="fas fa-globe"></i>]()[<i class="fas fa-download"></i>]()**</p>
-
+<p>- Midterm review study guide **[<i class="fas fa-globe"></i>](exams/midterm_study.html)[<i class="fas fa-download"></i>](exams/midterm_study.pdf)**</p>
 </div>
 
 ###
@@ -422,7 +420,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 
 ## Sunday
 <div class = highlight-gray>**Assignment:** Homework 4 <br>
-**Instructions**: [<i class="fas fa-globe"></i>](homework/homework_4.html) <br>
+**Instructions**: [<i class="fas fa-globe"></i>](homework/homework_4.html) [<i class="fas fa-download"></i>](homework/homework_4.pdf) <br>
 **Description**: For this homework assignment, you will submit a rough draft of your term paper. Your rough draft doesn't need to be the full length of your final draft, or pass all of the grading criteria. However, you will be able to get better feedback on your draft if it is complete.</div>
 ###
 
@@ -468,7 +466,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 
 ## Sunday
 <div class = highlight-gray>**Assignment:** Homework 5 <br>
-**Instructions**: <i class="fas fa-globe"></i> <br>
+**Instructions**: [<i class="fas fa-globe"></i>](homework/homework_5.html) [<i class="fas fa-download"></i>](homework/homework_5.pdf)<br>
 **Description**: An important part of research is getting and giving feedback. For this assignment, you will read a classmate's term paper and give them constructive feedback.
 </div>
 
@@ -525,7 +523,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 ## Day 1
 
 <div class = highlight-gray>**Assignment:** Term paper <br>
-**Instructions**: [<i class="fas fa-globe"></i>](exams/final.html) <br>
+**Instructions**: [<i class="fas fa-globe"></i>](exams/final.html) [<i class="fas fa-download"></i>](exams/final.pdf) <br>
 **Description**: The purpose of the term paper is to learn about a moral psychology research topic that interests you but we were not able to fully explore in class. For this assignment, you will choose a research question, find and read research pertaining to the question, and write up a report about what you find. You will be working on this paper over the course of the term through your homework assignments.
 
 

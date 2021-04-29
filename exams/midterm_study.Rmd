@@ -1,0 +1,81 @@
+---
+title: "Midterm study guide"
+output:  
+  pdf_document
+---
+
+## Introduction to moral psychology
+
+- A normative definition of morality
+- Utilitarianism
+- Consequentialism
+- Deontology
+
+## Defining and measuring morality
+- A descriptive definition of morality
+- Moral foundations theory
+- The theory of dyadic morality
+- The model of moral motives
+- Relationship regulation theory of morality
+- Circle of moral concern
+
+## Evolution of morality
+- Veneer theory vs. naturalistic theory
+- Bonobos vs. chimpanzees moral behavior
+- The "Beethoven error"
+- Kin selection and reciprocal altruism
+- Moral differences between humans and primates
+- Disadvantageous and advantageous inequity aversion
+
+## Moral development
+- Research with infants
+    - Are infants capable of moral behavior and moral judgment? How so?
+- Kohlberg's stage theory
+- Social domain theory
+
+## Conscious reasoning
+- The rationalist model of moral judgment
+- The trolley problem (switch and footbridge cases)
+- Greene et al. (2009) study
+- The doctrine of double effect
+- What moral principles do we reason with?
+  - Both abstract moral principles and normative theories
+  
+## Intuitionism
+- Moral dumbfounding
+- Motivated reasoning
+- The social intuitionist model
+
+## Character judgments
+- Todorev et al. (2008) study
+- Moral cognitive machinery
+- Person act dissociation
+
+## Blame and praise
+- The culpable control model
+  - Components of personal control
+- The path model of blame
+- The side effect effect
+- Differences between blame and praise
+
+## Social dilemma games
+- Tragedy of the commons
+- How to play each game
+  - Basic findings if given in lecture
+- Tit for tat
+- Altruistic punishment
+
+## Altruism
+- The missing wallet study
+- Egoistic and altruistic motivations of helping
+- Vonasch et al. (2018) study
+- Dana et al. (2005) study 
+- Moral credentials/ moral licensing 
+
+## Dishonesty
+- Disposition vs. situation
+- The disponsitional-situational interaction hypothesis
+- Dispositional influences of dishonesty
+  - Differences between psychopathy, narcissim, and Machiavellianism
+- Situational influences of dishonesty
+  - Gino et al. (2009) study

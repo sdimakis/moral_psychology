@@ -1,53 +1,105 @@
 ---
-title: "Extra resources"
+title: ""
 output: 
   html_document: 
     toc: yes
     toc_depth: 1
     toc_float: yes
-    css: custom_website.css
+    css: table.css
 ---
 
-# Research articles
+```{css, echo = FALSE}
 
+.fa-apple {
+    color: #A3AAAE;
+}
 
-# Books
+.fa-apple:hover {
+    color: #dfe1e2;
+}
+
+.fa-spotify {
+    color: #1DB954;
+}
+
+.fa-spotify:hover {
+    color: #a2f1be;
+}
+
+.fa-google {
+    color: #F4B400;
+}
+
+.fa-google:hover {
+    color: #ffe294;
+}
+
+.fa-video {
+    color: #61a0ff;
+}
+
+.fa-video:hover {
+    color: #e6f0ff;
+}
+
+```
+
+# Recommended books
 
 For books about moral psychology and moral philosophy for a general audience:
+
+- **The (Honest) Truth About Dishonesty** *Dan Ariely*
+
+- **Just Babies & Against Empathy** *Paul Bloom*
+
+- **Telling Lies** *Paul Ekman*
 
 - **Moral Tribes** *Joshua Greene*
 
 - **The Righteous Mind & The Happiness Hypothesis** *Jonathon Haidt*
 
-- **Just Babies & Against Empathy** *Paul Bloom*
+- **Moral minds** *Marc Hauser*
+
+- **Moral Politics: How Liberals and Conservatives Think** *George Lakoff*
 
 - **Justice: What's the right thing to do?** *Michael Sandel*
+
+- **Primates and Philosophers** *Frans de Waal*
+
+- **The moral animal** *Robert Wright*
+
+- **The Lucifer Effect** *Philip Zimbardo* 
 
 - **What It Means to Be Moral** *Phil Zuckerman*
 
 
-# Talks
+# Recommended talks
 
-- <u>[**Our buggy moral code**](https://www.ted.com/talks/dan_ariely_our_buggy_moral_code?language=en)</u> *Dan Ariely*
+- **Our buggy moral code** *Dan Ariely* [<i class="fa fa-video"></i>](https://www.ted.com/talks/dan_ariely_our_buggy_moral_code?language=en)
 
-- <u>[**Moral behavior in animals**](https://www.ted.com/talks/frans_de_waal_moral_behavior_in_animals?language=en)</u> *Frans de waal*
+- **Moral behavior in animals** *Frans de waal* [<i class="fa fa-video"></i>](https://www.ted.com/talks/frans_de_waal_moral_behavior_in_animals?language=en)
 
+- **The moral roots of liberals and conservatives** *Jonathan Haidt* [<i class="fa fa-video"></i>](https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives)
 
-- <u>[**The moral roots of liberals and conservatives**](https://www.ted.com/talks/jonathan_haidt_the_moral_roots_of_liberals_and_conservatives)</u> *Jonathan Haidt*
-
-- <u>[**Science can answer moral questions**](https://www.ted.com/talks/sam_harris_science_can_answer_moral_questions)</u> *Sam Harris*
-
-
-- <u>[**Progress is not a zero sum game**](https://www.ted.com/talks/robert_wright_progress_is_not_a_zero_sum_game)</u> *Robert Wright*
+- **Science can answer moral questions** *Sam Harris* [<i class="fa fa-video"></i>](https://www.ted.com/talks/sam_harris_science_can_answer_moral_questions)
 
 
+- **Progress is not a zero sum game** *Robert Wright* [<i class="fa fa-video"></i>](https://www.ted.com/talks/robert_wright_progress_is_not_a_zero_sum_game)
 
-# Podcasts
+- **The surprising decline in violence** *Steven Pinker* [<i class="fa fa-video"></i>](https://www.ted.com/talks/steven_pinker_the_surprising_decline_in_violence?language=en)
 
-- **The Moral Science Podcast** *Amber Cazzell* [`r fontawesome::fa('apple')`](https://podcasts.apple.com/us/podcast/the-moral-science-podcast/id1468695145) [`r fontawesome::fa('spotify')`](https://open.spotify.com/show/0GaXHC2UcuErWfKlMl3dcf) [`r fontawesome::fa('google')`](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iZGRjYmM4L3BvZGNhc3QvcnNz?hl=en)
+- **The strange politics of disgust** *David Pizarro* [<i class="fa fa-video"></i>](https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust?language=en)
 
-- **Making Sense** *Sam Harris* [`r fontawesome::fa('apple')`](https://podcasts.apple.com/us/podcast/making-sense-with-sam-harris/id733163012) [`r fontawesome::fa('spotify')`](https://open.spotify.com/show/5rgumWEx4FsqIY8e1wJNAk) [`r fontawesome::fa('google')`](https://podcasts.google.com/feed/aHR0cDovL3dha2luZ3VwLmxpYnN5bi5jb20vcnNz/episode/NGZmZGJiNGZjYWJkNGYzMDlmMDQ0ZjM4Y2MwZGJjN2E)
+# Recommended podcasts
 
-- **The Psychology Podcast** *Scott Barry Kaufman* [`r fontawesome::fa('apple')`](https://podcasts.apple.com/us/podcast/the-psychology-podcast-with-scott-barry-kaufman/id942777522) [`r fontawesome::fa('spotify')`](https://open.spotify.com/show/4POIiQQjnQOuz0AqnLk3KZ) [`r fontawesome::fa('google')`](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yZjU1YmZjMC9wb2RjYXN0L3Jzcw==)
+- **The Moral Science Podcast** *Amber Cazzell* [<i class="fab fa-apple"></i>](https://podcasts.apple.com/us/podcast/the-moral-science-podcast/id1468695145) [<i class="fab fa-spotify"></i>](https://open.spotify.com/show/0GaXHC2UcuErWfKlMl3dcf) [<i class="fab fa-google"></i>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iZGRjYmM4L3BvZGNhc3QvcnNz?hl=en)
 
-- **Very Bad Wizards** *David Pizarro & Tamler Sommers* [`r fontawesome::fa('apple')`](https://podcasts.apple.com/us/podcast/very-bad-wizards/id557975157) [`r fontawesome::fa('spotify')`](https://open.spotify.com/show/4gGFerFYkDHnezTlwExEbu?si=AU5C1BzDTMCaS7uc_wqrjw) [`r fontawesome::fa('google')`](https://play.google.com/music/managemusic?t=Very_Bad_Wizards)
+- **Making Sense** *Sam Harris* [<i class="fab fa-apple"></i>](https://podcasts.apple.com/us/podcast/making-sense-with-sam-harris/id733163012) [<i class="fab fa-spotify"></i>](https://open.spotify.com/show/5rgumWEx4FsqIY8e1wJNAk) [<i class="fab fa-google"></i>](https://podcasts.google.com/feed/aHR0cDovL3dha2luZ3VwLmxpYnN5bi5jb20vcnNz/episode/NGZmZGJiNGZjYWJkNGYzMDlmMDQ0ZjM4Y2MwZGJjN2E)
+
+- **The Psychology Podcast** *Scott Barry Kaufman* [<i class="fab fa-apple"></i>](https://podcasts.apple.com/us/podcast/the-psychology-podcast-with-scott-barry-kaufman/id942777522) [<i class="fab fa-spotify"></i>](https://open.spotify.com/show/4POIiQQjnQOuz0AqnLk3KZ) [<i class="fab fa-google"></i>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yZjU1YmZjMC9wb2RjYXN0L3Jzcw==)
+
+- **Very Bad Wizards** *David Pizarro & Tamler Sommers* [<i class="fab fa-apple"></i>](https://podcasts.apple.com/us/podcast/very-bad-wizards/id557975157) [<i class="fab fa-spotify"></i>](https://open.spotify.com/show/4gGFerFYkDHnezTlwExEbu?si=AU5C1BzDTMCaS7uc_wqrjw) [<i class="fab fa-google"></i>](https://play.google.com/music/managemusic?t=Very_Bad_Wizards)
+
+- **Two Psychologists Four beers** *Yoel Inbar & Michael Inzlicht* [<i class="fab fa-apple"></i>](https://podcasts.apple.com/us/podcast/two-psychologists-four-beers/id1387529624) [<i class="fab fa-spotify"></i>](https://open.spotify.com/show/2C9rFEeoHdUp2mXtXKlEnd) [<i class="fab fa-google"></i>](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuZm91cmJlZXJzLmNvbS9yc3M)
+
+- **No Stupid Questions** *Stephen Dubner & Angela Duckworth* [<i class="fab fa-apple"></i>](https://podcasts.apple.com/us/podcast/no-stupid-questions/id1510056899) [<i class="fab fa-spotify"></i>](https://open.spotify.com/show/6Z49m4VQ4TfQ28Cnl42yiT) [<i class="fab fa-google"></i>](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvYWFlYTRlNjktYWY1MS00OTVlLWFmYzktYTk3NjAxNDY5MjJiL2RjNWI1NWNhLTVmMDAtNDA2My1iNDdmLWFiODcwMTYzZDJiNy9jYTYzYWE1Mi1lZjdiLTQzZWUtOGJhNS1hYjg3MDE2NDUyMzEvcG9kY2FzdC5yc3M)

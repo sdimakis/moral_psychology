@@ -18,18 +18,18 @@ Term, meeting days and times, location of course
 </center>
 <br>
 
-You can download a copy of the syllabus <u>[here](syllabus.docx).</u>
+You can download a copy of the syllabus <u>[here](syllabus.pdf).</u>
 
 
 
 # Course description
 
-Individuals develop variable and sometimes even opposing intuitions about what themselves and others should and should never do. Moral psychology is the scientific study of how individuals judge behaviors and character traits as right or wrong/ good or bad, and act (or fail to act) in a way that they would consider virtuous. In this course, we will explore questions like: 
+From the dawn of civilization, philosophers have debated how we ought to behave. More recently, scientists have begun to systematically test how people *think* they ought to behave, and how they *actually* behave. Moral psychology is the *scientific study* of how everyday people determine right from wrong, judge each other as good or bad, punish others for wrongdoing, sacrifice their lives for a stranger, develop their moral convictions throughout their lifespan, and maintain that they are good even as they fail to live up to their own moral standards. In this course, we will explore questions like: 
 
-- How do we come to the conclusion that a behavior is wrong?
-- How do we judge if someone is a good or bad person?
+- How do we come to the conclusion that a behavior is *wrong*?
+- How do we determine if the stranger we just met is a good or bad person?
 - Why do different groups of people come to different conclusions about what is right?
-- How important is it to have a moral reputation?
+- Why are people willing to sacrifice their time, money, effort, and sometimes even their lives, to help people they have never met, or might not meet again?
 - How do we lie, cheat, steal, and hurt others with a clear conscience?
 
 This course is an introduction into moral psychology and therefore assignments do not presume prior knowledge, although prior experience reading psychology research is highly recommended. This course draws heavily from social psychology research, as most topics covered pertain to morality within social contexts, e.g., thinking about, reacting to, and judging the behavior and character of others. However, the course is interdisciplinary in nature, drawing from research in philosophy, behavioral economics, cognitive psychology, developmental psychology, neuroscience, biology, and other social science fields. 
@@ -75,13 +75,15 @@ The following grid provides the letter grade associated with each percent:
 Your course grade will be determined by the following assignments:
 
 <center>
-Assignment | Points|
-|------------|-----------|
-Midterm exam | 100 points|
-Final paper | 100 points|
-Quizzes | 100 points|
-Homework (20 points x4) | 80 points |
-Participation| 20 points|
+Assignment | Points| Percentage |
+| ---: | :---: | :----: |
+Midterm exam | 100 points| 25% |
+Final paper | 100 points| 25% |
+Homeworks (5) | 100 points | 25% |
+Quiz 1 | 20 points| 5% |
+Quiz 2 | 20 points| 5% |
+Quiz 3 | 40 points| 10% |
+Participation| 20 points| 5% |
 
 </center>
 
@@ -90,19 +92,19 @@ Participation| 20 points|
 # Assignments {.tabset .tabset-pills}
 ## Midterm
 
-There is one exam for this course, a midterm exam, which is scheduled on **the first day of the sixth week** of the course. The exam will consist of 5 matching, 5 fill-in-the-blank, 20 multiple choice, and 4 short answer questions. You can bring one 8x10 piece of paper of notes to the exam. 
+There is one, in-person exam for this course, a midterm exam, which is scheduled on **the second day of the sixth week** of the course. The exam will consist of 5 matching, 5 fill-in-the-blank, 30 multiple choice, and 4 short answer questions. You will have the entire class period to complete the exam. You can bring one 8x10 piece of paper of notes to the exam. A study guide will be posted one week prior to the exam, which will help you focus your studying.
 
-## Final paper
-Your final research paper will be due during **finals week**. The recommended page count is 5-7 pages double spaced. You will choose a research question from a list of topics, read relevant research on the topic, and discuss how the research findings answer or fail to answer the research question. Detailed instructions and a topic list will be given out after the midterm exam in week 6. 
+## Term paper
+Your term paper will be due during **finals week**. The recommended page count is 4-6 pages double spaced. You will choose a research question, read relevant research on the topic, and discuss how the research findings answer or fail to answer the research question. You will be working on your term paper slowly throughout the course as homework assignments. 
 
 ## Quizzes
-Every other week, as indicated on the syllabus, there will be a quiz on Canvas due at **11:59pm on Sunday**. The quiz will test comprehension for reading and lecture material for the two weeks prior to the quiz. You may use readings, notes, the internet, etc., to succeed on the quiz (but you cannot use another person). The quizzes will be timed (25 minutes) and consist of 10 multiple choice questions and 5 matching questions. 
+There will be three quizzes throughout the course, each due on Canvas at **11:59pm on Sunday** the week the quiz is assigned. Quiz 1 (end of week 2) will contain material from weeks 1-2, quiz 2 (end of week 5) will contain material from weeks 3-5, and quiz 3 (end of week 10) will contain material from weeks 7-10. The quizzes will test comprehension for reading and lecture material. Since the content is somewhat cumulative, it's important that you keep up with the readings and lectures, and these quizzes are to help keep you accountable. You may use readings, notes, the internet, etc., to succeed on the quiz (but you cannot use another person). The quizzes will be timed. Quiz 1 and 2 will have 10 multiple choice questions (20 minutes, or 2 minutes per question) and quiz 3 will have 20 multiple choice questions (40 minutes, or 2 minutes per question.
 
 ## Homework
-Every other week, as indicated on the syllabus, you will have structured homework assignments due on Canvas at **11:59pm on Sunday**. The assignments are designed to help you work through the lecture and reading material with concrete, personally relevant examples, and provide an opportunity to think in depth about a topic before class group discussion.
+There are five structured homework assignments throughout the course, each due on Canvas at **11:59pm on Sunday** the week the homework is assigned. The assignments are designed to dive deeper into and sometimes extend what we are learning in class. Three out of the five homework assignments will guide you through choosing a research topic from your term paper, writing a draft of your term paper, and reviewing the term paper of a peer.
 
 ## Participation
-Attending class, turning in your assignments on time, and actively participating in group and class discussion is incredibly important to succeed in this course, so participation has been given a part of your grade to reflect its importance.
+Attending class, turning in your assignments on time, and actively participating in group and class discussion are incredibly important to succeed in this course, so participation has been given a part of your grade to reflect its importance.
 
 ###
 
@@ -116,10 +118,10 @@ Please reach out to the instructor in advance to a deadline if you need an exten
 ## Learning Accommodations
 The University of Oregon works to create inclusive learning environments. If there are aspects of the instruction or design of this course that result in disability-related barriers to your participation, please notify me as soon as possible. If you have a documented disability, please request that a counselor at the Accessible Education Center (uoaec@uoregon.edu, 541-346-1155) send a letter verifying the type of accommodation that is appropriate. For a list of resources provided by the Accessible Education Center, please see http://aec.uoregon.edu.
 
-## Cheating
-Any form of academic dishonesty, including getting outside help on assessments and plagiarizing of any kind are not productive to your learning and therefore will not be tolerated in this class. If you have questions about what is considered academic dishonesty for this course, please reach out to the instructor and ask. Instances of suspected cheating or plagiarizing will be reported to the University, and at the very least, will earn you a zero on the assignment. Please familiarize yourself with the University of Oregon’s conduct code, found at http://conduct.uoregon.edu. You are responsible for behaving in accordance with this policy and continued enrollment in this class will be considered implicit agreement that you have read and accepted the terms of that policy. 
+## Dishonesty
+Please do not be a cheater. Any form of academic dishonesty, including getting outside help on assessments and plagiarizing of any kind are not productive to your learning and therefore will not be tolerated in this class. If you have questions about what is considered academic dishonesty for this course, please reach out to the instructor and ask. Instances of suspected cheating or plagiarizing will be reported to the University, and at the very least, will earn you a zero on the assignment. Please familiarize yourself with the University of Oregon’s conduct code, found at http://conduct.uoregon.edu. You are responsible for behaving in accordance with this policy and continued enrollment in this class will be considered implicit agreement that you have read and accepted the terms of that policy. 
 
-## Climate
+## Class climate
 While studying moral psychology, we are bound to hear from others who do not agree with our moral values. I do not expect to agree with you on everything, and I do not expect you to agree with your classmates on everything. We are a group with diverse backgrounds and experiences. We must therefore make it a priority that everyone in this class (students and instructor) have the opportunity to offer opinions, hear one another’s opinions, and make arguments and challenge ideas. This is only possible when we respect each other. Here are a few ground rules that I propose that we follow, and I am open to discussing more:
 
 + Criticize ideas and not people.  Instead of “you are wrong and dumb for thinking that,” say “I don’t think that theory is supported by the research.”

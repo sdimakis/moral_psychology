@@ -1,5 +1,5 @@
 ---
-title: "Course reading and assignment schedule"
+title: ""
 output: 
   html_document: 
     toc: yes
@@ -37,11 +37,11 @@ output:
 }
 
 .fa-desktop {
-    color: #955cff;
+    color: #6b6b6b;
 }
 
 .fa-desktop:hover {
-    color: #e6f0ff;
+    color: #ededed;
 }
 
 .fa-apple {
@@ -63,12 +63,6 @@ output:
 ```
 
 
-
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
-library(fontawesome)
-```
-
-
 <style>
 div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 </style>
@@ -81,7 +75,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 <div class = highlight-gray>**Topic:** Introduction to moral psychology <br>
 **Lecture**: [<i class="fas fa-desktop"></i>](lectures/1a_introduction.html)<br>
 **Required readings**:<br>
- <p> - *Course syllabus* **[<i class="fas fa-globe"></i>](syllabus.html) [<i class="fas fa-download"></i>](syllabus.docx)**</p>
+ <p> - *Course syllabus* **[<i class="fas fa-globe"></i>](syllabus.html) [<i class="fas fa-download"></i>](syllabus.pdf)**</p>
 
 **Optional**: <br><p>
 - Pinker (2008). *The Moral Instinct.* **[<i class="fas fa-globe"></i>](https://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html) [<i class="fas fa-download"></i>](readings/week_1/Optional/Pinker_2008.pdf)** <br>
@@ -213,11 +207,11 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 
 ###
 
-# **Week 4**: Person perception & attribution {.tabset .tabset-pills}
+# **Week 4**: Character judgment & attribution {.tabset .tabset-pills}
 
 ## Day 1
 
-<div class = highlight-gray>**Topic:** Character perception <br>
+<div class = highlight-gray>**Topic:** Character judgment <br>
 **Lecture**: [<i class="fas fa-desktop"></i>](lectures/4a_character_judgments.html)<br>
 **Required readings**:<br>
 <p>- Helzer & Critcher (2018). *What Do We Evaluate When We Evaluate Moral Character?* **[<i class="fas fa-download"></i>](readings/week_4/Helzer_2018.pdf)**<br>

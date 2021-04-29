@@ -1,61 +1,60 @@
 ---
 title: "<b>Term paper</b>"
 output:
-  html_document: 
+  html_document:
     theme: cosmo
-    toc: yes
-    toc_float: yes
     css: table.css
+    toc: true
+    toc_float: true
 ---
 
 The purpose of the term paper is to learn about a moral psychology research topic that interests you but we were not able to fully explore in class. For this assignment, you will choose a research question, find and read research pertaining to the question, and write up a report about what you find. You will be working on this paper over the course of the term through your homework assignments.
 
-# Outline (Homework 5)
+# Outline (Homework 3)
 
 The purpose of the outline is to help organize your paper and to get some feedback on your topic before you start writing. Your outline should not exceed one page double spaced. There is no minimum length, although the more detail you give in the outline, the more feedback you will receive at this stage. Your outline should contain three parts:
 
 1. Choose one of the following research questions. I've added suggested initial readings to get you started. If you have your own idea for a research question, send me an e-mail or come talk to me about it in office hours, and I can help you refine it and choose some initial readings. 
 
     * **How do psychopaths make moral decisions? **
-[Cima et al. (2012)](final_readings/Cima_2010.pdf);
+      - [Cima et al. (2012)](final_readings/Cima_2010.pdf);
 [Bartels & Pizarro (2011)](final_readings/Bartels_2011.pdf);
 [Young et al. (2012)](final_readings/Young_2012.pdf)
     
     * **Why are creative people more likely to be dishonest?**
-[Gino & Ariely (2011)](final_readings/Gino_2011.pdf);
+      - [Gino & Ariely (2011)](final_readings/Gino_2011.pdf);
 [Gino & Wiltermuth (2014)](final_readings/Gino_2014.pdf)
     
     * **How do we raise children to be moral?**
-[Lee et al. (2014)](final_readings/Lee_2014.pdf);
+      - [Lee et al. (2014)](final_readings/Lee_2014.pdf);
 [Chernyak & Kushnir (2013)](final_readings/Chernyak_2013.pdf)
     
     * **Moral forecasting: are we good at predicting our moral decisions?** 
-[Teper, Inzlicht, & Page-Gould (2011)](final_readings/Teper_2011.pdf);
+      - [Teper, Inzlicht, & Page-Gould (2011)](final_readings/Teper_2011.pdf);
 [Bostyn, Sevenhant, & Roets (2018)](final_readings/Bostyn_2018.pdf)
 
     * **Tainted altruism: how do we percieve someone who does altruistic behavior with ulterior motives? **
-[Newman & Cain (2014)](final_readings/Newman_2014.pdf);
+      - [Newman & Cain (2014)](final_readings/Newman_2014.pdf);
 [Barasch et al. (2014)](final_readings/Barasch_2014.pdf)
 
     * **Does believing in God make us good or bad? **
-[Shariff & Norenzayan (2011)](final_readings/Shariff_2011.pdf);
+      - [Shariff & Norenzayan (2011)](final_readings/Shariff_2011.pdf);
 [Jackson & Gray (2019)](final_readings/Jackson_2019.pdf)
 
     * **What factors increase or decrease moral hypocrisy? **
-[Lammers, Stapel, & Galinsky (2010)](final_readings/Lammers_2010.pdf);  
-[Valdesolo & DeSteno (2007)](final_readings/Valdesolo_2007.pdf)
+      - [Lammers, Stapel, & Galinsky (2010)](final_readings/Lammers_2010.pdf); [Valdesolo & DeSteno (2007)](final_readings/Valdesolo_2007.pdf)
 
     * **Why do some people become vegetarians/ vegans?**
-[Rozin, Markwith, & Stoess (1997)](final_readings/Rozin_1997.pdf);
+      - [Rozin, Markwith, & Stoess (1997)](final_readings/Rozin_1997.pdf);
 [Feinberg et al. (2019)](final_readings/Feinberg_2019.pdf);
 [Bratanova, Loughan, & Gatersleben (2012)](final_readings/Bratanova_2012.pdf)
 
     * **Prosocial lying: when is lying permissible, or even preferred?**
-[Levine & Schweitzer (2014)](final_readings/Levine_2014.pdf);
+      - [Levine & Schweitzer (2014)](final_readings/Levine_2014.pdf);
 [Levine & Gomez (2020)](final_readings/Levine_2020.pdf)
 
     * **Moral contagion: are moral ideas and moral behavior "contagious"? **
-[Brady et al. (2020)](final_readings/Brady_2020.pdf);
+      - [Brady et al. (2020)](final_readings/Brady_2020.pdf);
 [Schnall, Roper, & Fessler (2011)](final_readings/Schnall_2011.pdf);
 [Eskine, Novreske, & Richards (2013)](final_readings/Eskine_2013.pdf)
 
@@ -63,7 +62,7 @@ The purpose of the outline is to help organize your paper and to get some feedba
 
 3. What evidence did you find to support your answer? Briefly summarize the research findings (at least *3 empirical articles*) and cite your references.
 
-# Rough draft (Homework 8)
+# Rough draft (Homework 4)
 
 At this stage, you want to transform your outline into a paper. I recommend taking a look at the final grading criteria to make sure you have all of the components you need. I recommend this structure:
 
@@ -80,7 +79,7 @@ In this section, you should provide evidence for your thesis. How did you determ
 In the final section, you should restate your findings and then describe what there is still left to know about the topic. Give recommendations for future research on this topic. What are the limitations to current research on this topic? How would *you* design a study to answer this question?
 
 
-# Peer review (Homework 9)
+# Peer review (Homework 5)
 
 An important part of research is getting and giving feedback. For this assignment, you will read a classmate's paper and give them <u>constructive</u> feedback. Please keep your tone as helpful and kind as possible - we are all learning to be better writers! The peer review consists of two parts (make sure to submit both parts to Canvas for full credit):
 

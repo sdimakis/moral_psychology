@@ -75,3 +75,11 @@
 .title-slide .remark-slide-number {
   display: none;
 }
+
+a {
+  color: #b68fff;
+}
+
+a:hover {
+  color: #e6f0ff;
+}

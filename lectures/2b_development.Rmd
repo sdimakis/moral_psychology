@@ -621,10 +621,12 @@ E.g., some people think that kneeling for a flag is a violation of a social conv
 
 # Summary
 
+.smaller[
 - Kohlberg theorized that morality developed in stages    
   - The final stage (that most adults never reach) is to make moral judgments through consistent abstract principles rather than because of rewards or punishment, obeying authority, and/or societal pressures
   
 - Turiel theorized that children construct the moral domain through social interactions
   - Crucial to constructing the moral domain is learning to distinguish moral rules (which are invariable/ exist because of intrinsic properties of the act itself) and social conventions (which are arbitrary and fluid)
 
-.highlight-blue[Due Sunday:] HW2
+]
+.highlight-blue[Due Sunday:] Quiz 1

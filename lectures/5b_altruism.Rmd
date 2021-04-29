@@ -604,15 +604,10 @@ Batson and Shaw (1991) argue that empathic concern is the *only way* to reach pu
 # Summary
 
 - People often go out of their way to help others,  even strangers 
-
 - There are selfish reasons to help others, such as to feel good or to build a moral reputation
-
   - Many are willing to experience pain (or even die) to maintain their moral reputation
-  
   - People want to be as altruistic as others expect them to be 
-  
   - Some people care so much about their moral reputation that they censor their attitudes for audiences who are unaware of their "moral credentials"
-  
 - Some argue that *true* altruism can only arise through empathy
 
-.highlight-blue[Due Sunday]: HW5 
+.highlight-blue[Due Sunday]: Quiz 2

@@ -623,5 +623,5 @@ Warm glow is the feeling of joy when you help others
   - Compassion is the only true other-suffering emotion; we can feel it towards strangers and it can lead us to want to help reduce their suffering
   - Empathy (feeling what another person is feeling) is not considered an emotion, and while it has been argued to be biased, shortsighted, and innumerate, it has also historically been an important tool in moral progress
   
-.highlight-blue[Due Sunday:] HW8
+.highlight-blue[Due Sunday:] Homework 4
   ]

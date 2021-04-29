@@ -664,4 +664,4 @@ Psychologists can manipulate situations in a lab and measure whether the partici
 - Psychologists measure morality mainly through... 
   - Self-report, moral dilemmas, and behavioral observation
 
-.highlight-blue[Due Sunday:] HW1
+.highlight-blue[Due Sunday:] Homework 1

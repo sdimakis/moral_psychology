@@ -79,16 +79,16 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 ## Day 1
 
 <div class = highlight-gray>**Topic:** Introduction to moral psychology <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/1a_introduction.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/1a_introduction.html)<br>
 **Required readings**:<br>
- <p> - *Course syllabus* **[<i class="fas fa-globe"></i></i>](syllabus.html) [<i class="fas fa-download"></i>](syllabus.docx)**</p>
+ <p> - *Course syllabus* **[<i class="fas fa-globe"></i>](syllabus.html) [<i class="fas fa-download"></i>](syllabus.docx)**</p>
 
 **Optional**: <br><p>
-- Pinker (2008). *The Moral Instinct.* **[<i class="fas fa-globe"></i></i>](https://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html) [<i class="fas fa-download"></i>](readings/week_1/Optional/Pinker_2008.pdf)** <br>
+- Pinker (2008). *The Moral Instinct.* **[<i class="fas fa-globe"></i>](https://www.nytimes.com/2008/01/13/magazine/13Psychology-t.html) [<i class="fas fa-download"></i>](readings/week_1/Optional/Pinker_2008.pdf)** <br>
 - Haidt (2008). *Morality.* **[<i class="fas fa-download"></i>](readings/week_1/Optional/Haidt_2008.pdf)** <br>
 - Ellemers et al. (2019). *The Psychology of Morality: A Review and Analysis of Empirical Studies Published From 1940 Through 2017.* **[<i class="fas fa-download"></i>](readings/week_1/Optional/Ellemers_2019.pdf)** <br>
 - CrashCourse. (2016). *Utilitarianism: Crash Course Philosophy #36.* **[<i class="fa fa-video"></i>](https://www.youtube.com/watch?v=-a739VjqdSI)** <br>
-- Gert (2020). *The Definition of Morality.* **[<i class="fas fa-globe"></i></i>](https://plato.stanford.edu/entries/morality-definition/)**</p>
+- Gert (2020). *The Definition of Morality.* **[<i class="fas fa-globe"></i>](https://plato.stanford.edu/entries/morality-definition/)**</p>
 </div>
 <br>
 
@@ -96,7 +96,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 ## Day 2
 
 <div class = highlight-gray>**Topic:** Defining and measuring morality <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/1b_defining_morality.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/1b_defining_morality.html)<br>
 **Required readings**:<br>
  <p> - Graham et al. (2013). *Moral Foundations Theory: The Pragmatic Validity of Moral Pluralism.* **[<i class="fas fa-download"></i>](readings/week_1/Graham_2013.pdf)**<br>
  - Janoff-Bulman & Carnes (2013). *Surveying the Moral Landscape: Moral Motives and Group-Based Moralities.* **[<i class="fas fa-download"></i>](readings/week_1/Janoff-Bulman_2013.pdf)**
@@ -114,7 +114,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 ## Sunday
 
 <div class = highlight-gray>**Assignment:** Homework 1 <br>
-**Instructions**: [<i class="fas fa-globe"></i></i>](homework/homework_1.html) <br>
+**Instructions**: [<i class="fas fa-globe"></i>](homework/homework_1.html) <br>
 **Description**: For this assignment, you will complete two questionnaires that will assess your moral values, the Moral Foundations Questionnaire and the Moral Motives Scale, and answer some questions about your answers. 
 </div>
 
@@ -127,7 +127,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 ## Day 1
 
 <div class = highlight-gray>**Topic:** Evolution of morality <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/2a_evolution.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/2a_evolution.html)<br>
 **Required readings**:<br>
 <p>- de Waal (2013). *Moral behavior in animals.* **[<i class="fa fa-video"></i>](https://www.ted.com/talks/frans_de_waal_moral_behavior_in_animals)** <br>
 - Brosnan & de Waal (2014). *Evolution of responses to (un)fairness.* **[<i class="fas fa-download"></i>](readings/week_2/Brosnan_2014.pdf)** <br></p>
@@ -146,10 +146,10 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 ## Day 2
 
 <div class = highlight-gray>**Topic:** Moral development <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/2b_development.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/2b_development.html)<br>
 **Required readings**:<br>
 <p>- Kohlberg (1968). *The Child as a Moral Philosopher.* **[<i class="fas fa-download"></i>](readings/week_2/Kohlberg_1968.pdf)**  <br>
-- Bloom (2010). *The moral life of babies*. **[<i class="fas fa-globe"></i></i>](https://www.nytimes.com/2010/05/09/magazine/09babies-t.html) [<i class="fas fa-download"></i>](readings/week_2/Bloom_2010.pdf)** </p>
+- Bloom (2010). *The moral life of babies*. **[<i class="fas fa-globe"></i>](https://www.nytimes.com/2010/05/09/magazine/09babies-t.html) [<i class="fas fa-download"></i>](readings/week_2/Bloom_2010.pdf)** </p>
 
 **Optional**: <br>
 <p>- Warneken & Tomasello (2006). *Altruistic Helping in Human Infants and Young Chimpanzees.* **[<i class="fas fa-download"></i>](readings/week_2/Optional/Warneken_2006.pdf)**
@@ -172,7 +172,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 ## Day 1
 
 <div class = highlight-gray>**Topic:** Conscious reasoning <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/3a_reasoning.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/3a_reasoning.html)<br>
 **Required readings**:<br>
 <p>- Greene et al. (2009). *Pushing moral buttons: The interaction between personal force and intention in moral judgment.* **[<i class="fas fa-download"></i>](readings/week_3/Greene_2009.pdf)** <br>
 - Cushman, Young, & Hauser (2006). *The Role of Conscious Reasoning and Intuition in Moral Judgment.* **[<i class="fas fa-download"></i>](readings/week_3/Cushman_2006.pdf)**<br></p>
@@ -188,7 +188,7 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 ## Day 2
 
 <div class = highlight-gray>**Topic:** Intuitionism  <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/3b_intuitionism.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/3b_intuitionism.html)<br>
 **Required readings**: <br>
 <p>- Haidt (2001). *The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment.* **[<i class="fas fa-download"></i>](readings/week_3/Haidt_2001.pdf)** <br>
 - Uhlmann et al. (2009). *The motivated use of moral principles.* **[<i class="fas fa-download"></i>](readings/week_3/Uhlmann_2009.pdf)**<br></p>
@@ -207,9 +207,8 @@ div.highlight-gray {background-color:#ffffff;  padding-right: 100px}
 
 ## Sunday
 <div class = highlight-gray>**Assignment:** Homework 2 <br>
-**Description**:<br>
-This hw assignment will be about moral reasoning/affective forecasting.
-
+**Instructions**: [<i class="fas fa-globe"></i>](homework/homework_2.html) <br>
+**Description**: For this homework assignment, you are going to read a recent paper that found that hypothetical decision making in a trolley dilemma did not match actual decision making in a trolley dilemma.
 </div>
 
 ###
@@ -219,7 +218,7 @@ This hw assignment will be about moral reasoning/affective forecasting.
 ## Day 1
 
 <div class = highlight-gray>**Topic:** Character perception <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/4a_character_judgments.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/4a_character_judgments.html)<br>
 **Required readings**:<br>
 <p>- Helzer & Critcher (2018). *What Do We Evaluate When We Evaluate Moral Character?* **[<i class="fas fa-download"></i>](readings/week_4/Helzer_2018.pdf)**<br>
 - Uhlmann, Zhu, & Tannenbaum (2013). *When it takes a bad person to do the right thing.* **[<i class="fas fa-download"></i>](readings/week_4/Uhlmann_2013.pdf)** <br></p>
@@ -236,7 +235,7 @@ This hw assignment will be about moral reasoning/affective forecasting.
 ## Day 2
 
 <div class = highlight-gray>**Topic:** Attribution of blame and praise <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/4b_blame_attribution.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/4b_blame_attribution.html)<br>
 **Required readings**:<br>
 <p>- Alicke (2000). *Culpable Control and the Psychology of Blame.* **[<i class="fas fa-download"></i>](readings/week_4/Alicke_2000.pdf)<br>**
 - Anderson, Crockett, & Pizarro (2020). *A Theory of Moral Praise.* **[<i class="fas fa-download"></i>](readings/week_4/Anderson_2020.pdf)** </p>
@@ -267,7 +266,7 @@ This hw assignment will be about moral reasoning/affective forecasting.
 ## Day 1
 
 <div class = highlight-gray>**Topic:** Cooperation - social dilemma games <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/5a_games.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/5a_games.html)<br>
 **Required readings**:<br>
 <p>- Dunning et al. (2014). *Trust at Zero Acquaintance: More a Matter of Respect Than Expectation of Reward.* **[<i class="fas fa-download"></i>](readings/week_5/Dunning_2014.pdf)**
 - Fehr & Gaechter (2002). *Altruistic punishment in humans.* **[<i class="fas fa-download"></i>](readings/week_5/Fehr_2002.pdf)**</p>
@@ -285,7 +284,7 @@ This hw assignment will be about moral reasoning/affective forecasting.
 ## Day 2
 
 <div class = highlight-gray>**Topic:** Altruism and reputation <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/5b_altruism.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/5b_altruism.html)<br>
 **Required readings**:<br>
 <p>- Vonasch et al. (2018). *Death Before Dishonor: Incurring Costs to Protect Moral Reputation.* **[<i class="fas fa-download"></i>](readings/week_5/Vonasch_2018.pdf)**
 - Dana, Cain, & Dawes (2006). *What you dont know wont hurt me: Costly (but quiet) exit in dictator games.* **[<i class="fas fa-download"></i>](readings/week_5/Dana_2006.pdf)** </p>
@@ -315,7 +314,7 @@ This hw assignment will be about moral reasoning/affective forecasting.
 ## Day 1
 
 <div class = highlight-gray>**Topic:** Determinants of dishonesty <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/6a_lying.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/6a_lying.html)<br>
 **Required readings**:<br>
 <p>- Markowitz & Levine (2021). *It’s the Situation and Your Disposition: A Test of Two Honesty Hypotheses.* **[<i class="fas fa-download"></i>](readings/week_6/Markowitz_2021.pdf)**
 - Gino, Ayal, & Ariely (2009). *Contagion and Differentiation in Unethical Behavior: The Effect of One Bad Apple on the Barrel.* **[<i class="fas fa-download"></i>](readings/week_6/Gino_2009.pdf)**
@@ -339,7 +338,7 @@ This hw assignment will be about moral reasoning/affective forecasting.
 **Description**: This in-class midterm will contain 5 matching, 5 fill-in-the-blank, 30 multiple choice, and 5 short answer questions. It will cover material from weeks one to six. You will have the entire class period to complete the midterm.
 
 **Required readings**: <br>
-<p>- Midterm review study guide **[<i class="fas fa-globe"></i></i>]()[<i class="fas fa-download"></i>]()**</p>
+<p>- Midterm review study guide **[<i class="fas fa-globe"></i>]()[<i class="fas fa-download"></i>]()**</p>
 
 </div>
 
@@ -350,7 +349,7 @@ This hw assignment will be about moral reasoning/affective forecasting.
 ## Day 1
 
 <div class = highlight-gray>**Topic:** Moral identity  <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/7a_identity.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/7a_identity.html)<br>
 **Required readings**:<br>
 <p>- Strohminger & Nichols (2014). *The essential moral self.* **[<i class="fas fa-download"></i>](readings/week_7/Strohminger_2014.pdf)**
 - Aquino & Reed (2002). *The Self-Importance of Moral Identity.* **[<i class="fas fa-download"></i>](readings/week_7/Aquino_2002.pdf)** <br></p>
@@ -367,7 +366,7 @@ This hw assignment will be about moral reasoning/affective forecasting.
 ## Day 2
 
 <div class = highlight-gray>**Topic:** Self-concept maintenance <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/7b_maintenance.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/7b_maintenance.html)<br>
 **Required readings**:<br>
 <p>- Shalvi et al. (2015). *Self-Serving Justifications: Doing Wrong and Feeling Moral.* **[<i class="fas fa-download"></i>](readings/week_7/Shalvi_2015.pdf)** 
 - Bandura (1999). *Moral Disengagement in the Perpetration of Inhumanities.* **[<i class="fas fa-download"></i>](readings/week_7/Bandura_1999.pdf)**  <br></p>
@@ -389,7 +388,7 @@ This hw assignment will be about moral reasoning/affective forecasting.
 ## Day 1
 
 <div class = highlight-gray>**Topic:** Condemning and praising emotions <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/8a_emotions1.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/8a_emotions1.html)<br>
 **Required readings**:<br>
 <p>- Haidt (2003). *The Moral Emotions.* **[<i class="fas fa-download"></i>](readings/week_8/Haidt_2003.pdf)** <br>
 - Lai, Haidt, & Nosek (2014). *Moral elevation reduces prejudice against gay men.* **[<i class="fas fa-download"></i>](readings/week_8/Lai_2014.pdf)** <br></p>
@@ -406,10 +405,10 @@ This hw assignment will be about moral reasoning/affective forecasting.
 ## Day 2
 
 <div class = highlight-gray>**Topic:** Self-conscious and suffering emotions <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/8b_emotions2.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/8b_emotions2.html)<br>
 **Required readings**:<br>
 <p>- Inbar, Pizarro, Gilovich, & Ariely (2013). *Moral Masochism: On the Connection Between Guilt and Self-Punishment.* **[<i class="fas fa-download"></i>](readings/week_8/Inbar_2013.pdf)** <br>
-- Bloom (2013). *The Baby in the Well: The Case Against Empathy.* **[<i class="fas fa-download"></i>](readings/week_8/Bloom_2013.pdf)** **[<i class="fas fa-globe"></i></i>](https://www.newyorker.com/magazine/2013/05/20/the-baby-in-the-well)**
+- Bloom (2013). *The Baby in the Well: The Case Against Empathy.* **[<i class="fas fa-download"></i>](readings/week_8/Bloom_2013.pdf)** **[<i class="fas fa-globe"></i>](https://www.newyorker.com/magazine/2013/05/20/the-baby-in-the-well)**
 <br></p>
 
 **Optional**: <br>
@@ -435,7 +434,7 @@ This hw assignment will be about moral reasoning/affective forecasting.
 <div class = highlight-gray>**Topic:** Moral convictions and sacred values  <br>
 **Lecture**: [<i class="fas fa-desktop"></i>](lectures/9a_convictions.html)<br>
 **Required readings**:<br>
-<p>- Cazzell & Skitka (2020). *The Subborness of Convictions with Linda Skitka.* **[<i class="fas fa-globe"></i></i>](https://www.ambercazzell.com/post/msp-ep33-lindaskitka) [<i class="fab fa-spotify"></i>](https://open.spotify.com/episode/4ZJNc9mMvIhGFD7T4aShX1) [<i class="fab fa-apple"></i>](https://podcasts.apple.com/us/podcast/the-stubbornness-of-convictions-with-linda-skitka/id1468695145?i=1000472897776)**
+<p>- Cazzell & Skitka (2020). *The Subborness of Convictions with Linda Skitka.* **[<i class="fas fa-globe"></i>](https://www.ambercazzell.com/post/msp-ep33-lindaskitka) [<i class="fab fa-spotify"></i>](https://open.spotify.com/episode/4ZJNc9mMvIhGFD7T4aShX1) [<i class="fab fa-apple"></i>](https://podcasts.apple.com/us/podcast/the-stubbornness-of-convictions-with-linda-skitka/id1468695145?i=1000472897776)**
 - Tetlock (2003). *Thinking the unthinkable: sacred values and taboo cognitions.* **[<i class="fas fa-download"></i>](readings/week_9/Tetlok_2003.pdf)** <br></p>
 
 **Optional**: <br>
@@ -452,7 +451,7 @@ This hw assignment will be about moral reasoning/affective forecasting.
 ## Day 2
 
 <div class = highlight-gray>**Topic:** Morality and religion <br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/9b_religion.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/9b_religion.html)<br>
 **Required readings**:<br>
 <p>- Brown-Iannuzzi, McKee, & Gervais (2018). *Atheist Horns and Religious Halos: Mental Representations of Atheists and Theists.* **[<i class="fas fa-download"></i>](readings/week_9/Brown-Iannuzzi_2018.pdf)** 
 - Shariff & Norenzayan (2007). *God Is Watching You: Priming God Concepts Increases Prosocial Behavior in an Anonymous Economic Game.* **[<i class="fas fa-download"></i>](readings/week_9/Shariff_2007.pdf)** <br></p>
@@ -498,7 +497,7 @@ This hw assignment will be about moral reasoning/affective forecasting.
 ## Day 2
 
 <div class = highlight-gray>**Topic:** Political polarization and persuasion<br>
-**Lecture**: [<i class="fas fa-desktop"></i></i>](lectures/10b_politics2.html)<br>
+**Lecture**: [<i class="fas fa-desktop"></i>](lectures/10b_politics2.html)<br>
 **Required readings**:<br>
 <p>- Feinberg &  Willer (2019). *Moral reframing: A technique for effective and persuasive communication across political divides.* **[<i class="fas fa-download"></i>](readings/week_10/Feinberg_2019.pdf)** 
 - Schein & Gray (2015). *The Unifying Moral Dyad: Liberals and Conservatives Share the Same Harm-Based Moral Template.* **[<i class="fas fa-download"></i>](readings/week_10/Schein_2015.pdf)** <br></p>

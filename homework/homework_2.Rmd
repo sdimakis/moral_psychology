@@ -3,6 +3,29 @@ title: "<b>Homework 2</b>"
 output:
   html_document:
     theme: cosmo
+    css: table.css
 ---
 
-Instructions TBD.
+***Instructions***: For this homework assignment, you are going to read a recent paper that found that hypothetical decision making in a trolley dilemma did not match actual decision making in a trolley dilemma. Please upload your homework to Canvas by 11:59pm on Sunday.
+
+1. Read [<u>this</u>](extra/Bostyn_2018.pdf) paper by Bostyn, Sevenhant, & Roets (2018). Write a short paragraph summarizing their findings.
+
+2. Choose **ONE** of the following critiques of the Bostyn et al. (2018) paper. Write 1-2 sentences summarizing their argument.
+
+    - [Overlooked Evidence and a Misunderstanding of What Trolley Dilemmas Do Best](extra/Plunkett_2019.pdf)
+  
+    - [What Is the Right Question for Moral Psychology to Answer?](extra/Bialek_2019.pdf)
+  
+    - [Comparing Hypothetical and Real-Life Trolley Problems](extra/Colman_2019.pdf)
+  
+    - [Comparing the Effects of Hypothetical Moral Preferences on Real-Life and Hypothetical Behavior](extra/Evans_2019.pdf)
+  
+3. Read the section in [<u>this</u>](extra/Bostyn_2019.pdf) follow up paper that addresses the commentary that you read. Write 1-2 sentences summarizing Bostyn and Roets's rebuttal. 
+
+4. Finally, answer the following questions:
+
+    - What were your initial thoughts on the Bostyn, Sevenhant, & Roets (2018) paper? Were you surprised by their findings? Do you think that hypothetical moral dilemmas are pointless to study if they cannot strongly predict actual behavior?
+  
+    - Do you agree or disagree with the criticism posed in the commentary? Why or why not? 
+  
+    - Do you think that the follow up Bostyn & Roets (2019) adequately addressed the criticism? Why or why not?

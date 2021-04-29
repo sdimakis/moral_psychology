@@ -100,6 +100,16 @@ h2{font-family: 'Crimson Text', serif;}
 
 }
 
+.navbar-toggle {
+    background-color: #e6f0ff;
+    border: 1px solid black
+  
+}
+
+.navbar-toggle:hover {
+    background-color: #ededed;
+}
+
   
  /* TOC black 12px font*/
 

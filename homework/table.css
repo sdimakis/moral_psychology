@@ -110,6 +110,18 @@ h2{font-family: 'Crimson Text', serif;
   
 }
 
+
+.navbar-toggle {
+    background-color: #e6f0ff;
+    border: 1px solid black
+  
+}
+
+.navbar-toggle:hover {
+    background-color: #ededed;
+}
+
+
   
  /* TOC black 12px font*/
 
@@ -156,20 +168,19 @@ white-space: nowrap;
 
 /* unvisited link */
 a:link {
-  color: black;
+  color: #b68fff;
 
 }
 
 /* unvisited link */
 a:visited {
-  color: black;
+  color: #b68fff;
 }
 
 /* mouse over link */
 a:hover {
   text-decoration: none;
-  background-color: #ffe5e8;
-
+  color: #e6f0ff;
 }
 
 
@@ -194,6 +205,7 @@ a:hover {
     font-size: 15px;
     font-weight: bold;
     padding: 3px 1em 3px;
+    color: black;
 
 
 
@@ -213,3 +225,10 @@ a:hover {
 display: none;
 }
 
+.fa-download {
+    color: #b68fff;
+}
+
+.fa-download:hover {
+    color: #e6f0ff;
+}

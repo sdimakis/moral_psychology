@@ -6,7 +6,7 @@ output:
     css: table.css
 ---
 
-***Instructions***: For this homework assignment, you will submit a rough draft of your term paper. Your rough draft doesn't need to be the full length of your final draft, or pass all of the grading criteria. However, you will be able to get better feedback on your draft if it is complete. You will receive feedback from both the instructor and a peer on this draft. You can access the full grading criteria for the term paper <u>[here](extra/final.html).</u> Please submit your draft to Canvas by Sunday at 11:59pm. I recommend this structure:
+***Instructions***: For this homework assignment, you will submit a rough draft of your term paper. Your rough draft doesn't need to be the full length of your final draft, or pass all of the grading criteria. However, you will be able to get better feedback on your draft if it is complete. You will receive feedback from both the instructor and a peer on this draft. You can access the full grading criteria for the term paper [here](extra/final.html). Please submit your draft to Canvas by Sunday at 11:59pm. I recommend this structure:
 
 ## Introduction (2-3 paragraphs)
 

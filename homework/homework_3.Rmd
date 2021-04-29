@@ -6,7 +6,7 @@ output:
     css: table.css
 ---
 
-***Instructions***: For this homework assignment, you will choose a research topic for your term paper and begin to outline your ideas. I recommend starting this assignment by reading the full instructions for the term paper, which you can access <u>[here](extra/final.html).</u> Upload your outline to Canvas by Sunday at 11:59pm.
+***Instructions***: For this homework assignment, you will choose a research topic for your term paper and begin to outline your ideas. I recommend starting this assignment by reading the full instructions for the term paper, which you can access [here](extra/final.html). Upload your outline to Canvas by Sunday at 11:59pm.
 
 The purpose of the outline is to help organize your paper and to get some feedback on your topic before you start writing. Your outline should not exceed one page double spaced. There is no minimum length, although the more detail you give in the outline, the more feedback you will receive at this stage. Your outline should contain three parts:
 

@@ -1,5 +1,8 @@
 ---
 title: "<b><center>Contact Instructor</b>"
+output: 
+  html_document: 
+    css: table.css
 ---
 <center><br>
 

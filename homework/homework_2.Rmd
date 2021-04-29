@@ -1,26 +1,26 @@
 ---
-title: "<b>Homework 2</b>"
-output:
-  html_document:
-    theme: cosmo
+title: "Homework 2"
+output: 
+  html_document: 
     css: table.css
+
 ---
 
 ***Instructions***: For this homework assignment, you are going to read a recent paper that found that hypothetical decision making in a trolley dilemma did not match actual decision making in a trolley dilemma. Please upload your homework to Canvas by 11:59pm on Sunday.
 
-1. Read [<u>this</u>](extra/Bostyn_2018.pdf) paper by Bostyn, Sevenhant, & Roets (2018). Write a short paragraph summarizing their findings.
+1. Read [this](extra/Bostyn_2018.pdf) paper by Bostyn, Sevenhant, & Roets (2018). Write a short paragraph summarizing their findings.
 
 2. Choose **ONE** of the following critiques of the Bostyn et al. (2018) paper. Write 1-2 sentences summarizing their argument.
 
-    - [Overlooked Evidence and a Misunderstanding of What Trolley Dilemmas Do Best](extra/Plunkett_2019.pdf)
+    - Overlooked Evidence and a Misunderstanding of What Trolley Dilemmas Do Best [Plunkett & Greene (2019)](extra/Plunkett_2019.pdf)
   
-    - [What Is the Right Question for Moral Psychology to Answer?](extra/Bialek_2019.pdf)
+    - What Is the Right Question for Moral Psychology to Answer? [Białek, Turpin, & Fugelsang (2019)](extra/Bialek_2019.pdf)
   
-    - [Comparing Hypothetical and Real-Life Trolley Problems](extra/Colman_2019.pdf)
+    - Comparing Hypothetical and Real-Life Trolley Problems [Colman, Gold, & Pulford (2019)](extra/Colman_2019.pdf)
   
-    - [Comparing the Effects of Hypothetical Moral Preferences on Real-Life and Hypothetical Behavior](extra/Evans_2019.pdf)
+    - Comparing the Effects of Hypothetical Moral Preferences on Real-Life and Hypothetical Behavior [Evans & Brandt (2019)](extra/Evans_2019.pdf)
   
-3. Read the section in [<u>this</u>](extra/Bostyn_2019.pdf) follow up paper that addresses the commentary that you read. Write 1-2 sentences summarizing Bostyn and Roets's rebuttal. 
+3. Read the section in [this](extra/Bostyn_2019.pdf) follow up paper by Bostyn and Roets (2019) that addresses the commentary that you read. Write 1-2 sentences summarizing Bostyn and Roets's rebuttal. 
 
 4. Finally, answer the following questions:
 

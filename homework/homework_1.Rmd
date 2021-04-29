@@ -10,7 +10,7 @@ output:
 
 1. Download [this](extra/HW1.docx) file and follow the instructions to take the Moral Foundations Questionnaire and the Moral Motives Scale.
 
-2. Calculate your scores with either [this](extra/hw1_scoresheet.xlsx) excel spreadsheet or  [this](https://docs.google.com/spreadsheets/d/1_EIxlBHgUpG2xh-bq0VIvqOq-fxPdwEu10x-gPHO2z8/edit#gid=0) Google spreadsheet. If you use the Google spreadsheet, I recommend clicking file -> make a copy so that you are not using the main copy to calculate your scores.
+2. Calculate your scores with either [this](extra/hw1_scoresheet.xlsx) excel spreadsheet or  [this](https://docs.google.com/spreadsheets/d/1_EIxlBHgUpG2xh-bq0VIvqOq-fxPdwEu10x-gPHO2z8/edit#gid=0) Google spreadsheet. If you use the Google spreadsheet, I recommend clicking file -> make a copy so that you are not using the main class copy to calculate your scores.
 
 3. The Moral Foundations Questionnaire 
     * Paste your scores for each of the five moral foundations. 

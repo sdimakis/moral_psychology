@@ -168,18 +168,19 @@ white-space: nowrap;
 
 /* unvisited link */
 a:link {
-  color: black;
+  color: #b68fff;
 
 }
 
 /* unvisited link */
 a:visited {
-  color: blue;
+  color: #b68fff;
 }
 
 /* mouse over link */
 a:hover {
   text-decoration: none;
+  color: #e6f0ff;
 }
 
 
@@ -204,6 +205,7 @@ a:hover {
     font-size: 15px;
     font-weight: bold;
     padding: 3px 1em 3px;
+    color: black;
 
 
 

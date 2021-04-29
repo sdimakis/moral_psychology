@@ -18,7 +18,7 @@ Term, meeting days and times, location of course
 </center>
 <br>
 
-You can download a copy of the syllabus <u>[here](syllabus.pdf).</u>
+You can download a copy of the syllabus [here](syllabus.pdf).
 
 
 
@@ -47,7 +47,7 @@ When you complete this course, you will earn **4 credits** toward your degree. F
 
 # Required readings
 
-There is no assigned textbook for this course. PDFs of each reading are posted on the course website under the <u>[Course Schedule](schedule.html)</u>
+There is no assigned textbook for this course. PDFs of each reading are posted on the course website under the [Course Schedule](schedule.html)
  tab. Readings should be completed before the class date indicated on the schedule. 
 
 # Grading {.tabset .tabset-pills}

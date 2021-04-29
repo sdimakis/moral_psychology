@@ -1,0 +1,31 @@
+---
+title: "Convert html slides to pdf"
+author: "Sarah Dimakis"
+date: "4/29/2021"
+output: html_document
+---
+
+
+```{r, eval = FALSE}
+pagedown::chrome_print(here::here("lectures", "1a_introduction.html"))
+pagedown::chrome_print(here::here("lectures", "1b_defining_morality.html"))
+pagedown::chrome_print(here::here("lectures", "2a_evolution.html"))
+pagedown::chrome_print(here::here("lectures", "2b_development.html"))
+pagedown::chrome_print(here::here("lectures", "3a_reasoning.html"))
+pagedown::chrome_print(here::here("lectures", "3b_intuitionism.html"))
+pagedown::chrome_print(here::here("lectures", "4a_character_judgments.html"))
+pagedown::chrome_print(here::here("lectures", "4b_blame_attribution.html"))
+pagedown::chrome_print(here::here("lectures", "5a_games.html"))
+pagedown::chrome_print(here::here("lectures", "5b_altruism.html"))
+pagedown::chrome_print(here::here("lectures", "6a_lying.html"))
+pagedown::chrome_print(here::here("lectures", "7a_identity.html"))
+pagedown::chrome_print(here::here("lectures", "7b_maintenance.html"))
+pagedown::chrome_print(here::here("lectures", "8a_emotions1.html"))
+pagedown::chrome_print(here::here("lectures", "8b_emotions2.html"))
+pagedown::chrome_print(here::here("lectures", "9a_convictions.html"))
+pagedown::chrome_print(here::here("lectures", "9b_religion.html"))
+pagedown::chrome_print(here::here("lectures", "10a_politics1.html"))
+pagedown::chrome_print(here::here("lectures", "10b_politics2.html"))
+
+```
+

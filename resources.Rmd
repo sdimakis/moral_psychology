@@ -42,38 +42,53 @@ output:
     color: #e6f0ff;
 }
 
+.fa-globe {
+    color: #61a0ff;
+}
+
+
+.fa-globe:hover {
+    color: #e6f0ff;
+}
+
+
 ```
 
 # Recommended books
 
-For books about moral psychology and moral philosophy for a general audience:
+Books about moral psychology and moral philosophy, mostly for a general audience.
 
-- **The (Honest) Truth About Dishonesty** *Dan Ariely*
+- **The (Honest) Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves** *Dan Ariely* [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/13426114-the-honest-truth-about-dishonesty)
 
-- **Just Babies & Against Empathy** *Paul Bloom*
+- **Just Babies: The Origins of Good and Evil** *Paul Bloom* [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/17380034-just-babies)
 
-- **Telling Lies** *Paul Ekman*
+- **Against Empathy: The Case for Rational Compassion** *Paul Bloom*  [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/29100194-against-empathy)
 
-- **Moral Tribes** *Joshua Greene*
+- **Telling Lies: Clues to Deceit in the Marketplace, Politics, and Marriage** *Paul Ekman* [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/252429.Telling_Lies)
 
-- **The Righteous Mind & The Happiness Hypothesis** *Jonathon Haidt*
+- **Moral Tribes: Emotion, Reason, and the Gap Between Us and Them** *Joshua Greene* [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/17707599-moral-tribes)
 
-- **Moral minds** *Marc Hauser*
+- **The Righteous Mind: Why Good People Are Divided by Politics and Religion** *Jonathon Haidt* [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
 
-- **Moral Politics: How Liberals and Conservatives Think** *George Lakoff*
+- **The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom** *Jonathon Haidt*  [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/96884.The_Happiness_Hypothesis)
 
-- **Justice: What's the right thing to do?** *Michael Sandel*
+- **Moral minds: How Nature Designed Our Universal Sense of Right and Wrong** *Marc Hauser* [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/135663.Moral_Minds)
 
-- **Primates and Philosophers** *Frans de Waal*
+- **Moral Politics: How Liberals and Conservatives Think** *George Lakoff* [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/19134.Moral_Politics)
 
-- **The moral animal** *Robert Wright*
+- **Justice: What's the right thing to do?** *Michael Sandel* [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/6452731-justice)
 
-- **The Lucifer Effect** *Philip Zimbardo* 
+- **Primates and Philosophers: How Morality Evolved** *Frans de Waal* [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/192412.Primates_and_Philosophers)
 
-- **What It Means to Be Moral** *Phil Zuckerman*
+- **The moral animal: Why We Are the Way We Are - The New Science of Evolutionary Psychology** *Robert Wright* [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/681941.The_Moral_Animal)
+
+- **The Lucifer Effect: Understanding How Good People Turn Evil** *Philip Zimbardo* [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/359194.The_Lucifer_Effect)
+
+- **What It Means to Be Moral: Why Religion Is Not Necessary for Living an Ethical Life** *Phil Zuckerman* [<i class="fas fa-globe"></i>](https://www.goodreads.com/book/show/44643009-what-it-means-to-be-moral)
 
 
 # Recommended talks
+TED talks about moral psychology and moral philosophy.
 
 - **Our buggy moral code** *Dan Ariely* [<i class="fa fa-video"></i>](https://www.ted.com/talks/dan_ariely_our_buggy_moral_code?language=en)
 
@@ -83,7 +98,6 @@ For books about moral psychology and moral philosophy for a general audience:
 
 - **Science can answer moral questions** *Sam Harris* [<i class="fa fa-video"></i>](https://www.ted.com/talks/sam_harris_science_can_answer_moral_questions)
 
-
 - **Progress is not a zero sum game** *Robert Wright* [<i class="fa fa-video"></i>](https://www.ted.com/talks/robert_wright_progress_is_not_a_zero_sum_game)
 
 - **The surprising decline in violence** *Steven Pinker* [<i class="fa fa-video"></i>](https://www.ted.com/talks/steven_pinker_the_surprising_decline_in_violence?language=en)
@@ -91,6 +105,7 @@ For books about moral psychology and moral philosophy for a general audience:
 - **The strange politics of disgust** *David Pizarro* [<i class="fa fa-video"></i>](https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust?language=en)
 
 # Recommended podcasts
+Podcasts from moral psychologists, moral philosophers, or psychologists that frequently discuss moral issues. These podcasts range from very academic to very causal. 
 
 - **The Moral Science Podcast** *Amber Cazzell* [<i class="fab fa-apple"></i>](https://podcasts.apple.com/us/podcast/the-moral-science-podcast/id1468695145) [<i class="fab fa-spotify"></i>](https://open.spotify.com/show/0GaXHC2UcuErWfKlMl3dcf) [<i class="fab fa-google"></i>](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iZGRjYmM4L3BvZGNhc3QvcnNz?hl=en)
 

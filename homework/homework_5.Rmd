@@ -7,7 +7,7 @@ output:
 ---
 
 
-***Instructions***: An important part of research is getting and giving feedback. For this assignment, you will read a classmate's paper and give them <u>constructive</u> feedback. You can access the grading criteria <u>[here](extra/final.html).</u> Please keep your tone as helpful and kind as possible - we are all learning to be better writers! The peer review consists of two parts (make sure to submit both parts to Canvas by Sunday at 11:59pm for full credit):
+***Instructions***: An important part of research is getting and giving feedback. For this assignment, you will read a classmate's paper and give them <u>constructive</u> feedback. You can access the grading criteria [here](extra/final.html). Please keep your tone as helpful and kind as possible - we are all learning to be better writers! The peer review consists of two parts (make sure to submit both parts to Canvas by Sunday at 11:59pm for full credit):
 
 1. Leave comments on the text (preferably with word track changes)
 
